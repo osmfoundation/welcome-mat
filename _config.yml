@@ -1,0 +1,33 @@
+permalink: /:categories/:title/
+baseurl: /welcome-mat
+title: Welcome Mat | OpenStreetMap
+markdown: kramdown
+kramdown:
+  input: GFM
+exclude:
+- package.json
+- node_modules
+- README.MD
+- CONTRIBUTING.md
+- test
+
+languages:
+  en: English # abbreviation: Name of native language
+
+defaults:
+- scope:
+    path: "" # an empty string here means all files in the project
+    type: "posts"
+  values:
+    layout: "post"
+# DEFAULT ENGLISH
+- scope:
+    path: ""
+    type: "pages"
+  values:
+    lang: "en"
+- scope:
+    path: ""
+    type: "posts"
+  values:
+    lang: "en"

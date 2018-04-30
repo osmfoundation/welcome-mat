@@ -1,0 +1,142 @@
+<!DOCTYPE html >
+<html>
+<head>
+  <meta http-equiv='content-type' content='text/html; charset=utf-8' />
+  <meta charset='UTF-8'/>
+  <meta http-equiv='X-UA-Compatible' content='IE=edge' />
+  <meta name='robots' content='{% if page.hidden %}noindex{% else %}index{% endif %}'/>
+  <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+  <meta name='apple-mobile-web-app-capable' content='yes' />
+  {% if page.description %}<meta name='description' content='{{page.description | strip_html}}'/>{% endif %}
+  <title>{% if page.title == 'OpenStreetMap' %}{{page.title}} | Welcome Mat{% else %}{{page.title}} | OpenStreetMap{% endif %}</title>
+  <meta class='swiftype' name='title' data-type='string' content='{{page.title | escape | replace:"| OpenStreetMap",""}}' />
+  <meta class='swiftype' name='type' data-type='enum' content='{% if layout.section %}{{layout.section}}{% elsif page.section %}{{page.section}}{% elsif page.category %}{{page.category}}{% else %}site{% endif %}' />
+  <meta class='swiftype' name='info' data-type='string' content='{% if page.version %}{{page.version}}{% else %}site{% endif %}' />{% if page.date and site.baseurl == '/blog' %}
+  <meta class='swiftype' name='published_at' data-type='date' content='{{ page.date | date_to_xmlschema }}' />{% endif %}{% if page.tags %}
+  {% for tags in page.tags %}<meta class='swiftype' name='tags' data-type='string' content='{{tags}}' />
+  {% endfor %}{% endif %}{% if page.category and page.category !='none' %}
+  <meta class='swiftype' name='category' data-type='string' content='{{page.category}}' />{% endif %}{% if page.author %}
+  <meta class='swiftype' name='author' data-type='string' content='{{page.author}}' />{% endif %}{% if page.excerpt or page.description %}
+  <meta class='swiftype' name='excerpt' data-type='string' content='{% if page.description %}{{ page.description | strip_html | strip_newlines | escape | truncatewords: 30 }}{% else %}{{ page.excerpt | strip_html | strip_newlines | escape | truncatewords: 30 }}{% endif %}' />{% endif %}
+  {% if page.card %}
+  <meta name='twitter:site' content='@osmfoundation' />
+  <meta property='og:site_name' content='OpenStreetMap' />
+  <meta name='twitter:url' content='{{site.url}}{{site.baseurl}}{% if page.permalink %}{{page.permalink}}{% else %}{{page.url | replace:"index.html",""}}{% endif %}' />
+  <meta property='og:url' content='{{site.url}}{{site.baseurl}}{% if page.permalink %}{{page.permalink}}{% else %}{{page.url | replace:"index.html",""}}{% endif %}' />
+  <meta name='twitter:title' content='{{page.title | replace:"'","&rsquo;" | replace:"'","&rsquo;"}}' />
+  <meta property='og:title' content='{{page.title | replace:"'","&rsquo;" | replace:"'","&rsquo;"}}' />
+  <meta name='twitter:description' content='{% if page.description %}{{ page.description | truncatewords: 30 }}{% elsif page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | replace:"'","&rsquo;" | replace:"'","&rsquo;" | truncatewords: 30 }}{% else %}{{content | strip_html | truncatewords: 30 }}{% endif %}' />
+  <meta property='og:description' content='{% if page.description %}{{ page.description | truncatewords: 30 }}{% elsif page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | replace:"'","&rsquo;" | replace:"'","&rsquo;" | truncatewords: 30 }}{% else %}{{content | strip_html | truncatewords: 30 }}{% endif %}' />
+
+  {% endif %}
+  {% if page.video %}
+  <meta name='twitter:card' content='player' />
+  <meta name='twitter:player' content='{{page.video | replace: "http:" , "https:" }}' />
+  <meta name='twitter:player:width' content='640' />
+  <meta name='twitter:player:height' content='480' />
+  <meta property='og:type' content='video.other' />
+  <meta property='og:video' content='{{page.video}}' />
+  <meta property='og:video:width' content='640' />
+  <meta property='og:video:height' content='480' />
+  {% elsif page.image %}
+  <meta name='twitter:image' content='{{page.image | replace:"https:","http:"}}' />
+  <meta name='st:image' content='{{page.image | replace:"https:","http:"}}' />
+  <meta property='og:image' content='{{page.image | replace:"https:","http:"}}' />
+  <meta name='twitter:card' content='summary_large_image' />
+  <meta property='og:type' content='website' />
+  {% endif %}
+  <meta name="p:domain_verify" content="57838af58c8045c2c024bc2f9d1577f9"/>
+
+  <!-- FIX -->
+  <link href="https://www.mapbox.com/base/latest/base.css?v1.0" rel="stylesheet" />
+  <link href="https://122e4e-mapbox.global.ssl.fastly.net/css/site.css" rel="stylesheet" />
+
+  <!--[if IE 9]><link href='{{site.url}}/css/site-ie9.css' rel='stylesheet' /><![endif]-->
+  <link rel='shortcut icon' href='{{site.url}}/img/favicon.ico' type='image/x-icon' />
+  <link rel='alternate' type='application/rss+xml' title='RSS' href='{{site.url}}/blog/blog.rss' />
+
+  {% if site.test %}<script src='{{site.url}}/test/tape.js'></script>{% endif %}
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.1/jquery.js'></script>
+  <link rel="stylesheet" href="/welcome-mat/site.css" />
+  {% if page.head %}{{page.head}}{% endif %}{% if layout.head %}{{layout.head}}{% endif %}
+</head>
+<body class='{{page.class}} {{page.options}} {{layout.class}} {{layout.options}}'>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PQR37Z" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-PQR37Z');</script>
+<!-- End Google Tag Manager -->
+
+<!-- set lang variable -->
+{% if page.lang %}{% assign lang = page.lang %}{% endif %}
+
+<div class="about fill-purple dark" id="about-container">
+  <div class="limiter pad4 prose">
+  <h2>Mapbox <span class="icon heart"></span> OpenStreetMap</h2>
+  {% assign intro = "intro/" | append: lang | append: ".html" %}{% include {{intro}} %}
+  </div>
+</div>
+
+<div class="fill-green pad4y">
+<div class='limiter clearfix contain'>
+<a href="#" class="pin-topright" id="about"><span class="icon big info" id="about-icon"></span></a>
+  <div class="pad2y fl">
+    <a href="{{site.baseurl}}/{% if page.lang != 'en' %}{{page.lang}}/{% endif %}" class="fl" style="width: 60px; margin-right: 20px;">
+      {% include svgs/logo.svg %}
+    </a>
+    <div class="fl">
+    <h1 class="human">{{page.title}}</h1>
+    <p class="quiet space-top0">Find what you need in the OSM community</p>
+    </div>
+  </div>
+  <div class="fr">
+    {% for lang in site.languages %}
+      {% if lang[0] != page.lang %}
+      <a class="button fill-lighten0 pad2x space-top4" href="{{site.baseurl}}/{{lang[0]}}/">{{lang[1]}}</a>
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>
+</div>
+
+
+<div class='page-content'>
+
+<div class='{% unless page.options contains 'full' or layout.options contains 'full' %} limiter clearfix{% endunless %}'>{{content}}</div>
+
+<div class='fill-green footer-in-docs terms-in-docs col12 center footer-copyright small pad4 noprint contain' data-swiftype-index='false'>
+  CC-by OpenStreetMap
+</div>
+</div>
+
+<script src="{{site.baseurl}}/js/classie.js"></script>
+
+<script type="text/javascript">
+
+var aboutContainer = document.getElementById( 'about-container' ),
+about = document.getElementById( 'about' ),
+aboutIcon = document.getElementById( 'about-icon' ),
+body = document.body;
+
+about.onclick = function(e) {
+  e.stopPropagation();
+  e.preventDefault();
+  classie.toggle( aboutContainer, 'open' );
+  classie.toggle( aboutIcon, 'close' );
+  classie.toggle( aboutIcon, 'info' );
+};
+
+body.addEventListener("click", function () {
+  if (aboutContainer.classList.contains('open')) {
+    classie.toggle( aboutContainer, 'open' );
+    classie.toggle( aboutIcon, 'close' );
+    classie.toggle( aboutIcon, 'info' );
+  }
+}, false);
+
+aboutContainer.addEventListener("click", function (ev) {
+    ev.stopPropagation();
+}, false);
+
+</script>
+
+</body>
+</html>
