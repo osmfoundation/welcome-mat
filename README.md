@@ -1,6 +1,6 @@
 ## Contributing
 
-Read the [contributing guide](./blob/mb-pages/CONTRIBUTING.md) to learn how to add or edit any content.
+Read the [contributing guide](./blob/gh-pages/CONTRIBUTING.md) to learn how to add or edit any content.
 
 ## Build
 
