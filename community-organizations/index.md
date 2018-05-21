@@ -1,7 +1,7 @@
 ---
 title: What Communities and Organizations make up OpenStreetMap?
 layout: category
-order: 2
+order: 11
 color: red
 # these section refer to the subfolders in _posts/
 # the subfolder names and the section list names must match exactly
