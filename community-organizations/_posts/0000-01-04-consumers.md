@@ -4,7 +4,7 @@ title: Who uses OpenStreetMap?
 
 A number of companies, organizations and nonprofits use OpenStreetMap in many ways: using OpenStreetMap as their basemap, using the OSM data for routing or navigation, using OSM data for GIS analysis, such as planning or logistics for humanitarian groups, utilities, governments and more.
 
-## Private Companies
+## Companies
 * Facebook
 * Microsoft
 * Apple
@@ -17,9 +17,6 @@ A number of companies, organizations and nonprofits use OpenStreetMap in many wa
 * Garmin
 * CARTO
 * Uber
-* Lyft??
-* Here??
-* Flickr??
 * Snapchat
 * Pinterest
 
@@ -47,7 +44,7 @@ A number of companies, organizations and nonprofits use OpenStreetMap in many wa
 * Concern Worldwide
 * MapAction
 * Pan American Development Foundation
-* See Missing Maps for more partners
+* See <a href="https://www.missingmaps.org">missingmaps.org</a> for more partners
 
 ## Education
 * Heidelberg University

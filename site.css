@@ -14,7 +14,7 @@
 
 
 .human {
-  font-family: CoreHumanistSans, 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 800;
   -webkit-font-smoothing: antialiased;
   color: #4b5e7f;
@@ -50,7 +50,7 @@ h3.human {
 }
 
 h1, h2 {
-  font-family: CoreHumanistSans, 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 800;
   -webkit-font-smoothing: antialiased;
 }
@@ -99,6 +99,9 @@ svg {
 .fill-purple-light { background-color: #f2f3fc !important; }
 .color-purple-light   { color: #f2f3fc !important; }
 .fill-purple   { background-color: #7588bc !important; }
+
+.fill-green { background-color: #7ebc6f !important; }
+.fill-blue { background-color: #7092FF !important; }
 
 .fill-notice    { background-color: #f0f8fc; }
 
@@ -556,7 +559,7 @@ ul.category-list li a:hover {
     color: #3E3E4E !important;
 }
 .toc ul li.h2 a {
-  font-family: CoreHumanistSans, 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 800;
   -webkit-font-smoothing: antialiased;
   font-size: 18px;
@@ -1200,7 +1203,7 @@ pre.pre-guides:before {
 }
 
 .card-content {
-    min-height: 240px;
+    min-height: 120px;
   }
 
 
