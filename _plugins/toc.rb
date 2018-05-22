@@ -8,7 +8,7 @@ module Toc
       if level == 'h2'
         output << %{<li class="#{level} space-top1"><a href="##{id}" class="strong block pad1x" title="#{title}">#{title}</a></li>}
       else
-        output << %{<li class="#{level}"><a href="##{id}" class="block pad1x" title="#{title}">#{title}</a></li>}
+
       end
     end
     output << '</ul>'

@@ -1,8 +1,8 @@
 ---
-title: What Communities and Organizations make up OpenStreetMap?
+title: About the OpenStreetMap Community
 layout: category
 order: 11
-color: red
+color: blue
 # these section refer to the subfolders in _posts/
 # the subfolder names and the section list names must match exactly
 # these are not case sensitive
@@ -10,8 +10,6 @@ color: red
 # - Mapping
 # - JOSM
 # - Reference
-description: What organizations make up OpenStreetMap
+description: About the OpenStreetMap Community
 image: becoming-a-power-mapper.svg
 ---
-
-What organizations make up OpenStreetMap
