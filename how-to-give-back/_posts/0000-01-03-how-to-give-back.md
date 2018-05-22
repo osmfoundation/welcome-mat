@@ -11,7 +11,9 @@ title: How can we give back?
 
 ## Why other ways can we contribute?
 
-* Becoming a member or supporter helps contribute to sustainability of the project (reference other organisations that are doing that)
+* Becoming a <a href="{{site.baseurl}}/about-osm-community/donate-to-osm/">member or supporter</a> helps contribute to sustainability of the project (reference other organisations that are doing that)
 * Contributing imagery or other data such as GPS traces can help improve the map for all and provide a means for the community to use that information to collect new data
 * There’s also a range of supporting open source infrastructure which would benefit from contribution and support from wider community
 * There is also a need for advocacy about OpenStreetMap, training, community engagement and more. You can contribute to OpenStreetMap without actually editing the map
+
+If you are interested in contributing, please contact the <a href="mailto:advisoryboard(at)osmfoundation.org">OSM Advisory Board</a>
