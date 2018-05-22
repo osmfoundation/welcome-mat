@@ -9,8 +9,7 @@ Nonetheless, as OSM compares to the traditional map provider data, and OSM is no
 The one thing that is certain about OSM, is it is constantly improving in all regions.
 
 Links below demonstrate some of the statistics that are relevant to make a comparison with third party data.
-<ul>
-	<li><a href="http://www.missingmaps.org/osmstats/">http://www.missingmaps.org/osmstats/</a></li>
-	<li><a href="https://mapbox.github.io/osm-analysis-collab/osm-quality">https://mapbox.github.io/osm-analysis-collab/osm-quality</a></li>
-	<li><a href="https://povesham.wordpress.com/2009/11/14/openstreetmap-and-ordnance-survey-meridian-2-progress-maps/">https://povesham.wordpress.com/2009/11/14/openstreetmap-and-ordnance-survey-meridian-2-progress-maps/</a></li>
-</ul>
+
+- [http://www.missingmaps.org/osmstats/](http://www.missingmaps.org/osmstats/){:target="_blank"}
+- [https://mapbox.github.io/osm-analysis-collab/osm-quality](https://mapbox.github.io/osm-analysis-collab/osm-quality){:target="_blank"}
+

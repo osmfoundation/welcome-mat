@@ -1357,3 +1357,7 @@ pre.pre-guides:before {
       max-height: 140px;
     }
 }
+
+.prose h1, .prose h2 {
+  padding-top: 20px;
+}
