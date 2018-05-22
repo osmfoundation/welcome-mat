@@ -44,13 +44,14 @@ A number of companies, organizations and nonprofits use OpenStreetMap in many wa
 * Concern Worldwide
 * MapAction
 * Pan American Development Foundation
-* See <a href="https://www.missingmaps.org">missingmaps.org</a> for more partners
+* See [missingmaps.org](https://www.missingmaps.org){:target="_blank"} for more humanitarian OSM partners
 
 ## Education
 * Heidelberg University
 * University of Maryland
 * George Washington University
-* YouthMappers
+* Texas Tech University
+* [YouthMappers](https://www.youthmappers.org){:target="_blank"}, a network of student OpenStreetMap clubs
 
 ## News and Media
 * New York Times
@@ -58,3 +59,5 @@ A number of companies, organizations and nonprofits use OpenStreetMap in many wa
 * Wall Street Journal
 * National Geographic
 * BBC
+
+And many more!
