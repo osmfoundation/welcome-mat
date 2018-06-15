@@ -2,7 +2,7 @@ More information on how this came about [here](https://docs.google.com/document/
 
 ## Contributing
 
-Read the [contributing guide](./blob/mb-pages/CONTRIBUTING.md) to learn how to add or edit any content.
+Read the [contributing guide](CONTRIBUTING.md) to learn how to add or edit any content.
 
 ## Build
 
