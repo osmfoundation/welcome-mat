@@ -48,16 +48,16 @@
   <meta name="p:domain_verify" content="57838af58c8045c2c024bc2f9d1577f9"/>
 
   <!-- FIX -->
-  <link href="css/base.css" rel="stylesheet" />
-  <link href="css/base2.css" rel="stylesheet" />
+  <link href="{{site.baseurl}}/css/base.css" rel="stylesheet" />
+  <link href="{{site.baseurl}}/css/base2.css" rel="stylesheet" />
 
   <!--[if IE 9]><link href='{{site.url}}/css/site-ie9.css' rel='stylesheet' /><![endif]-->
-  <link rel='shortcut icon' href='{{site.url}}/img/favicon.ico' type='image/x-icon' />
-  <link rel='alternate' type='application/rss+xml' title='RSS' href='{{site.url}}/blog/blog.rss' />
+  <link rel='shortcut icon' href='{{site.baseurl}}/img/favicon.ico' type='image/x-icon' />
+  <!-- <link rel='alternate' type='application/rss+xml' title='RSS' href='{{site.url}}{{site.baseurl}}/blog/blog.rss' /> -->
 
-  {% if site.test %}<script src='{{site.url}}/test/tape.js'></script>{% endif %}
+  {% if site.test %}<script src='{{site.baseurl}}/test/tape.js'></script>{% endif %}
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.1/jquery.js'></script>
-  <link rel="stylesheet" href="css/site.css" />
+  <link rel="stylesheet" href="{{site.baseurl}}/css/site.css" />
   {% if page.head %}{{page.head}}{% endif %}{% if layout.head %}{{layout.head}}{% endif %}
 </head>
 <body class='{{page.class}} {{page.options}} {{layout.class}} {{layout.options}}'>
