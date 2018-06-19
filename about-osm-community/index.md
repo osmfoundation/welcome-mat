@@ -11,5 +11,5 @@ color: blue
 # - JOSM
 # - Reference
 description: About the OpenStreetMap Community
-image: becoming-a-power-mapper.svg
+image: 
 ---

@@ -5,9 +5,9 @@ title: Why use OpenStreetMap?
 ## Free and Open
 OpenStreetMap is published under an open licence, that allows anyone to access, use and share the data. This creates a level playing field allowing a diverse variety of individuals, communities and organisations to contribute towards creating a shared resource.
 ## Global Reach
-OpenStreetMap provides global map data in a unified schema, although there is no standardization. Data is available for every country in the world, and in many places, the data quality is excellent. And since it’s open, you can also help improve quality.
+OpenStreetMap provides global map data in a unified tagging schema, although there are some local variations. Data is available for every country in the world, and in many places, the data quality is excellent. And since it’s open, you can also help improve quality.
 ## Local Knowledge
-OpenStreetMap emphasizes local knowledge and empowers people across the globe to edit. The barrier to entry is low, and there are many ways to contribute that do not require access to the latest technology. The result is a map made up of local experts.
+OpenStreetMap emphasizes local knowledge and empowers people across the globe to edit. The barrier to entry is low, and there are many ways to contribute that do not require access to the latest technology. The result is a map made by local experts.
 ## Continuous updates
 OpenStreetMap has no data releases. Contributions to the map are ingested immediately. You determine how fresh you want your OpenStreetMap data, up to the minute if needed.
 ## Agency

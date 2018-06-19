@@ -26,8 +26,10 @@ The OSM Foundation Working Groups are volunteers who manage and run various aspe
 ### State of the Map Organizing Committee
 * Organizing and executing the annual worldwide OpenStreetMap Foundation Conference, "State of the Map"
 
+<!--
 ### Local Chapters Working Group
 * Responsible for running the process of setting up OSM Foundation local chapters.
+-->
 
 ### Membership Working Group
 * Administering the membership database

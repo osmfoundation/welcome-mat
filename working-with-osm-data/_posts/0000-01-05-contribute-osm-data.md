@@ -2,34 +2,8 @@
 title: Organized Editing in OpenStreetMap
 ---
 
-There are some guidelines and best practices for organized editing of OpenStreetMap, which are based on experiences from several companies and organizations. The goal is to standardize around a set of practices that encourage involvement in OpenStreetMap, contribute high quality mapping data, provide transparency around practices and provide support for and cooperation with local and global OSM communities.  
+OpenStreetMap is a project powered by its community. While originally supported by individuals, the continuing growth and popularity of OSM have also spawned organized mapping efforts. These have taken shape in the form of not only companies setting up paid data teams to improve OSM data in specific regions or for specific use cases, but also unpaid groups like school classes that are directed to work on OSM.
 
-## What is Organized Editing?
+Organized mapping efforts are an integral part of today's OSM contribution landscape and, when done well, help make OSM better and more widely known.
 
-* An institution directs editing activities in OpenStreetMap for which the mappers have some form of direct benefit.
-  * That benefit could include remuneration, fulfilling an academic or course obligation, or some other tangible exchange.
-* Situations like mapping parties, mapathons or workshops typically would not qualify if individuals are engaging with a group in order to only gain experience, volunteer, contribute, and learn.
-
-## Best Practices For Organized Editing
-### Declare affiliations
-
-Be visible as a group and as individuals -- say who you are. This helps the community understand who is participating and why.
-
-* Have a visible presence in the OSM community, such as a GitHub page
-* List the OSM accounts associated with a team
-* Declare organizational affiliations in mapper profile pages
-* Designate a public lead or leads
-
-### Communicate and be contactable
-
-* Messages and comments should get prompt responses
-* Designated leads should be reachable and responsive
-* Publish relevant details on mapping projects and invite input
-* Proactively reach out and develop relationships with local communities where you plan to work
-* Share accomplishments and results periodically with the OSM community
-* Established organized editing teams should help onboard new organized editing teams and share best practices with them
-
-### Quality Control
-
-* For group editing, have integrated quality assurance processes that reflect the types of quality control you would expect for your organization
-* Implement and share quality assurance tools and processes
+In order to maintain good communications between, and a level playing field for, individual community members and organized editing groups, there is active policy under development to cover [directed, paid, and organized editing](https://wiki.openstreetmap.org/wiki/Directed_Editing_Policy). The scope is to set expectations on visibility of mapping efforts and how to communicate with and be reachable by the broader community. A draft policy produced by the Data Working Group has [been shared](https://wiki.osmfoundation.org/wiki/Directed_Editing_Policy) but not officially adopted yet. The Advisory Board has also developed and shared their [organized editing best practice](https://wiki.openstreetmap.org/wiki/Organized_Editing_Best_Practice).

@@ -2,7 +2,7 @@
 title: How good is OSM data?
 ---
 
-This is difficult to answer with a simple answer, but “good” should be a starting point.  OSM data is created by local communities made up of individual mappers so their activity level often dictates the quality of the map.  Also, some governments have opened up their data sets to OSM giving those regions a potentially higher level of data quality due to the foundational imports which have been further curated.
+This is difficult to answer with a simple answer, but “good” should be a starting point.  OSM data is created by local communities made up of individual mappers so their activity level often dictates the quality of the map.  Also, in some regions, open government data is available to mappers for improving OSM.
 
 Nonetheless, as OSM compares to the traditional map provider data, and OSM is now often as good or better as what is commercially available. This is  evidenced by increased government and corporate usage and contribution.
 
@@ -12,4 +12,3 @@ Links below demonstrate some of the statistics that are relevant to make a compa
 
 - [http://www.missingmaps.org/osmstats/](http://www.missingmaps.org/osmstats/){:target="_blank"}
 - [https://mapbox.github.io/osm-analysis-collab/osm-quality](https://mapbox.github.io/osm-analysis-collab/osm-quality){:target="_blank"}
-
