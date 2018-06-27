@@ -9,7 +9,7 @@ title: How can we give back?
 * OSM is a shared platform to contribute and collaborate with others
 * Broader social good of contributing to a global map
 
-Here are some [general guidelines](https://wiki.openstreetmap.org/wiki/How_We_Map){:target="_blank"} for contributing. If you are thinking about importing an existing data set, [read our import guidelines closely](https://wiki.openstreetmap.org/wiki/Import/Guidelines){:target="_blank"}
+Here are some [general guidelines](https://wiki.openstreetmap.org/wiki/How_We_Map){:target="_blank"} for contributing. If you are thinking about importing an existing data set, [read our import guidelines closely](https://wiki.openstreetmap.org/wiki/Import/Guidelines){:target="_blank"} and particularly note [license compatibility](https://wiki.openstreetmap.org/wiki/Import/Guidelines#Step_3_-_License_approval).
 
 ## What other ways can we contribute?
 
