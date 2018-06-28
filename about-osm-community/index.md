@@ -10,6 +10,8 @@ color: blue
 # - Mapping
 # - JOSM
 # - Reference
-description: About the OpenStreetMap Community
-image: 
+description: Getting in touch, history, joining and more
+image: SOTM_Africa_2017_balcony_group_photo.jpg
 ---
+
+/* image by Geoffrey Kateregga */
