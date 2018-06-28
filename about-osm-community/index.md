@@ -12,6 +12,5 @@ color: blue
 # - Reference
 description: Getting in touch, history, joining and more
 image: SOTM_Africa_2017_balcony_group_photo.jpg
+image_credit: by Geoffrey Kateregga
 ---
-
-/* image by Geoffrey Kateregga */
