@@ -53,6 +53,7 @@ Here is a non-exhaustive list of some big organizations that use OpenStreetMap, 
 * See [missingmaps.org](https://www.missingmaps.org){:target="_blank"} for more humanitarian OSM partners
 
 ## Education
+* Cambridge University
 * Heidelberg University
 * University of Maryland
 * George Washington University
