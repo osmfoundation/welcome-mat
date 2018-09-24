@@ -7,65 +7,88 @@ OpenStreetMap is used by people all over the world -- individuals, volunteers, c
 Here is a non-exhaustive list of some big organizations that use OpenStreetMap, to give you an idea of the breadth of OSM consumers. There are also many medium and small businesses, individuals and personal projects that use OpenStreetMap.
 
 ## Companies
-* Facebook
-* Microsoft
-* Apple
+
+* [Air France](https://wiki.openstreetmap.org/wiki/File:Air_France_seatback_map_display.jpg){:target="_blank"}
+* [Alaska Airlines](https://twitter.com/openstreetmapes/status/554009623062388736){:target="_blank"}
 * Amazon
+* Apple
 * Baidu Maps
-* Telenav
-* Pokemon Go
-* Wikipedia
-* Mapbox
-* ESRI
+* CARTO
+* [Deutsche Bahn](https://wiki.openstreetmap.org/wiki/File:OpenStreetMap_in_an_IC2_carriage_(DB).jpg){:target="_blank"}
 * Digital Globe
+* ESRI
+* Facebook
 * Foursquare
 * Garmin
-* CARTO
-* Uber
-* Snapchat
+* Grab
+* Mapbox
+* Microsoft
 * Pinterest
+* Pokemon Go
+* Snapchat
+* SNCF (French rail agency)
+* Telenav
+* Uber
+* [Wikipedia and Wikimedia](https://blog.wikimedia.org/2018/06/28/interactive-maps-now-in-your-language/){:target="_blank"}
 
 ## Government
-* Statistics Canada
-* SNCF (French rail agency)
-* Agence Française de Développement
-* Government of Norway public transit agency
-* Government of Lithuania
-* Government of Uruguay Ministry of Social Development
-* Government of Lesotho
-* US State Department, USAID, Peace Corps
-* New York City Government
-* Portland, Oregon transit agency
-* Indonesia’s Disaster Management Agency
-* City of Jakarta Government
+
+* Agence Française de Développement (French Development Agency)
+* City of [Belem, Brazil](http://www.kdaberlinda.pa.gov.br/mapa_app/){:target="_blank"}
+* City of Jakarta, Indonesia Government
 * French Gendarmerie and Police
+* Government of Brazil, [Environment Ministry](https://www.ibama.gov.br/siema/){:target="_blank"} and [Planning Ministry](http://www.visualizador.inde.gov.br){:target="_blank"}
+* [Government of France National Address Database](https://adresse.data.gouv.fr){:target="_blank"}
+* Government of Italy: [President's Office](http://www.governo.it/mappa-del-presidente){:target="_blank"}
+* Government of Lesotho
+* Government of Lithuania
+* Government of Norway public transit agency
+* Government of Uruguay Ministry of Social Development
+* Indonesian Disaster Management Agency
+* [Italian Carabinieri](http://www.carabinieri.it/cittadino/informazioni/dove-siamo){:target="_blank"}
+* Krakow, Poland transit agency
+* Malaga, Spain transit agency
+* New York City, USA Government
+* [Police Scotland](http://www.scotland.police.uk/your-community/edinburgh/){:target="_blank"}
+* Portland, Oregon, USA transit agency
+* Rennes, France transit agency
+* Statistics Canada
+* Uganda Bureau of Statistics
+* US National Park Service
+* US State Department, USAID, Peace Corps
 
 ## Humanitarian Sector
-* United Nations
-* World Bank
-* International Red Cross Red Crescent Societies (IFRC) and the International Committee of Red Cross (ICRC)  (e.g. American Red Cross, British Red Cross, Netherlands Red Cross, and the International Federation of Red Cross Red Crescent Societies)
-* Médecins Sans Frontières/Doctors Without Borders
-* Gates Foundation
+* CartONG
 * Clinton Health Access Initiative
 * Concern Worldwide
+* Gates Foundation
+* International Red Cross Red Crescent Societies (IFRC) and the International Committee of Red Cross (ICRC)
+  * e.g. American Red Cross, British Red Cross, Canadian Red Cross, International Federation of Red Cross Red Crescent Societies, Netherlands Red Cross and more
 * MapAction
+* Médecins Sans Frontières/Doctors Without Borders
 * Pan American Development Foundation
+* United Nations
+* World Bank
 * See [missingmaps.org](https://www.missingmaps.org){:target="_blank"} for more humanitarian OSM partners
 
 ## Education
 * Cambridge University
-* Heidelberg University
-* University of Maryland
 * George Washington University
+* Heidelberg University
 * Texas Tech University
+* University of Maryland
 * [YouthMappers](https://www.youthmappers.org){:target="_blank"}, an international network of student OpenStreetMap clubs
 
 ## News and Media
-* National Geographic
+
 * BBC
+* The Guardian
+* National Geographic
 * New York Times
-* Washington Post
 * Wall Street Journal
+* Washington Post
 * Numerous films and TV shows such as *Blade Runner 2049*
 
-And many more!
+Plus many many, large, medium and small businesses and organizations around the world!
+
+To see more examples of uses of OpenStreetMap, see our [weekly featured images](https://wiki.openstreetmap.org/wiki/Featured_images){:target="_blank"}.
