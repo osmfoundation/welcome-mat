@@ -1,5 +1,5 @@
 permalink: /:categories/:title/
-baseurl: /welcome-mat
+baseurl: http://welcome.openstreetmap.org/
 title: Welcome Mat | OpenStreetMap
 markdown: kramdown
 kramdown:
