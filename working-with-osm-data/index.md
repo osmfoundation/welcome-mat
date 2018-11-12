@@ -4,5 +4,5 @@ layout: category
 order: 13
 color: blue
 description: How to use, research and edit OSM
-image: GOPR7567.jpg
+image: whatisOSM_Civic_Use_DanielXOneilr.jpg
 ---
