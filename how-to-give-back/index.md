@@ -5,4 +5,5 @@ order: 3
 color: blue
 description: How can you or your organization contribute to OSM?
 image: mapathon_MM.jpg
+image-alt: a group of people sitting at a mapping event
 ---
