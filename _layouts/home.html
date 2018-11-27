@@ -27,7 +27,7 @@ options: full
           {% assign illo = page.image | prepend: 'svgs/' %}
           {% include {{illo}} %}
         {% else %}
-            <img src="images/{{page.image}}" />
+            <img src="images/{{page.image}}" alt="{{page.image-alt}}"/>
         {% endif %}
       {% endif %}
 
