@@ -62,10 +62,7 @@ Here is a non-exhaustive list of some big organizations that use OpenStreetMap, 
 * Clinton Health Access Initiative
 * Concern Worldwide
 * Gates Foundation
-* International Federation of Red Cross and Red Crescent Societies (IFRC) 
-* International Committee of the Red Cross (ICRC)
-* Red Cross and Red Crescent National Societies
-  * e.g. American Red Cross, Bangladesh Red Crescent Society, British Red Cross, Canadian Red Cross, Netherlands Red Cross, and more
+* International Federation of Red Cross and Red Crescent Societies (IFRC), International Committee of Red Cross (ICRC), and National Societies (e.g. American Red Cross, Bangladesh Red Crescent Society, British Red Cross, Canadian Red Cross, Netherlands Red Cross, and more)
 * MapAction
 * Médecins Sans Frontières/Doctors Without Borders
 * Pan American Development Foundation
