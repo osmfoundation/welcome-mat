@@ -1,5 +1,5 @@
 
-The welcome mat hosted on the `gh-pages` branch of this repo only. Please make pull requests from `gh-pages`.
+The welcome mat is hosted on the `gh-pages` branch of this repo only. Please make pull requests from `gh-pages`.
 
 Please read through this contributing guide to learn how /welcome-mat is built.
 
@@ -34,7 +34,7 @@ xxxx/
 
 Posts are files that live in a category's `_posts/` folder. Posts must have:
 
-* a lowecase file name following: `0000-01-01-title.md` pattern.
+* a lowercase file name following: `0000-01-01-title.md` pattern.
 * the following front matter:
   - title:
 
