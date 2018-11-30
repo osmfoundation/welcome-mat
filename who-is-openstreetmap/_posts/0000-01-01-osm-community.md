@@ -2,7 +2,7 @@
 title: Who makes up the OpenStreetMap community?
 ---
 
-Everyone who participates in the creation and progress of OpenStreetMap in part of the OSM community. There’s also the <a href="{{site.baseurl}}/about-osm-community/osm-foundation/">OpenStreetMap Foundation</a>, a registered nonprofit in the United Kingdom that supports OpenStreetMap and makes sure it is running smoothly.
+Everyone who participates in the creation and progress of OpenStreetMap is part of the OSM community. There’s also the <a href="{{site.baseurl}}/about-osm-community/osm-foundation/">OpenStreetMap Foundation</a>, a registered nonprofit in the United Kingdom that supports OpenStreetMap and makes sure it is running smoothly.
 
 * **Contributors:** people who add or update data on OpenStreetMap. The majority of these are volunteers; some are humanitarian workers or are employed by companies.
 * **Data Consumers:** many different companies, organizations, governments, researchers and individuals use OpenStreetMap data for any number of uses: transportation and routing, GPS and navigation, health care, city planning, cartography, municipal services, academic research, GIS and more. Some of the users of OSM data are <a href="{{site.baseurl}}/about-osm-community/consumers/">listed here.</a>
