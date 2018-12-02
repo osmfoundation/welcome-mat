@@ -14,8 +14,6 @@ The [Working Groups]({{site.baseurl}}/about-osm-community/working-groups/) may c
 
 Amongst the community itself very popular are [Changeset Discussions](https://blog.openstreetmap.org/2014/11/02/introducing-changeset-discussions/). This is the best place to get an explanation why a specific place has been mapped the way it is.
 
-If you want to talk with the community in a specific country or region, please consult the [OSM Wiki](wiki.openstreetmap.org){:target="_blank"}.
-
 If you need more help with contacting communities, try the [OSM contact channels](https://wiki.openstreetmap.org/wiki/Contact_channels){:target="_blank"} page. 
 
 Here is [more information]({{site.baseurl}}/about-osm-community/donate-to-osm/) about donating to OSM.
