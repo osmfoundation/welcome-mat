@@ -6,7 +6,7 @@ OpenStreetMap is used by people all over the world -- individuals, volunteers, c
 
 Here is a non-exhaustive list of some big organizations that use OpenStreetMap, to give you an idea of the breadth of OSM consumers. There are also many medium and small businesses, individuals and personal projects that use OpenStreetMap. And you can too!
 
-## Forbes Companies
+## Very Large Companies
 
 * Amazon
 * Apple
@@ -14,14 +14,13 @@ Here is a non-exhaustive list of some big organizations that use OpenStreetMap, 
 * Facebook
 * Microsoft
 
-## Platforms
+## Digital Matchmakers
 
 * Foursquare
 * Grab
 * Pinterest
 * Pokemon Go
 * Snapchat
-* Telenav
 * Uber
 * [Wikipedia and Wikimedia](https://blog.wikimedia.org/2018/06/28/interactive-maps-now-in-your-language/){:target="_blank"}
 
@@ -39,6 +38,7 @@ Here is a non-exhaustive list of some big organizations that use OpenStreetMap, 
 * ESRI
 * Garmin
 * Mapbox
+* Telenav
 
 ## Government
 
