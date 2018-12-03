@@ -6,30 +6,30 @@ OpenStreetMap is used by people all over the world -- individuals, volunteers, c
 
 Here is a non-exhaustive list of some big organizations that use OpenStreetMap, to give you an idea of the breadth of OSM consumers. There are also many medium and small businesses, individuals and personal projects that use OpenStreetMap. And you can too!
 
-## Very Large Companies
+## Major Sites
 
 * Amazon
 * Apple
 * Baidu Maps
 * Facebook
 * Microsoft
+* [Wikipedia and Wikimedia](https://blog.wikimedia.org/2018/06/28/interactive-maps-now-in-your-language/){:target="_blank"}
 
-## Digital Matchmakers
+## Social Sites
 
 * Foursquare
-* Grab
 * Pinterest
 * Pokemon Go
 * Snapchat
-* Uber
-* [Wikipedia and Wikimedia](https://blog.wikimedia.org/2018/06/28/interactive-maps-now-in-your-language/){:target="_blank"}
 
 ## Transport
 
 * [Air France](https://wiki.openstreetmap.org/wiki/File:Air_France_seatback_map_display.jpg){:target="_blank"}
 * [Alaska Airlines](https://twitter.com/openstreetmapes/status/554009623062388736){:target="_blank"}
 * [Deutsche Bahn](https://wiki.openstreetmap.org/wiki/File:OpenStreetMap_in_an_IC2_carriage_(DB).jpg){:target="_blank"}
+* Grab
 * SNCF (French rail agency)
+* Uber
 
 ## Geodata Software and Services
 
