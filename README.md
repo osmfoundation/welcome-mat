@@ -10,7 +10,7 @@ This site is built with [Jekyll](https://help.github.com/articles/setting-up-you
 
 **Running site locally**
 
-    jekyll serve
+    jekyll serve -b ''
 
 **Testing site** (if testing for the first time, run `npm install` first);
 
