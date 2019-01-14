@@ -2,7 +2,7 @@
 title: Who uses OpenStreetMap?
 ---
 
-OpenStreetMap is used by people all over the world -- individuals, volunteers, companies, nonprofits, governments, organizations and more. There are many ways to use OpenStreetMap: as a basemap, using the OSM data for routing or navigation, using OSM data for GIS analysis, such as planning or logistics for humanitarian groups, utilities, governments and more.
+<a href="https://openstreetmap.org">OpenStreetMap</a> is used by people all over the world -- individuals, volunteers, companies, nonprofits, governments, organizations and more. There are many ways to use OpenStreetMap: as a basemap, using the OSM data for routing or navigation, using OSM data for GIS analysis, such as planning or logistics for humanitarian groups, utilities, governments and more.
 
 Here is a non-exhaustive list of some big organizations that use OpenStreetMap, to give you an idea of the breadth of OSM consumers. There are also many medium and small businesses, individuals and personal projects that use OpenStreetMap. And you can too!
 
