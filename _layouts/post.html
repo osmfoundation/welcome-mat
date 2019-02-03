@@ -6,14 +6,14 @@ layout: default
 
 <div class="pad4y clearfix ">
 
-  {% include pager.html %}
+	{% include pager.html %}
 
-  {% include content.html title=page.title text=content categories=page.categories %}
+	{% include content.html title=page.title text=content categories=page.categories %}
 </div>
 
 <script type="text/javascript" src="{{site.baseurl}}/js/affix.js"></script>
 <script type="text/javascript" src="{{site.baseurl}}/js/scrollspy.js"></script>
 
 <script>
-$('body').scrollspy({ target: '.toc' });
+	$('body').scrollspy({ target: '.toc' });
 </script>

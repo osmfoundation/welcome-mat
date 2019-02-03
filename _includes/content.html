@@ -13,29 +13,31 @@
   {{include.text}}
   {% include next-guide.html %}
 </div>
+
 <div class="col4 toc-wrapper test {% if page.color %}{{page.color}}{% else %}{{currentCategoryColor}}{% endif %}">
   <div class="toc" data-spy='affix' data-offset-top="275">
     <ul class="nav">
-    <script>
-      var input = `{{include.text}}`;
-      var regex = /<(h2|h3)(?:>|\s+(.*?)>)([^<]*)<\/\1\s*>/mig;
-      var entry;
-      while ((entry = regex.exec(input)) !== null) {
+      <script>
+        var input = `{{include.text}}`;
+        var regex = /<(h2|h3)(?:>|\s+(.*?)>)([^<]*)<\/\1\s*>/mig;
+        var entry;
+        while ((entry = regex.exec(input)) !== null) {
         // This is necessary to avoid infinite loops with zero-width matches
         if (entry.index === regex.lastIndex) {
           regex.lastIndex++;
         }
 
-	entry = entry.slice(1);
-	var level = entry[0];
-	var id = entry[1].match(/^id=(["'])(.+?)(["'])/)[2]
-	var title = entry[2].replace(/<(\w*).*?>(.*?)<\/\1\s*>/m, '\2')
-	if (level === "h2") {
-	  document.write(`<li class="${level} space-top1"><a href="#${id}" class="strong block pad1x" title="${title}">${title}</a></li>`);
-	} else {
-	}
-      }
-    </script>
-    </ul>&nbsp;
-  </div>
+        entry = entry.slice(1);
+        var level = entry[0];
+        var id = entry[1].match(/^id=(["'])(.+?)(["'])/)[2]
+        var title = entry[2].replace(/<(\w*).*?>(.*?)<\/\1\s*>/m, '\2')
+        if (level === "h2") {
+         document.write(`<li class="${level} space-top1"><a href="#${id}" class="strong block pad1x" title="${title}">${title}</a></li>`);
+       } else {
+
+       }
+     }
+   </script>
+ </ul> &nbsp;
+</div>
 </div>

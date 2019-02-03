@@ -8,33 +8,33 @@ options: full
 {% if page.lang %}{% assign lang = page.lang %}{% endif %}
 
 <div class="fill-purple-light">
-<div id='guide-categories' class='guides pad4y clearfix'>
+  <div id='guide-categories' class='guides pad4y clearfix'>
 
-  {% include search.html %}
+    {% include search.html %}
 
-  {% assign pages = site.pages | where: "layout", "category" | where: "lang", lang | sort: "order" %}
-  {% for page in pages %}
-  <!-- build guideCount-->
-  {% assign langDir = page.lang | append: '/' %}
-  {% assign title = page.dir | downcase | replace: langDir,'' | replace: '/','' %}
-  {% assign guideCount = 0 %}{% for post in site.categories[title] %}{% if post.lang == page.lang %}{% assign guideCount = guideCount | plus: 1 %}{% endif %}{% endfor %}
-  <a href="{{site.baseurl}}{{page.url | replace:'index.html',''}}" class="guide pad2y clearfix contain" id="{{page.title | downcase | replace: ' ', '-' }}">
-  <div class="shadow fill-white round-big">
-    <div class="image-card image-{{page.title | downcase | replace:' ','-' | replace: ',',''}} round-top  contain">
+    {% assign pages = site.pages | where: "layout", "category" | where: "lang", lang | sort: "order" %}
+    {% for page in pages %}
+    <!-- build guideCount-->
+    {% assign langDir = page.lang | append: '/' %}
+    {% assign title = page.dir | downcase | replace: langDir,'' | replace: '/','' %}
+    {% assign guideCount = 0 %}{% for post in site.categories[title] %}{% if post.lang == page.lang %}{% assign guideCount = guideCount | plus: 1 %}{% endif %}{% endfor %}
+    <a href="{{site.baseurl}}{{page.url | replace:'index.html',''}}" class="guide pad2y clearfix contain" id="{{page.title | downcase | replace: ' ', '-' }}">
+      <div class="shadow fill-white round-big">
+        <div class="image-card image-{{page.title | downcase | replace:' ','-' | replace: ',',''}} round-top  contain">
 
-      {% if page.image %}
-        {% if page.image contains '.svg' %}
+          {% if page.image %}
+          {% if page.image contains '.svg' %}
           {% assign illo = page.image | prepend: 'svgs/' %}
           {% include {{illo}} %}
-        {% else %}
-            <img src="images/{{page.image}}" alt="{{page.image-alt}}"/>
-        {% endif %}
-      {% endif %}
+          {% else %}
+          <img src="images/{{page.image}}" alt="{{page.image-alt}}"/>
+          {% endif %}
+          {% endif %}
 
-      <div class="clearfix contain guide-details">
-      </div>
-    </div>
-    <div class="round-bottom card-content">
+          <div class="clearfix contain guide-details"></div>
+        </div>
+
+        <div class="round-bottom card-content">
         <div class="col12 pad2y pad2x center"><!--
           <span class="icon dot fill-{{page.color}} inline"></span> -->
           <h3 class="space-bottom1 space-top1 inline human center">{{page.title}}</h3>
@@ -43,7 +43,8 @@ options: full
           <div class="guide-count fill-purple-light caption icon book quiet small strong"> {{guideCount}} {% include translate.html swap='guide' lang=page.lang %}{% if guideCount > 1 %}s{% endif %}</div>
           {% endif %}
         </div>
-    </div>
+      </div>
+
     </div>
   </a>
   {% endfor %}
