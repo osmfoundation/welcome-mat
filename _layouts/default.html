@@ -8,7 +8,9 @@
   <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
   <meta name='apple-mobile-web-app-capable' content='yes' />
   {% if page.description %}<meta name='description' content='{{page.description | strip_html}}'/>{% endif %}
-  <title>{% if page.title == 'OpenStreetMap' %}{{page.title}} | Welcome Mat{% else %}{{page.title}} | OpenStreetMap{% endif %}</title>
+  <title>
+    {% if page.title == 'OpenStreetMap' %}{{page.title}} | Welcome Mat{% else %}{{page.title}} | OpenStreetMap{% endif %}
+  </title>
   <meta class='swiftype' name='title' data-type='string' content='{{page.title | escape | replace:"| OpenStreetMap",""}}' />
   <meta class='swiftype' name='type' data-type='enum' content='{% if layout.section %}{{layout.section}}{% elsif page.section %}{{page.section}}{% elsif page.category %}{{page.category}}{% else %}site{% endif %}' />
   <meta class='swiftype' name='info' data-type='string' content='{% if page.version %}{{page.version}}{% else %}site{% endif %}' />{% if page.date and site.baseurl == '/blog' %}
@@ -55,85 +57,86 @@
   <link rel='shortcut icon' href='{{site.baseurl}}/img/favicon.ico' type='image/x-icon' />
   <!-- <link rel='alternate' type='application/rss+xml' title='RSS' href='{{site.url}}{{site.baseurl}}/blog/blog.rss' /> -->
 
-  {% if site.test %}<script src='{{site.baseurl}}/test/tape.js'></script>{% endif %}
+  {% if site.test %}
+  <script src='{{site.baseurl}}/test/tape.js'></script>
+  {% endif %}
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.1/jquery.js'></script>
   <link rel="stylesheet" href="{{site.baseurl}}/css/site.css" />
   {% if page.head %}{{page.head}}{% endif %}{% if layout.head %}{{layout.head}}{% endif %}
 </head>
+
 <body class='{{page.class}} {{page.options}} {{layout.class}} {{layout.options}}'>
 
-<!-- set lang variable -->
-{% if page.lang %}{% assign lang = page.lang %}{% endif %}
+  <!-- set lang variable -->
+  {% if page.lang %}{% assign lang = page.lang %}{% endif %}
 
-<div class="about fill-blue dark" id="about-container">
-  <div class="limiter pad4 prose">
-  <h2>OpenStreetMap Welcome Mat</h2>
-  {% assign intro = "intro/" | append: lang | append: ".html" %}{% include {{intro}} %}
-  </div>
-</div>
-
-<div class="fill-green pad4y">
-<div class='limiter clearfix contain'>
-<a href="#" class="pin-topright" id="about" title="about this site"><span class="icon big info" id="about-icon"></span></a>
-  <div class="pad2y fl">
-    <a href="{{site.baseurl}}/{% if page.lang != 'en' %}{{page.lang}}/{% endif %}" class="fl" style="width: 60px; margin-right: 20px;">
-      {% include svgs/logo.svg %}
-    </a>
-    <div class="fl">
-    <h1 class="human">{{page.title}}</h1>
-    <p class="quiet space-top0">Does your organization want to work with OSM? Find what you need to know!</p>
+  <div class="about fill-blue dark" id="about-container">
+    <div class="limiter pad4 prose">
+      <h2>OpenStreetMap Welcome Mat</h2>
+      {% assign intro = "intro/" | append: lang | append: ".html" %}{% include {{intro}} %}
     </div>
   </div>
-  <div class="fr">
-    {% for lang in site.languages %}
-      {% if lang[0] != page.lang %}
-      <a class="button fill-lighten0 pad2x space-top4" href="{{site.baseurl}}/{{lang[0]}}/">{{lang[1]}}</a>
-      {% endif %}
-    {% endfor %}
+
+  <div class="fill-green pad4y">
+    <div class='limiter clearfix contain'>
+      <a href="#" class="pin-topright" id="about" title="about this site">
+        <span class="icon big info" id="about-icon"></span>
+      </a>
+      <div class="pad2y fl">
+        <a href="{{site.baseurl}}/{% if page.lang != 'en' %}{{page.lang}}/{% endif %}" class="fl" style="width: 60px; margin-right: 20px;">
+          {% include svgs/logo.svg %}
+        </a>
+        <div class="fl">
+          <h1 class="human">{{page.title}}</h1>
+          <p class="quiet space-top0">Does your organization want to work with OSM? Find what you need to know!</p>
+        </div>
+      </div>
+      <div class="fr">
+        {% for lang in site.languages %}
+        {% if lang[0] != page.lang %}
+        <a class="button fill-lighten0 pad2x space-top4" href="{{site.baseurl}}/{{lang[0]}}/">{{lang[1]}}</a>
+        {% endif %}
+        {% endfor %}
+      </div>
+    </div>
   </div>
-</div>
-</div>
+  <div class='page-content'>
+    <div class='{% unless page.options contains 'full' or layout.options contains 'full' %} limiter clearfix{% endunless %}'>{{content}}</div>
 
+    <div class='fill-green footer-in-docs terms-in-docs col12 center footer-copyright small pad4 noprint contain' data-swiftype-index='false'>
+      CC-by OpenStreetMap
+    </div>
+  </div>
+  <script src="{{site.baseurl}}/js/classie.js"></script>
 
-<div class='page-content'>
+  <script type="text/javascript">
 
-<div class='{% unless page.options contains 'full' or layout.options contains 'full' %} limiter clearfix{% endunless %}'>{{content}}</div>
+    var aboutContainer = document.getElementById( 'about-container' ),
+    about = document.getElementById( 'about' ),
+    aboutIcon = document.getElementById( 'about-icon' ),
+    body = document.body;
 
-<div class='fill-green footer-in-docs terms-in-docs col12 center footer-copyright small pad4 noprint contain' data-swiftype-index='false'>
-  CC-by OpenStreetMap
-</div>
-</div>
+    about.onclick = function(e) {
+      e.stopPropagation();
+      e.preventDefault();
+      classie.toggle( aboutContainer, 'open' );
+      classie.toggle( aboutIcon, 'close' );
+      classie.toggle( aboutIcon, 'info' );
+    };
 
-<script src="{{site.baseurl}}/js/classie.js"></script>
+    body.addEventListener("click", function () {
+      if ( aboutContainer.classList.contains('open') ) {
+        classie.toggle( aboutContainer, 'open' );
+        classie.toggle( aboutIcon, 'close' );
+        classie.toggle( aboutIcon, 'info' );
+      }
+    }, false);
 
-<script type="text/javascript">
+    aboutContainer.addEventListener("click", function (ev) {
+      ev.stopPropagation();
+    }, false);
 
-var aboutContainer = document.getElementById( 'about-container' ),
-about = document.getElementById( 'about' ),
-aboutIcon = document.getElementById( 'about-icon' ),
-body = document.body;
-
-about.onclick = function(e) {
-  e.stopPropagation();
-  e.preventDefault();
-  classie.toggle( aboutContainer, 'open' );
-  classie.toggle( aboutIcon, 'close' );
-  classie.toggle( aboutIcon, 'info' );
-};
-
-body.addEventListener("click", function () {
-  if (aboutContainer.classList.contains('open')) {
-    classie.toggle( aboutContainer, 'open' );
-    classie.toggle( aboutIcon, 'close' );
-    classie.toggle( aboutIcon, 'info' );
-  }
-}, false);
-
-aboutContainer.addEventListener("click", function (ev) {
-    ev.stopPropagation();
-}, false);
-
-</script>
+  </script>
 
 </body>
 </html>

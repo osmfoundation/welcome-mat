@@ -13,6 +13,7 @@ root.forEach(function(folder){
     paths.push(folder);
   }
 });
+
 // get all spanish dirs
 // refactor this
 var getES = getDir('es');
@@ -20,6 +21,7 @@ var es = [];
 getES.forEach(function(e) {
   es.push('es/' + e);
 });
+
 // combine paths + spanish paths
 var paths = paths.concat(es);
 // get jp dirs
@@ -28,6 +30,7 @@ var jp = [];
 getJP.forEach(function(e) {
   jp.push('jp/' + e);
 });
+
 // combine paths + jp paths
 var paths = paths.concat(jp);
 
