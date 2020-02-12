@@ -13,15 +13,19 @@
 
 <div class="pager round pad1y quiet space-bottom4 fill-{% if page.color %}{{page.color}}{% else %}{{currentCategoryColor}}{% endif %} breadcrumb small">
 	<div class="pad2x clearfix contain">
-		<a href="{{site.baseurl}}{% if page.lang != 'en' %}/{{page.lang}}{% endif %}/" class="strong fill-darken0 pad0y pad1x round icon prev">Welcome Mat</a>
+		<a href="{{site.baseurl}}{% if page.lang != 'en' %}/{{page.lang}}{% endif %}/" class="strong fill-darken0 pad0y pad1x round icon prev">
+			Welcome Mat
+		</a>
 
 		{% if currentCategory %}
-    <a href="{{site.baseurl}}{{currentCategoryLink}}" class="fill-darken0 pad0y pad1x round">{{ currentCategory }}</a>
-    <span class="active pad0y pad1x">{{ page.title }}</span>
+		<a href="{{site.baseurl}}{{currentCategoryLink}}" class="fill-darken0 pad0y pad1x round">
+			{{ currentCategory }}
+		</a>
+		<span class="active pad0y pad1x">{{ page.title }}</span>
 
-    {% else %}
-    <span class="active pad0y pad1x">{{ page.title }}</span>
-    {% endif %}
+		{% else %}
+		<span class="active pad0y pad1x">{{ page.title }}</span>
+		{% endif %}
 
 	</div>
 </div>
