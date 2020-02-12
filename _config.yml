@@ -10,6 +10,11 @@ exclude:
 - README.MD
 - CONTRIBUTING.md
 - test
+- Dockerfile*
+- docker-compose.*
+- Gemfile
+- Gemfile.lock
+- vendor
 
 languages:
   en: English # abbreviation: Name of native language
