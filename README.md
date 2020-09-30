@@ -1,4 +1,4 @@
-This is the code for the [OpenStreetMap Welcome Mat](https://welcome.openstreetmap.org/) at https://welcome.openstreetmap.org/
+This is the code for the [Click here to visit website.](https://welcome.openstreetmap.org/) at https://welcome.openstreetmap.org/
 
 More information on how this came about [here](https://docs.google.com/document/d/18X-GshbZhV88IpeMe_VQkeRqVdbRrbhTXIqc7a3o110/edit#heading=h.8ol3ksmje8od)
 
