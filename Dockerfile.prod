@@ -1,10 +1,10 @@
 # This file is used if building for Production environments
 # It uses a multi-stage build to run jekyll to populate an nginx container
 
-FROM ruby:2.7-alpine as build
+FROM ruby:3.1-alpine as build
 
 # Add Gem build requirements
-RUN apk add --no-cache g++ make libxml2-dev libxslt-dev
+RUN apk add --no-cache g++ make
 
 # Create app directory
 WORKDIR /app
@@ -13,10 +13,12 @@ WORKDIR /app
 ADD Gemfile* /app/
 
 # Install Gems
-RUN gem install bundler -v 2.3.11 \
+RUN gem install bundler -v 2.4.5 \
     && bundle config build.nokogiri --use-system-libraries \
     && bundle config --global jobs $(nproc) \
-    && bundle install --deployment --no-cache \
+    && bundle config set deployment 'true' \
+    && bundle config set no-cache 'true' \
+    && bundle install \
     && bundle clean
 
 # Copy Site Files
@@ -30,6 +32,8 @@ RUN bundle exec jekyll build --verbose
 #-------------------------------------------------
 
 FROM nginx:stable-alpine as webserver
+
+RUN echo "absolute_redirect off;" >/etc/nginx/conf.d/no-absolute_redirect.conf
 
 # Copy built site from build stage
 COPY --from=build /app/_site /usr/share/nginx/html

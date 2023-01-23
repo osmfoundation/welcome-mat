@@ -13,6 +13,5 @@ services:
     build:
       context: .
       dockerfile: Dockerfile.prod
-    image: osm-welcome-mat-prod
     ports:
       - 8080:80
