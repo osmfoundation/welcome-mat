@@ -30,10 +30,13 @@ ENV JEKYLL_ENV=production
 RUN bundle exec jekyll build --verbose
 
 #-------------------------------------------------
-
-FROM nginx:stable-alpine as webserver
+# https://github.com/nginxinc/docker-nginx-unprivileged
+FROM nginxinc/nginx-unprivileged:stable-alpine as webserver
 
 RUN echo "absolute_redirect off;" >/etc/nginx/conf.d/no-absolute_redirect.conf
 
 # Copy built site from build stage
 COPY --from=build /app/_site /usr/share/nginx/html
+
+# Port the container will listen on
+EXPOSE 8080
