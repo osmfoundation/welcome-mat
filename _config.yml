@@ -36,3 +36,7 @@ defaults:
     type: "posts"
   values:
     lang: "en"
+
+plugins:
+  - jekyll-gzip
+  # - jekyll-brotli
