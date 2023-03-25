@@ -1,0 +1,14 @@
+[data-md-color-scheme="osm light"] {
+    --md-primary-fg-color:        #7EBC6F;
+    --md-primary-fg-color--light: #ECB7B7;
+    --md-primary-fg-color--dark:  #90030C;
+  }
+  
+[data-md-color-scheme="slate"] {
+  --md-hue: 210; 
+}
+
+  /* .md-grid {
+    max-width: 1440px; 
+  }
+   */

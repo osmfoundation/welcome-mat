@@ -1,0 +1,175 @@
+site_name: Welcome to OpenStreetMap
+site_url: https://example.com/
+
+# Start of MkDocs theme adjastments
+
+theme: 
+  name: material
+  custom_dir: overrides
+
+  logo: assets/logo.svg
+
+  palette: 
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      primary: light green
+      scheme: default
+      toggle:
+        icon: material/weather-sunny 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      primary: blue grey
+      scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+  features:
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - toc.follow
+    - content.action.edit
+    - content.action.view
+    - announce.dismiss
+
+extra:
+  alternate:
+    - name: English
+      link: /en/ 
+      lang: en
+    - name: Українська
+      link: /uk/
+      lang: uk
+
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/openstreetmap 
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/OpenStreetMap/
+
+
+# End of MkDocs theme adjastments
+
+# extra_css:
+#   - stylesheets/extra.css
+
+markdown_extensions:
+  - toc:
+      permalink: ⚓︎ 
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: none      
+
+# Navigation menu
+nav:
+  - Home: index.md
+  # - About: about.md
+  - What is OpenStreetMap: what-is-openstreetmap.md
+  - Who is OpenStreetMap: who-is-openstreetmap.md
+  - Why use OpenStreetMap: why-openstreetmap.md
+  - How can we give back: how-to-give-back.md
+  - About Community: 
+    - History of OSM: about-osm-community/history-of-osm.md
+    - OSMF: about-osm-community/osm-foundation.md
+    - Local Chapters: about-osm-community/local-chapters.md
+    - Working Groups: about-osm-community/working-groups.md
+    - Consumers: about-osm-community/consumers.md
+    - OSM News: about-osm-community/osm-news.md
+    - Donate: about-osm-community/donate-to-osm.md
+    - Contact: about-osm-community/get-in-touch.md
+  - Working with data:
+    - Data quality: working-with-osm-data/how-good-is-osm.md
+    - Contribute data: working-with-osm-data/contribute-osm-data.md
+    - Humanitarian campaign: working-with-osm-data/humanitarian-campaign.md
+    - Research with OSM: working-with-osm-data/research-with-osm.md
+    - Find a developer: working-with-osm-data/find-a-developer.md
+    - Downloading and using: working-with-osm-data/downloading-and-using.md
+
+plugins:
+  - search:
+      lang:
+        - en
+        - uk
+  
+        
+# This part is for organising languages in specific folders
+# Using a folder per language structure
+# https://pypi.org/project/mkdocs-static-i18n/
+  - i18n:
+      default_language: en
+      docs_structure: folder
+      languages:
+        en:
+          name: English
+        uk:
+          name: Українська
+      nav_translations:
+        en:
+          Home: Main
+          # About: About us
+          What is OpenStreetMap: What is OpenStreetMap?
+          Who is OpenStreetMap: Who is OpenStreetMap?
+          Why use OpenStreetMap: Why use OpenStreetMap?
+          How can we give back: How can we give back?
+
+          About Community: OpenStreetMap Community
+          History of OSM: What is the history of OSM?
+          OSMF: What is the OSM Foundation?
+          Local Chapters: How are Local Chapters formed?
+          Working Groups: Tell me about OSM Foundation Working Groups
+          Consumers: Who uses OpenStreetMap?
+          OSM News: What's new with OpenStreetMap?
+          Donate: How can we give money to OpenStreetMap?
+          Contact: How to get in touch
+
+          Working with data: Working with OpenStreetMap Data
+          Data quality: How good is OSM data?
+          Contribute data: Organized Editing in OpenStreetMap
+          Humanitarian campaign: We’re planning a humanitarian campaign using OSM, what do we need to know?
+          Research with OSM: How can I research with OSM?
+          Find a developer: Where do we find a good developer or company to build with OSM?
+          Downloading and using: Downloading and using OSM data
+
+        uk:
+          Home: Головна
+          # About: Про нас
+          What is OpenStreetMap: Що таке OpenStreetMap?
+          Who is OpenStreetMap: Хто є в OpenStreetMap?
+          Why use OpenStreetMap: Чому OpenStreetMap?
+          How can we give back: Внесок в OpenStreetMap
+
+          About Community: Спільнота OpenStreetMap
+          History of OSM: Історія OpenStreetMap
+          OSMF: Що таке Фундація OSM?
+          Local Chapters: Як створюються місцеві осередки?
+          Working Groups: Розкажіть про робочі групи OSM Foundation
+          Consumers: Хто користується даними OpenStreetMap?
+          OSM News: Що нового в OpenStreetMap?
+          Donate: Як ми можемо надати фінасову підтримку OpenStreetMap?
+          Contact: Як зв'язатися?
+
+          Working with data: Використання даних OpenStreetMap
+          Data quality: Наскільки якісні дані OSM?
+          Contribute data: Організоване редагування в OpenStreetMap
+          Humanitarian campaign: Ми плануємо гуманітарну кампанію з використанням OSM, що нам потрібно знати?
+          Research with OSM: Як я можу використовувати OSM в дослідженнях?
+          Find a developer: Де знайти хорошого розробника чи компанію для створення продукту з використанням OSM?
+          Downloading and using: Завантаження та використання даних OSM
+
+copyright: Copyright &copy; 2019 - 2023 OpenStreetMap Foundation
+
+repo_url: https://github.com/osmfoundation/welcome-mat
+repo_name: oosmfoundation/welcome-mat
+
+# repo_url: https://github.com/squidfunk/mkdocs-material
+# repo_name: squidfunk/mkdocs-material
+
+
+edit_uri: edit/main/docs/
