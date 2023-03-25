@@ -42,10 +42,10 @@ theme:
 extra:
   alternate:
     - name: English
-      link: /en/ 
+      link: en/ 
       lang: en
     - name: Українська
-      link: /uk/
+      link: uk/
       lang: uk
 
   social:
