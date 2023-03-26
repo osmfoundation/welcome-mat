@@ -5,7 +5,7 @@ kang: en
 
 Research is a welcome part of the OSM community. From Kathmandu to Berlin, there is a rich history of research about OSM -- the community, the project, and the data. Before starting out, we encourage you to get in touch with the local OSM community and review the background on OSM research.
 
-There is an email list for research, [research-announce@lists.openstreetmap.org](mailto:research-announce@lists.openstreetmap.org).
+There is an email list for research, <a href="mailto:research-announce@lists.openstreetmap.org">research-announce@lists.openstreetmap.org</a>.
 
 Suggestions for how to conduct your research and cite OpenStreetMap are [here](https://wiki.openstreetmap.org/wiki/Researcher_Information).
 

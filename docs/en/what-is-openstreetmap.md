@@ -16,5 +16,5 @@ OpenStreetMap includes data about roads, buildings, addresses, shops and busines
 The map is created and maintained by nearly 5 million registered users and more than 1 million map contributors in every country in the world, using free tools and software. The data is used by local people, volunteer groups, companies, governments, software developers and more.
 
 The project has a very lean governance structure, run entirely by the volunteers of the
-[OpenStreetMap Foundation](/{{lang}}/about-osm-community/osm-foundation/). Financial support comes from the OpenStreetMap Foundation members, including corporate members, as well as
-[donations](/{{lang}}/about-osm-community/donate-to-osm/).
+[OpenStreetMap Foundation](/about-osm-community/osm-foundation/). Financial support comes from the OpenStreetMap Foundation members, including corporate members, as well as
+[donations](/about-osm-community/donate-to-osm/).

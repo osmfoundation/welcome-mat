@@ -1,5 +1,6 @@
 site_name: Welcome to OpenStreetMap
 # site_url: https://welcome.openstreetmap.org/
+site_url: https://andygol.co.ua/welcome-mat-osmf
 
 # Start of MkDocs theme adjastments
 
@@ -98,6 +99,7 @@ plugins:
         - en
         - uk
   - macros
+  - ezlinks
   
         
 # This part is for organising languages in specific folders

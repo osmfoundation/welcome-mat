@@ -7,7 +7,7 @@ OpenStreetMap не є суворо керованим проєктом. Масо
 
 * **[Члени OSMF](https://wiki.osmfoundation.org/wiki/Membership):** учасники, які сплатили внески, щоб приєднатися до OpenStreetMap Foundation. Вони можуть голосувати на виборах членів Ради OpenStreetMap Foundation і висловлювати свої думки з питань її діяльності. Ви можете стати членом перейшовши за [цим посиланням](https://wiki.osmfoundation.org/wiki/Membership).
 
-* **[Члени Ради OSMF](https://wiki.osmfoundation.org/wiki/Officers_%26_Board):** сім членів з усього світу, який є ключовим органом управління OpenStreetMap Foundation.
+* **[Члени правління OSMF](https://wiki.osmfoundation.org/wiki/Officers_%26_Board):** сім членів з усього світу входять до складу Правління OSMF, яка є ключовим органом управління OpenStreetMap Foundation.
 
 * **[Місцеві осередки](https://wiki.osmfoundation.org/wiki/Local_Chapters):** організації в певних країнах, які діють від імені OpenStreetMap Foundation, організовуючи такі заходи, як проєкти редагування OpenStreetMap, події та конференції у своїх регіонах. Місцеві осередки є офіційно зареєстрованими некомерційними організаціями. Зауважте, що в багатьох країнах немає офіційно створеного осередку, але відбувається активне редагування.
   

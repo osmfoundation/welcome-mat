@@ -5,7 +5,7 @@ kang: uk
 
 Дослідники є бажаною частиною спільноти OSM. Від Катманду до Берліна існує багата історія досліджень OSM – спільноти, проєкту та даних. Перш ніж розпочати, ми рекомендуємо вам зв’язатися з місцевою спільнотою OSM і ознайомитися з досвідом дослідження OSM.
 
-Існує список розсилки досліджень [research-announce@lists.openstreetmap.org](mailto:research-announce@lists.openstreetmap.org).
+Існує список розсилки досліджень <a href="mailto:research-announce@lists.openstreetmap.org">research-announce@lists.openstreetmap.org</a>.
 
 [Тут](https://wiki.openstreetmap.org/wiki/Researcher_Information) можна знайти поради щодо того, як провести дослідження та цитувати OpenStreetMap.
 
