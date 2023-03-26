@@ -2,6 +2,14 @@ site_name: Welcome to OpenStreetMap
 # site_url: https://welcome.openstreetmap.org/
 site_url: https://andygol.co.ua/welcome-mat-osmf
 
+# repo_url: https://github.com/osmfoundation/welcome-mat
+repo_url: https://github.com/Andygol/welcome-mat-osmf
+repo_name: osmfoundation/welcome-mat
+
+edit_uri: edit/main/docs/
+
+copyright: © 2019 - 2023 OpenStreetMap Foundation, <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
 # Start of MkDocs theme adjastments
 
 theme: 
@@ -165,11 +173,3 @@ plugins:
           Research with OSM: Як я можу використовувати OSM в дослідженнях?
           Find a developer: Де знайти хорошого розробника чи компанію для створення продукту з використанням OSM?
           Downloading and using: Завантаження та використання даних OSM
-
-copyright: Copyright &copy; 2019 - 2023 OpenStreetMap Foundation
-
-# repo_url: https://github.com/osmfoundation/welcome-mat
-repo_url: https://github.com/Andygol/welcome-mat-osmf
-repo_name: osmfoundation/welcome-mat
-
-edit_uri: edit/main/docs/
