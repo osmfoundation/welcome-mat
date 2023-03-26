@@ -19,5 +19,6 @@ jobs:
           path: .cache
       - run: pip install \
               "mkdocs-material" \
-              "mkdocs-static-i18n"
+              "mkdocs-static-i18n" \
+              "mkdocs-macros-plugin"
       - run: mkdocs gh-deploy --force

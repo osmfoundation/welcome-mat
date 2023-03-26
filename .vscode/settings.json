@@ -9,6 +9,12 @@
       "tag:yaml.org,2002:python/name:materialx.emoji.twemoji",
       "tag:yaml.org,2002:python/name:pymdownx.superfences.fence_code_format"
     ],
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "languageToolLinter.languageTool.ignoredWordsInWorkspace": [
+      "basemap",
+      "organisation",
+      "organisations",
+      "organising"
+    ]
   }
   

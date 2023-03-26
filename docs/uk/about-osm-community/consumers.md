@@ -79,7 +79,7 @@ lang: uk
 * Pan American Development Foundation
 * United Nations
 * World Bank
-* Дивіться [missingmaps.org](https://www.missingmaps.org) щоб дізнатись більше
+* Дивіться [missingmaps.org](https://www.missingmaps.org), щоб дізнатись більше
 
 ## Освіта
 

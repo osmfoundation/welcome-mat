@@ -11,6 +11,6 @@ lang: uk
 
 Якщо вам потрібна додаткова допомога у зв’язку зі спільнотами, спробуйте сторінку [Контактні канали OSM](https://wiki.openstreetmap.org/wiki/Contact_channels).
 
-Ось [додаткова інформація](about-osm-community/donate-to-osm/) про пожертви для OSM.
+Ось [додаткова інформація](/{{lang}}/about-osm-community/donate-to-osm/) про пожертви для OSM.
 
 Якщо ви зацікавлені зробити внесок чи пожертву в OpenStreetMap, або якщо у вас виникнуть будь-які інші запитання, зв’яжіться з Радою Фундації OSM за адресою [board(at)osmfoundation.org](mailto:board@osmfoundation.org).

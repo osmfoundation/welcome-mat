@@ -5,7 +5,7 @@ lang: en
 
 There are many ways to find out what’s new with OpenStreetMap. OSM has official social media channels at [https://twitter.com/openstreetmap](https://twitter.com/openstreetmap) and [https://www.facebook.com/OpenStreetMap/](https://www.facebook.com/OpenStreetMap/). 
 
-The official blog is at <a href="https://blog.openstreetmap.org/">https://blog.openstreetmap.org/.
+The official blog is at [https://blog.openstreetmap.org/](https://blog.openstreetmap.org/).
 
 There is an independent weekly newsletter at [http://www.weeklyosm.eu](http://www.weeklyosm.eu).
 

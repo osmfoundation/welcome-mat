@@ -1,5 +1,5 @@
 site_name: Welcome to OpenStreetMap
-site_url: https://example.com/
+# site_url: https://welcome.openstreetmap.org/
 
 # Start of MkDocs theme adjastments
 
@@ -97,6 +97,7 @@ plugins:
       lang:
         - en
         - uk
+  - macros
   
         
 # This part is for organising languages in specific folders
@@ -168,9 +169,5 @@ copyright: Copyright &copy; 2019 - 2023 OpenStreetMap Foundation
 # repo_url: https://github.com/osmfoundation/welcome-mat
 repo_url: https://github.com/Andygol/welcome-mat-osmf
 repo_name: osmfoundation/welcome-mat
-
-# repo_url: https://github.com/squidfunk/mkdocs-material
-# repo_name: squidfunk/mkdocs-material
-
 
 edit_uri: edit/main/docs/

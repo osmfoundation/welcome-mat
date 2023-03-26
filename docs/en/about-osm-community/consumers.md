@@ -68,6 +68,7 @@ Here is a non-exhaustive list of some big organizations that use OpenStreetMap, 
 * US State Department, USAID, Peace Corps
 
 ## Humanitarian Sector
+
 * CartONG
 * Clinton Health Access Initiative
 * Concern Worldwide
@@ -81,6 +82,7 @@ Here is a non-exhaustive list of some big organizations that use OpenStreetMap, 
 * See [missingmaps.org](https://www.missingmaps.org) for more humanitarian OSM partners
 
 ## Education
+
 * Cambridge University
 * George Washington University
 * Heidelberg University
