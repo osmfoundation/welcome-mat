@@ -14,6 +14,6 @@ lang: uk
 - [http://www.missingmaps.org/osmstats/](http://www.missingmaps.org/osmstats/)
 - [https://mapbox.github.io/osm-analysis-collab/osm-quality](https://mapbox.github.io/osm-analysis-collab/osm-quality)
 
-Більше досліджень про OpenStreetMap, включаючи багато статей про якість даних, можна знайти тут: [https://wiki.openstreetmap.org/wiki/Research](https://wiki.openstreetmap.org/wiki/Research).
+Більше досліджень про OpenStreetMap, включаючи багато статей про якість даних, можна знайти тут: [https://wiki.openstreetmap.org/wiki/Research](https://wiki.openstreetmap.org/wiki/Uk:Research).
 
-Тут також є кілька інструментів для перевірки та забезпечення якості даних [https://wiki.openstreetmap.org/wiki/Quality_assurance](https://wiki.openstreetmap.org/wiki/Quality_assurance).
+Тут також є кілька інструментів для перевірки та забезпечення якості даних [https://wiki.openstreetmap.org/wiki/Quality_assurance](https://wiki.openstreetmap.org/wiki/Uk:Quality_assurance).

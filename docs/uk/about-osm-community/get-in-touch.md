@@ -9,7 +9,7 @@ lang: uk
 
 Якщо ви хочете поспілкуватися зі спільнотою в певній країні чи регіоні, зверніться до [OSM Wiki](https://wiki.openstreetmap.org).
 
-Якщо вам потрібна додаткова допомога у зв’язку зі спільнотами, спробуйте сторінку [Контактні канали OSM](https://wiki.openstreetmap.org/wiki/Contact_channels).
+Якщо вам потрібна додаткова допомога у зв’язку зі спільнотами, спробуйте сторінку [Контактні канали OSM](https://wiki.openstreetmap.org/wiki/Uk:Contact_channels).
 
 Ось [додаткова інформація](/about-osm-community/donate-to-osm/) про пожертви для OSM.
 

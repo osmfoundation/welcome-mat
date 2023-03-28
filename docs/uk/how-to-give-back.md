@@ -10,7 +10,7 @@ lang: uk
 - OSM є спільною платформою для співпраці з іншими
 - Збільшення соціальних благ від внеску в глобальну мапу
 
-Ось кілька [загальних вказівок](https://wiki.openstreetmap.org/wiki/How_We_Map) щодо того, як зробити свій внесок. Якщо ви плануєте імпортувати наявний набір даних, [уважно прочитайте наші настанови з імпорту](https://wiki.openstreetmap.org/wiki/Import/Guidelines) й особливо зверніть увагу на [сумісність ліцензій](https://wiki.openstreetmap.org/wiki/Import/Guidelines#Step_3_-_License_approval).
+Ось кілька [загальних вказівок](https://wiki.openstreetmap.org/wiki/Uk:How_We_Map) щодо того, як зробити свій внесок. Якщо ви плануєте імпортувати наявний набір даних, [уважно прочитайте наші настанови з імпорту](https://wiki.openstreetmap.org/wiki/Uk:Import/Guidelines) й особливо зверніть увагу на [сумісність ліцензій](https://wiki.openstreetmap.org/wiki/Uk:Import/Guidelines#Крок_3_-_Узгодження_ліцензійних_вимог).
 
 ## Які ще є інші способи допомогти?
 

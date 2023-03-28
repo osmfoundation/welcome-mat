@@ -9,7 +9,7 @@ kang: uk
 
 [Тут](https://wiki.openstreetmap.org/wiki/Researcher_Information) можна знайти поради щодо того, як провести дослідження та цитувати OpenStreetMap.
 
-Ви можете знайти подробиці в Google Scholar або інших вебресурсах, які містять статті, але ось [кілька прикладів](https://wiki.openstreetmap.org/wiki/Research), які допоможуть вам почати.
+Ви можете знайти подробиці в Google Scholar або інших вебресурсах, які містять статті, але ось [кілька прикладів](https://wiki.openstreetmap.org/wiki/Uk:Research), які допоможуть вам почати.
 
 **Чи може OSM надати супровідного листа для підтримки для нашого дослідницького проєкту?**
 
