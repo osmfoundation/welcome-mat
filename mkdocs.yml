@@ -3,8 +3,9 @@ site_name: Welcome to OpenStreetMap
 site_url: https://andygol.co.ua/welcome-mat-osmf
 
 # repo_url: https://github.com/osmfoundation/welcome-mat
+# repo_name: osmfoundation/welcome-mat
 repo_url: https://github.com/Andygol/welcome-mat-osmf
-repo_name: osmfoundation/welcome-mat
+repo_name: Andygol/welcome-mat-osmf
 
 edit_uri: edit/main/docs/
 
@@ -75,7 +76,13 @@ markdown_extensions:
       permalink: ⚓︎ 
       slugify: !!python/object/apply:pymdownx.slugs.slugify
         kwds:
-          case: none      
+          case: none
+
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  
+  - pymdownx.blocks.html      
 
 # Navigation menu
 nav:
@@ -120,8 +127,10 @@ plugins:
       languages:
         en:
           name: English
+          site_name: Welcome to OpenStreetMap
         uk:
           name: Українська
+          site_name: Ласкаво просимо до OpenStreetMap
       nav_translations:
         en:
           Home: Main
