@@ -3,7 +3,7 @@ title: Who uses OpenStreetMap?
 lang: en
 ---
 
-[OpenStreetMap](https://openstreetmap.org) is used by people all over the world -- individuals, volunteers, companies, nonprofits, governments, organizations and more. There are many ways to use OpenStreetMap: as a basemap, using the OSM data for routing or navigation, using OSM data for GIS analysis, such as planning or logistics for humanitarian groups, utilities, governments and more.
+[OpenStreetMap](https://openstreetmap.org){:target="_blank"} is used by people all over the world -- individuals, volunteers, companies, nonprofits, governments, organizations and more. There are many ways to use OpenStreetMap: as a basemap, using the OSM data for routing or navigation, using OSM data for GIS analysis, such as planning or logistics for humanitarian groups, utilities, governments and more.
 
 Here is a non-exhaustive list of some big organizations that use OpenStreetMap, to give you an idea of the breadth of OSM consumers. There are also many medium and small businesses, individuals and personal projects that use OpenStreetMap. And you can too!
 
@@ -14,7 +14,7 @@ Here is a non-exhaustive list of some big organizations that use OpenStreetMap, 
 * Baidu Maps
 * Facebook
 * Microsoft
-* [Wikipedia and Wikimedia](https://blog.wikimedia.org/2018/06/28/interactive-maps-now-in-your-language/)
+* [Wikipedia and Wikimedia](https://blog.wikimedia.org/2018/06/28/interactive-maps-now-in-your-language/){:target="_blank"}
 
 ## Social Sites
 
@@ -25,9 +25,9 @@ Here is a non-exhaustive list of some big organizations that use OpenStreetMap, 
 
 ## Transport
 
-* [Air France](https://wiki.openstreetmap.org/wiki/File:Air_France_seatback_map_display.jpg)
-* [Alaska Airlines](https://twitter.com/openstreetmapes/status/554009623062388736)
-* [Deutsche Bahn](https://wiki.openstreetmap.org/wiki/File:OpenStreetMap_in_an_IC2_carriage_(DB).jpg)
+* [Air France](https://wiki.openstreetmap.org/wiki/File:Air_France_seatback_map_display.jpg){:target="_blank"}
+* [Alaska Airlines](https://twitter.com/openstreetmapes/status/554009623062388736){:target="_blank"}
+* [Deutsche Bahn](https://wiki.openstreetmap.org/wiki/File:OpenStreetMap_in_an_IC2_carriage_(DB){:target="_blank"}.jpg)
 * Grab
 * SNCF (French rail agency)
 * Uber
@@ -44,22 +44,22 @@ Here is a non-exhaustive list of some big organizations that use OpenStreetMap, 
 ## Government
 
 * Agence Française de Développement (French Development Agency)
-* City of [Belem, Brazil](http://www.kdaberlinda.pa.gov.br/mapa_app/)
+* City of [Belem, Brazil](http://www.kdaberlinda.pa.gov.br/mapa_app/){:target="_blank"}
 * City of Jakarta, Indonesia Government
 * French Gendarmerie and Police
-* Government of Brazil, [Environment Ministry](https://www.ibama.gov.br/siema/) and [Planning Ministry](http://www.visualizador.inde.gov.br)
-* [Government of France National Address Database](https://adresse.data.gouv.fr)
-* Government of Italy: [President's Office](http://www.governo.it/mappa-del-presidente)
+* Government of Brazil, [Environment Ministry](https://www.ibama.gov.br/siema/){:target="_blank"} and [Planning Ministry](http://www.visualizador.inde.gov.br){:target="_blank"}
+* [Government of France National Address Database](https://adresse.data.gouv.fr){:target="_blank"}
+* Government of Italy: [President's Office](http://www.governo.it/mappa-del-presidente){:target="_blank"}
 * Government of Lesotho
 * Government of Lithuania
 * Government of Norway public transit agency
 * Government of Uruguay Ministry of Social Development
 * Indonesian Disaster Management Agency
-* [Italian Carabinieri](http://www.carabinieri.it/cittadino/informazioni/dove-siamo)
+* [Italian Carabinieri](http://www.carabinieri.it/cittadino/informazioni/dove-siamo){:target="_blank"}
 * Krakow, Poland transit agency
 * Malaga, Spain transit agency
 * New York City, USA Government
-* [Police Scotland](http://www.scotland.police.uk/your-community/edinburgh/)
+* [Police Scotland](http://www.scotland.police.uk/your-community/edinburgh/){:target="_blank"}
 * Portland, Oregon, USA transit agency
 * Rennes, France transit agency
 * Statistics Canada
@@ -79,7 +79,7 @@ Here is a non-exhaustive list of some big organizations that use OpenStreetMap, 
 * Pan American Development Foundation
 * United Nations
 * World Bank
-* See [missingmaps.org](https://www.missingmaps.org) for more humanitarian OSM partners
+* See [missingmaps.org](https://www.missingmaps.org){:target="_blank"} for more humanitarian OSM partners
 
 ## Education
 
@@ -88,12 +88,12 @@ Here is a non-exhaustive list of some big organizations that use OpenStreetMap, 
 * Heidelberg University
 * Texas Tech University
 * University of Maryland
-* [YouthMappers](https://www.youthmappers.org), an international network of student OpenStreetMap clubs
+* [YouthMappers](https://www.youthmappers.org){:target="_blank"}, an international network of student OpenStreetMap clubs
 
 ## News and Media
 
 * BBC
-* [Financial Times](https://www.reddit.com/r/dataisbeautiful/comments/9j285h/im_steve_bernard_interactive_design_editor_at_the/e6o3kyz/)
+* [Financial Times](https://www.reddit.com/r/dataisbeautiful/comments/9j285h/im_steve_bernard_interactive_design_editor_at_the/e6o3kyz/){:target="_blank"}
 * The Guardian
 * National Geographic
 * New York Times
@@ -104,4 +104,4 @@ Here is a non-exhaustive list of some big organizations that use OpenStreetMap, 
 
 Plus many many, large, medium and small businesses and organizations around the world!
 
-To see more examples of uses of OpenStreetMap, see our [weekly featured images](https://wiki.openstreetmap.org/wiki/Featured_images).
+To see more examples of uses of OpenStreetMap, see our [weekly featured images](https://wiki.openstreetmap.org/wiki/Featured_images){:target="_blank"}.

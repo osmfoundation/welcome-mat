@@ -3,7 +3,7 @@ title: Хто користується даними OpenStreetMap?
 lang: uk
 ---
 
-[OpenStreetMap](https://openstreetmap.org) використовують люди в усьому світі – окремі особи, волонтери, компанії, некомерційні організації, уряди, організації тощо. Існує багато способів використання OpenStreetMap: як базової мапи, використання даних OSM для прокладання маршрутів чи навігації, використання даних OSM для аналізу ГІС, наприклад планування чи логістики для гуманітарних груп, комунальних служб, урядів тощо.
+[OpenStreetMap](https://openstreetmap.org){:target="_blank"} використовують люди в усьому світі – окремі особи, волонтери, компанії, некомерційні організації, уряди, організації тощо. Існує багато способів використання OpenStreetMap: як базової мапи, використання даних OSM для прокладання маршрутів чи навігації, використання даних OSM для аналізу ГІС, наприклад планування чи логістики для гуманітарних груп, комунальних служб, урядів тощо.
 
 Ось неповний список деяких великих організацій, які використовують OpenStreetMap, щоб дати вам уявлення про широкий спектр споживачів OSM. Існує також багато середніх і малих підприємств, окремих осіб і особистих проєктів, які використовують OpenStreetMap. І ви теж можете робити це!
 
@@ -14,7 +14,7 @@ lang: uk
 * Baidu Maps
 * Facebook
 * Microsoft
-* [Wikipedia та Wikimedia](https://blog.wikimedia.org/2018/06/28/interactive-maps-now-in-your-language/)
+* [Wikipedia та Wikimedia](https://blog.wikimedia.org/2018/06/28/interactive-maps-now-in-your-language/){:target="_blank"}
 
 ## Соціальні майданчики
 
@@ -25,9 +25,9 @@ lang: uk
 
 ## Транспорт
 
-* [Air France](https://wiki.openstreetmap.org/wiki/File:Air_France_seatback_map_display.jpg)
-* [Alaska Airlines](https://twitter.com/openstreetmapes/status/554009623062388736)
-* [Deutsche Bahn](https://wiki.openstreetmap.org/wiki/File:OpenStreetMap_in_an_IC2_carriage_(DB).jpg)
+* [Air France](https://wiki.openstreetmap.org/wiki/File:Air_France_seatback_map_display.jpg){:target="_blank"}
+* [Alaska Airlines](https://twitter.com/openstreetmapes/status/554009623062388736){:target="_blank"}
+* [Deutsche Bahn](https://wiki.openstreetmap.org/wiki/File:OpenStreetMap_in_an_IC2_carriage_(DB){:target="_blank"}.jpg)
 * Grab
 * SNCF (Французька залізниця)
 * Uber
@@ -44,22 +44,22 @@ lang: uk
 ## Урядові установи
 
 * Agence Française de Développement (Французьке агентство розвитку)
-* Місто [Белем, Бразилія](http://www.kdaberlinda.pa.gov.br/mapa_app/)
+* Місто [Белем, Бразилія](http://www.kdaberlinda.pa.gov.br/mapa_app/){:target="_blank"}
 * Місто Джакарта, уряд Індонезії
 * Французька жандармерія та поліція
-* Уряд Бразилії, [Міністерство навколишнього середовища](https://www.ibama.gov.br/siema/) і [Міністерство планування](http://www.visualizador.inde.gov.br)
-* [Національна база даних уряду Франції](https://adresse.data.gouv.fr)
-* Уряд Італії: [Офіс президента](http://www.governo.it/mappa-del-presidente)
+* Уряд Бразилії, [Міністерство навколишнього середовища](https://www.ibama.gov.br/siema/){:target="_blank"} і [Міністерство планування](http://www.visualizador.inde.gov.br){:target="_blank"}
+* [Національна база даних уряду Франції](https://adresse.data.gouv.fr){:target="_blank"}
+* Уряд Італії: [Офіс президента](http://www.governo.it/mappa-del-presidente){:target="_blank"}
 * Уряд Лесото
 * Уряд Литви
 * Агенція громадського транспорту уряду Норвегії
 * Міністерство соціального розвитку уряду Уругваю
 * Індонезійське агентство з ліквідації наслідків стихійних лих
-* [Італійські карабінери](http://www.carabinieri.it/cittadino/informazioni/dove-siamo)
+* [Італійські карабінери](http://www.carabinieri.it/cittadino/informazioni/dove-siamo){:target="_blank"}
 * Краків, Польське транспортне агентство
 * Малага, Іспанське транспортне агентство
 * Нью-Йорк, уряд США
-* [Поліція Шотландії](http://www.scotland.police.uk/your-community/edinburgh/)
+* [Поліція Шотландії](http://www.scotland.police.uk/your-community/edinburgh/){:target="_blank"}
 * Портленд, штат Орегон, транзитне агентство США
 * Ренн, транзитне агентство Франції
 * Статистика Канади
@@ -79,7 +79,7 @@ lang: uk
 * Pan American Development Foundation
 * United Nations
 * World Bank
-* Дивіться [missingmaps.org](https://www.missingmaps.org), щоб дізнатись більше
+* Дивіться [missingmaps.org](https://www.missingmaps.org){:target="_blank"}, щоб дізнатись більше
 
 ## Освіта
 
@@ -88,12 +88,12 @@ lang: uk
 * Heidelberg University
 * Texas Tech University
 * University of Maryland
-* [YouthMappers](https://www.youthmappers.org), міжнародна система студентських клубів OpenStreetMap
+* [YouthMappers](https://www.youthmappers.org){:target="_blank"}, міжнародна система студентських клубів OpenStreetMap
 
 ## Новини та медіа
 
 * BBC
-* [Financial Times](https://www.reddit.com/r/dataisbeautiful/comments/9j285h/im_steve_bernard_interactive_design_editor_at_the/e6o3kyz/)
+* [Financial Times](https://www.reddit.com/r/dataisbeautiful/comments/9j285h/im_steve_bernard_interactive_design_editor_at_the/e6o3kyz/){:target="_blank"}
 * The Guardian
 * National Geographic
 * New York Times
@@ -104,4 +104,4 @@ lang: uk
 
 Плюс багато великих, середніх і малих підприємств і організацій у всьому світі!
 
-<!-- To see more examples of uses of OpenStreetMap, see our [weekly featured images](https://wiki.openstreetmap.org/wiki/Featured_images). -->
+<!-- To see more examples of uses of OpenStreetMap, see our [weekly featured images](https://wiki.openstreetmap.org/wiki/Featured_images){:target="_blank"}. -->

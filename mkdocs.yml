@@ -72,6 +72,8 @@ extra:
 #   - stylesheets/extra.css
 
 markdown_extensions:
+
+  - attr_list # {:target="_blank"} opens links in a new tab
   - toc:
       permalink: ⚓︎ 
       slugify: !!python/object/apply:pymdownx.slugs.slugify
@@ -81,7 +83,7 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
-  
+
   - pymdownx.blocks.html      
 
 # Navigation menu

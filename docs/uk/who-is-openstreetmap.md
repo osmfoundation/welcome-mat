@@ -9,7 +9,7 @@ image: whatishistory_14665124541_52ce01db2c_o_KLL.jpg
 image-alt: a group of people posing on stairs after completing a mapping workshop
 ---
 
-Кожен, хто бере участь у створенні та розвитку [OpenStreetMap](https://openstreetmap.org), є частиною спільноти OSM. Існує також [OpenStreetMap Foundation](/about-osm-community/osm-foundation/), зареєстрована некомерційна організація у Сполученому Королівстві, яка підтримує OpenStreetMap і забезпечує безперебійну роботу проєкту.
+Кожен, хто бере участь у створенні та розвитку [OpenStreetMap](https://openstreetmap.org){:target="_blank"}, є частиною спільноти OSM. Існує також [OpenStreetMap Foundation](/about-osm-community/osm-foundation/), зареєстрована некомерційна організація у Сполученому Королівстві, яка підтримує OpenStreetMap і забезпечує безперебійну роботу проєкту.
 
 * **Учасники:** люди, які додають або оновлюють дані на OpenStreetMap. Більшість із них – волонтери; деякі є працівниками гуманітарних місій або працюють у компаніях.
 

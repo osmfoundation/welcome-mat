@@ -16,10 +16,10 @@ The OSM Foundation Working Groups are volunteers who manage and run various aspe
 
 ### Communication Working Group
 
-* Maintaining [blog.openstreetmap.org](https://blog.openstreetmap.org) and OpenStreetMap accounts on [Twitter](https://twitter.com/openstreetmap) and [Facebook](https://www.facebook.com/OpenStreetMap).
+* Maintaining [blog.openstreetmap.org](https://blog.openstreetmap.org){:target="_blank"} and OpenStreetMap accounts on [Twitter](https://twitter.com/openstreetmap){:target="_blank"} and [Facebook](https://www.facebook.com/OpenStreetMap){:target="_blank"}.
 * Making announcements and project news written with the official "voice of the foundation"
 * Responding to press contacts.
-* Overseeing design and content on [osmfoundation.org](https://wiki.osmfoundation.org)
+* Overseeing design and content on [osmfoundation.org](https://wiki.osmfoundation.org){:target="_blank"}
 
 ### Operations Working Group
 

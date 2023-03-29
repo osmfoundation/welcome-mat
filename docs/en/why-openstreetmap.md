@@ -11,7 +11,7 @@ image-alt: three people sitting on stairs comparing data collected during an Ope
 
 ## Free and Open
 
-[OpenStreetMap](https://openstreetmap.org) is published under an open licence, that allows anyone to access, use and share the data. This creates a level playing field allowing a diverse variety of individuals, communities and organisations to contribute towards creating a shared resource.
+[OpenStreetMap](https://openstreetmap.org){:target="_blank"} is published under an open licence, that allows anyone to access, use and share the data. This creates a level playing field allowing a diverse variety of individuals, communities and organisations to contribute towards creating a shared resource.
 
 ## Global Reach
 

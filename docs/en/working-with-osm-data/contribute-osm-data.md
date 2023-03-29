@@ -7,4 +7,4 @@ OpenStreetMap is a project powered by its community. While originally supported 
 
 Organized mapping efforts are an integral part of today's OSM contribution landscape and, when done well, help make OSM better and more widely known.
 
-In order to maintain good communications between, and a level playing field for, individual community members and organized editing groups, there is a set of [guidelines for directed and organized editing](https://wiki.openstreetmap.org/wiki/Organised_Editing_Guidelines) such as by companies or school groups. The scope is to set expectations on visibility of mapping efforts and how to communicate with and be reachable by the broader community.
+In order to maintain good communications between, and a level playing field for, individual community members and organized editing groups, there is a set of [guidelines for directed and organized editing](https://wiki.openstreetmap.org/wiki/Organised_Editing_Guidelines){:target="_blank"} such as by companies or school groups. The scope is to set expectations on visibility of mapping efforts and how to communicate with and be reachable by the broader community.

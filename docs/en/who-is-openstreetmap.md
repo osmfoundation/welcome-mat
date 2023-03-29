@@ -9,7 +9,7 @@ image: whatishistory_14665124541_52ce01db2c_o_KLL.jpg
 image-alt: a group of people posing on stairs after completing a mapping workshop
 ---
 
-Everyone who participates in the creation and progress of [OpenStreetMap](https://openstreetmap.org) is part of the OSM community. There’s also the
+Everyone who participates in the creation and progress of [OpenStreetMap](https://openstreetmap.org){:target="_blank"} is part of the OSM community. There’s also the
 [OpenStreetMap Foundation](/about-osm-community/osm-foundation/), a registered nonprofit in the United Kingdom that supports OpenStreetMap and makes sure it is running smoothly.
 
 * **Contributors:** people who add or update data on OpenStreetMap. The majority of these are volunteers; some are humanitarian workers or are employed by companies.

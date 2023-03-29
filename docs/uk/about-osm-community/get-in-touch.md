@@ -7,9 +7,9 @@ lang: uk
 
 [Робочі групи](/about-osm-community/working-groups/) можуть розглянути ваше звернення, якщо воно стосується конкретної теми, як-от ліцензування чи запити преси.
 
-Якщо ви хочете поспілкуватися зі спільнотою в певній країні чи регіоні, зверніться до [OSM Wiki](https://wiki.openstreetmap.org).
+Якщо ви хочете поспілкуватися зі спільнотою в певній країні чи регіоні, зверніться до [OSM Wiki](https://wiki.openstreetmap.org){:target="_blank"}.
 
-Якщо вам потрібна додаткова допомога у зв’язку зі спільнотами, спробуйте сторінку [Контактні канали OSM](https://wiki.openstreetmap.org/wiki/Uk:Contact_channels).
+Якщо вам потрібна додаткова допомога у зв’язку зі спільнотами, спробуйте сторінку [Контактні канали OSM](https://wiki.openstreetmap.org/wiki/Uk:Contact_channels){:target="_blank"}.
 
 Ось [додаткова інформація](/about-osm-community/donate-to-osm/) про пожертви для OSM.
 

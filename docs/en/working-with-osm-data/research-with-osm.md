@@ -7,9 +7,9 @@ Research is a welcome part of the OSM community. From Kathmandu to Berlin, there
 
 There is an email list for research, <a href="mailto:research-announce@lists.openstreetmap.org">research-announce@lists.openstreetmap.org</a>.
 
-Suggestions for how to conduct your research and cite OpenStreetMap are [here](https://wiki.openstreetmap.org/wiki/Researcher_Information).
+Suggestions for how to conduct your research and cite OpenStreetMap are [here](https://wiki.openstreetmap.org/wiki/Researcher_Information){:target="_blank"}.
 
-You can find details on Google Scholar or other web sources that include articles, but here are [some examples](https://wiki.openstreetmap.org/wiki/Research) to help you get started.
+You can find details on Google Scholar or other web sources that include articles, but here are [some examples](https://wiki.openstreetmap.org/wiki/Research){:target="_blank"} to help you get started.
 
 **Could OSM provide a letter of support for our research project?**
 

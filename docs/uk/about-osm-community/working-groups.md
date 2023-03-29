@@ -20,10 +20,10 @@ lang: uk
 
 Робоча група з комунікацій
 
-* Опікується [blog.openstreetmap.org](https://blog.openstreetmap.org) та представництвами OpenStreetMap в [Twitter](https://twitter.com/openstreetmap) та [Facebook](https://www.facebook.com/OpenStreetMap).
+* Опікується [blog.openstreetmap.org](https://blog.openstreetmap.org){:target="_blank"} та представництвами OpenStreetMap в [Twitter](https://twitter.com/openstreetmap){:target="_blank"} та [Facebook](https://www.facebook.com/OpenStreetMap){:target="_blank"}.
 * Є "офіційним голосом проєкту", робить заяви та поширює новини
 * Відповідає за контакти з пресою.
-* Відповідає за вигляд та вміст [osmfoundation.org](https://wiki.osmfoundation.org)
+* Відповідає за вигляд та вміст [osmfoundation.org](https://wiki.osmfoundation.org){:target="_blank"}
 
 ### Operations Working Group
 

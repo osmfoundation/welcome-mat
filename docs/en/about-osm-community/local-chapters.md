@@ -11,6 +11,6 @@ Generally, a group that applies for local chapter status in a country is expecte
 
 An organisation that applies for local chapter status should be sustainable financially, and should have a track record of OSM-related activities, either as an organisation or at least through their founding members. When evaluating a local chapter application, the OSM Foundation will not look at what the chapter is planning to do, but at what they have done already!
 
-The Local Chapter application process is described [here](https://wiki.osmfoundation.org/wiki/Local_Chapters).
+The Local Chapter application process is described [here](https://wiki.osmfoundation.org/wiki/Local_Chapters){:target="_blank"}.
 
 The OpenStreetMap Foundation is happy to talk to groups who do not yet meet the requirements set out above for a local chapter, and work with them to become a local chapter in the future.
