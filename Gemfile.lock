@@ -213,7 +213,7 @@ GEM
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
     minitest (5.18.0)
-    nokogiri (1.14.1)
+    nokogiri (1.14.2)
       mini_portile2 (~> 2.8.0)
       racc (~> 1.4)
     octokit (4.25.1)
@@ -251,6 +251,7 @@ GEM
       unf_ext
     unf_ext (0.0.8.2)
     unicode-display_width (1.8.0)
+    webrick (1.8.1)
 
 PLATFORMS
   ruby
@@ -259,6 +260,7 @@ DEPENDENCIES
   github-pages
   jekyll-feed
   jekyll-gzip
+  webrick (~> 1.8)
 
 BUNDLED WITH
    2.4.5

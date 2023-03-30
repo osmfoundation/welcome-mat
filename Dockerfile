@@ -1,4 +1,4 @@
-FROM ruby:3.1-alpine as build
+FROM docker.io/ruby:3.1-alpine as build
 
 # Add Gem build requirements
 RUN apk add --no-cache g++ make

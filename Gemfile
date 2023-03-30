@@ -5,3 +5,5 @@ group :jekyll_plugins do
   gem 'jekyll-gzip'
   # gem 'jekyll-brotli'
 end
+
+gem "webrick", "~> 1.8"
