@@ -10,12 +10,12 @@ image-alt: a group of people posing on stairs after completing a mapping worksho
 ---
 
 Everyone who participates in the creation and progress of [OpenStreetMap](https://openstreetmap.org){:target="_blank"} is part of the OSM community. There’s also the
-[OpenStreetMap Foundation](/about-osm-community/osm-foundation/), a registered nonprofit in the United Kingdom that supports OpenStreetMap and makes sure it is running smoothly.
+[OpenStreetMap Foundation](/about-osm-community/osm-foundation.md), a registered nonprofit in the United Kingdom that supports OpenStreetMap and makes sure it is running smoothly.
 
 * **Contributors:** people who add or update data on OpenStreetMap. The majority of these are volunteers; some are humanitarian workers or are employed by companies.
 
 * **Data Consumers:** many different companies, organizations, governments, researchers and individuals use OpenStreetMap data for any number of uses: transportation and routing, GPS and navigation, health care, city planning, cartography, municipal services, academic research, GIS and more. Some of the users of OSM data are
-[listed here](/about-osm-community/consumers/).
+[listed here](/about-osm-community/consumers.md).
 
 * **Developers:** coders, developers and designers who use OpenStreetMap to make tools like routing, data editing, quality assurance, project management and more.
 
