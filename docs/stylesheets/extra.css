@@ -1,7 +1,7 @@
 [data-md-color-scheme="osml"] {
     --md-primary-fg-color:        #7EBC6F;
-    --md-primary-fg-color--light: #ECB7B7;
-    --md-primary-fg-color--dark:  #90030C;
+    --md-primary-fg-color--light: #7EBC6F;
+    --md-primary-fg-color--dark:  #7EBC6F;
   }
   
 /* [data-md-color-scheme="slate"] {
