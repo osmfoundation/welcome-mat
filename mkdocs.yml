@@ -57,8 +57,12 @@ extra:
   social:
     - icon: fontawesome/solid/globe
       link: https://openstreetmap.org/
+    - icon: simple/openstreetmap
+      link: https://osmfoundation.org/
     - icon: fontawesome/brands/discourse
       link: https://community.openstreetmap.org/
+    - icon: simple/mastodon
+      link: https://en.osm.town/@openstreetmap
     - icon: fontawesome/brands/x-twitter
       link: https://twitter.com/openstreetmap 
     - icon: fontawesome/brands/facebook
