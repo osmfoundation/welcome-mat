@@ -9,7 +9,7 @@ repo_name: Andygol/welcome-mat-osmf
 
 edit_uri: edit/main/docs/
 
-copyright: © 2019 – 2023 OpenStreetMap Foundation, <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/2.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank">Creative Commons Attribution-ShareAlike 2.0 Generic License</a>.
+copyright: None
 
 extra_css:
   - stylesheets/extra.css
@@ -70,17 +70,23 @@ extra:
 
 markdown_extensions:
 
+  - admonition
   - attr_list # {:target="_blank"} opens links in a new tab
+  - md_in_html
+
+  - pymdownx.blocks.html
+  - pymdownx.details
+  - pymdownx.superfences
+
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg   
+
   - toc:
       permalink: ☄︎
       slugify: !!python/object/apply:pymdownx.slugs.slugify
         kwds:
           case: none
-
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
-  - pymdownx.blocks.html      
 
 # Navigation menu
 nav:
@@ -127,6 +133,7 @@ plugins:
           name: English
           default: true
           site_name: Welcome to OpenStreetMap
+          copyright: © 2019 – 2023 OpenStreetMap Foundation, <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/2.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank">Creative Commons Attribution-ShareAlike 2.0 Generic License</a>.
           nav_translations:
             Home: Home
             # About: About us
