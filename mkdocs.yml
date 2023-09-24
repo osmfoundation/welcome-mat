@@ -17,12 +17,12 @@ extra_css:
 
 theme: 
   name: material
-  custom_dir: overrides
 
   # logo: assets/logo.svg
   favicon: assets/favicon.png
   icon:
     logo: simple/openstreetmap
+    annotation: material/information-outline
 
   palette: 
 
@@ -52,7 +52,6 @@ theme:
     - toc.follow
     - content.action.edit
     - content.action.view
-    - announce.dismiss
 
 extra:
   social:
