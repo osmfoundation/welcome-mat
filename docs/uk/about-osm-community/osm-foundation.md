@@ -1,5 +1,6 @@
 ---
 title: Що таке Фундація OSM?
+description: OpenStreetMap Foundation — це некомерційна організація, яка підтримує OSM і забезпечує необхідну організаційну основу
 lang: uk
 ---
 

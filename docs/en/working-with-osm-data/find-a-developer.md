@@ -1,5 +1,6 @@
 ---
 title: Where do we find a good developer or company to build with OSM?
+description: There are many organizations that use OSM, and there are also developers who build tools and processes using OSM
 lang: en
 ---
 

@@ -1,12 +1,7 @@
 ---
 title: Що таке OpenStreetMap?
 lang: uk
-layout: category
-order: 0
-color: blue
-description: Коротко про OpenStreetMap
-image: GOPR7567.jpg
-image-alt: three men planning a field survey to collect OpenStreetMap data
+description: Короткий вступ, щоб дізнатись про те що таке OpenStreetMap
 ---
 
 [OpenStreetMap](https://openstreetmap.org){:target="_blank"} – вільна мапа світу, редагувати яку може кожен, створена такими ж людьми як ти. Проєкт було започатковано в 2004 році у Великій Британії через розчарування щодо відсутності доступних картографічних даних у вільному доступі.

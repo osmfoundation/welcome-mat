@@ -1,5 +1,6 @@
 ---
 title: How to get in touch
+description: There are many different ways to get in touch with the OpenStreetMap community, it depends on what you want to ask about
 lang: en
 ---
 

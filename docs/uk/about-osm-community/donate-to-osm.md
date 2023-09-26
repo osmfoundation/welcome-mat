@@ -1,5 +1,6 @@
 ---
 title: Як ми можемо надати фінасову підтримку OpenStreetMap?
+description: Пожертвування фонду OpenStreetMap покриє основні операційні витрати на підтримку проєкту OpenStreetMap
 lang: uk
 ---
 

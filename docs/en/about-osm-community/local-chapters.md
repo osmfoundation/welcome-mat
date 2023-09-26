@@ -1,9 +1,10 @@
 ---
 title: How are Local Chapters formed?
+description: The OpenStreetMap Foundation is happy to talk to groups who are going to apply and work with them to become a local chapter
 lang: en
 ---
 
-Once the community of OpenStreetMap contributors in an area is mature enough to warrant the creation of a national (or regional) organisation, they can set up a formal group and apply to be recognized as a local chapter of the OpenStreetMap Foundation. The sequence is key though - creating a formal group is never the first step for OSM activities in a country.  Instead, a formal group should only be set up once there is a certain amount of OSM activities, from a diverse group of people in the country, who can then together found the organisation.
+Once the community of OpenStreetMap contributors in an area is mature enough to warrant the creation of a national (or regional) organisation, they can set up a formal group and apply to be recognized as a local chapter of the OpenStreetMap Foundation. The sequence is key though – creating a formal group is never the first step for OSM activities in a country.  Instead, a formal group should only be set up once there is a certain amount of OSM activities, from a diverse group of people in the country, who can then together found the organisation.
 
 Local chapters must be nonprofit organisations dedicated to supporting the aims of the OpenStreetMap Foundation and the OpenStreetMap project.
 

@@ -1,12 +1,7 @@
 ---
 title: Who is OpenStreetMap?
-lang: en
-layout: category
-order: 1
-color: blue
 description: The people and communities of OSM
-image: whatishistory_14665124541_52ce01db2c_o_KLL.jpg
-image-alt: a group of people posing on stairs after completing a mapping workshop
+lang: en
 ---
 
 Everyone who participates in the creation and progress of [OpenStreetMap](https://openstreetmap.org){:target="_blank"} is part of the OSM community. There’s also the

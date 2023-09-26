@@ -1,5 +1,6 @@
 ---
 title: What is the OSM Foundation?
+description: The OSM Foundation is the nonprofit organization that supports OSM and provides the necessary organizational backbone
 lang: en
 ---
 

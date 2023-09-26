@@ -1,5 +1,6 @@
 ---
 title: How good is OSM data?
+description: OSM is now often as good or better as what is commercially available
 lang: en
 ---
 

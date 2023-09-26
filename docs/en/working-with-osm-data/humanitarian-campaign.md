@@ -1,5 +1,6 @@
 ---
 title: We’re planning a humanitarian campaign using OSM, what do we need to know?
+description:  There are many examples of humanitarian mapping
 lang: en
 ---
 

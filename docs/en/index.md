@@ -1,10 +1,12 @@
 ---
+title: Welcome Mat | OpenStreetMap
+description: OpenStreetMap is a free, editable map of the whole world made by people like you
 lang: en
-title: Home
 hide:
     - toc
     - navigation
 ---
+
 # Welcome Mat | OpenStreetMap (1) { .annotate }
 
 1.  Welcome Mat for [:simple-openstreetmap: OpenStreetMap](https://www.openstreetmap.org){:target="_blank"} community and [Foundation](https://osmfoundation.org){:target="_blank"}. OpenStreetMap is the free and editable map of the world, created and maintained by a huge international community. Anybody can create an account and start editing on [OpenStreetMap](https://www.openstreetmap.org){:target="_blank"} within minutes.
@@ -29,7 +31,7 @@ Current limitations:
   
   **What is OpenStreetMap?**{ .item-title }
 
-  Brief introduction to OpenStreetMap
+  A brief introduction to OpenStreetMap
   { .item-desc }
 ///
 
@@ -53,7 +55,7 @@ Current limitations:
 
   **Why use OpenStreetMap?**{ .item-title }
 
-  The people and communities of OpenStreetMap
+  What makes OpenStreetMap special?
   { .item-desc }
 ///
 

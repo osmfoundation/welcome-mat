@@ -1,6 +1,7 @@
 ---
+title: Welcome Mat | OpenStreetMap
+description: OpenStreetMap – вільна мапа світу, редагувати яку може кожен, створена такими ж людьми як ти
 lang: uk
-title: Головна
 hide:
     - toc
     - navigation
@@ -54,7 +55,7 @@ Current limitations:
 
   **Чому OpenStreetMap?**{ .item-title }
 
-  Що робить OpenStreetMap особливим
+  Що ж робить OpenStreetMap таким особливим
   { .item-desc }
 ///
 

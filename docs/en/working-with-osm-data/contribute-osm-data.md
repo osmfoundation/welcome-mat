@@ -1,5 +1,6 @@
 ---
 title: Organized Editing in OpenStreetMap
+description: Organized mapping efforts are an integral part of today's OSM contribution landscape …
 lang: en
 ---
 

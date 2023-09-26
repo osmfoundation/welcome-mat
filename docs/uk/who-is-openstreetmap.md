@@ -1,12 +1,7 @@
 ---
 title: Хто є в OpenStreetMap?
 lang: uk
-layout: category
-order: 1
-color: blue
 description: Люди та спільноти OSM
-image: whatishistory_14665124541_52ce01db2c_o_KLL.jpg
-image-alt: a group of people posing on stairs after completing a mapping workshop
 ---
 
 Кожен, хто бере участь у створенні та розвитку [OpenStreetMap](https://openstreetmap.org){:target="_blank"}, є частиною спільноти OSM. Існує також [OpenStreetMap Foundation](/about-osm-community/osm-foundation.md), зареєстрована некомерційна організація у Сполученому Королівстві, яка підтримує OpenStreetMap і забезпечує безперебійну роботу проєкту.

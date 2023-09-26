@@ -1,5 +1,6 @@
 ---
 title: How to give back?
+description: How can you or your organization contribute to OSM?
 lang: en
 ---
 

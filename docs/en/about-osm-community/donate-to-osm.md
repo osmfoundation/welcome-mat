@@ -1,5 +1,6 @@
 ---
 title: How can we give money to OpenStreetMap?
+description: A donation to the OpenStreetMap Foundation will cover core operational expenses in supporting the OpenStreetMap project
 lang: en
 ---
 

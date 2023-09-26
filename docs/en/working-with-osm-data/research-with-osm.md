@@ -1,5 +1,6 @@
 ---
 title: How can I research with OSM?
+description: Research is a welcome part of the OSM community
 kang: en
 ---
 

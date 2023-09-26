@@ -1,5 +1,6 @@
 ---
 title: Downloading and using OSM data
+description: It is possible to download raw data for a certain area, entire countries or regions…
 lang: en
 ---
 

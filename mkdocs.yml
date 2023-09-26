@@ -123,8 +123,11 @@ plugins:
         - uk
   - macros
   - ezlinks
-  
-        
+  - social:
+      enabled: true
+      cards_layout_options:
+        background_color: "#7EBC6F"
+
 # This part is for organising languages in specific folders
 # Using a folder per language structure
 # https://pypi.org/project/mkdocs-static-i18n/
