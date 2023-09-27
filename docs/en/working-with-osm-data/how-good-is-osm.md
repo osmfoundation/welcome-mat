@@ -1,6 +1,14 @@
 ---
 title: How good is OSM data?
 description: OSM is now often as good or better as what is commercially available
+
+tile:
+    sequence: 6
+    title: Working with OpenStreetMap Data
+    description: How to use, research and edit OSM…
+    image:
+        src: working-with-osm-data.png
+        alt: A person working on a laptop computer, editing OpenStreetMap data
 lang: en
 ---
 

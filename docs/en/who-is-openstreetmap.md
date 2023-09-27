@@ -1,6 +1,14 @@
 ---
-title: Who is OpenStreetMap?
-description: The people and communities of OSM
+title: &title Who is OpenStreetMap?
+description: &description The people and communities of OSM
+
+tile:
+    sequence: 2
+    title: *title 
+    description: *description
+    image:
+        src: who-is-openstreetmap.png
+        alt: A group of people posing on stairs after completing a mapping workshop
 lang: en
 ---
 

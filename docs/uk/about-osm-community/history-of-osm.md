@@ -1,6 +1,14 @@
 ---
 title: Історія OSM?
 description: OSM засновано у 2004 Стівом Костом і підхоплено ентузіастами картографічної галузі, щоб мати вільні дані
+
+tile:
+    sequence: 5
+    title: Спільнота OpenStreetMap
+    description: Історія, контакти, як приєднатись та багато іншого…
+    image:
+        src: about-osm-community.png
+        alt: Групове фото з учасниками конференції SotM US
 lang: uk 
 ---
 

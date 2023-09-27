@@ -1,0 +1,45 @@
+{% extends "main.html" %}
+
+{%- block content -%}
+{{ super() }}
+
+<section class="grid-container">
+    {%- set sorted_pages = [] -%}
+    {%- for file in pages -%}
+        {%- set p = file.page -%}
+        {%- set tile = p.meta.tile -%}
+        {%- if tile is defined and tile.sequence is defined -%}
+            {%- set item = {'sequence': tile.sequence, 'page': p} -%}
+            {%- set _ = sorted_pages.append(item) -%}
+        {%- endif -%}
+    {%- endfor -%}
+    {%- for item in sorted_pages|sort(attribute='sequence') -%}
+        {%- set p = item.page -%}
+
+        {%- if 'i18n' in config.plugins -%}
+            {%- set default_locale = None -%}
+            {%- for lang in config.plugins['i18n']['languages'] -%}
+                {%- if lang.default -%}
+                    {%- set default_locale = lang.locale -%}
+                {%- endif -%}
+            {%- endfor -%}
+        
+            {%- set prefix = 'assets/images' -%}
+            {%- if p.meta.lang == default_locale -%}
+                {%- set prefix = '../assets/images' -%}
+            {%- endif -%}
+        {%- endif -%}
+    
+        {%- set tile = p.meta.tile -%}
+        <div class="tile">
+            <a href="{{ p.url | url }}" class="link"></a>
+            <p>
+                <img src="{{ prefix | url }}/{{ tile.image.src }}" alt="{{ tile.image.alt }}">
+            </p>
+            <hr>
+            <strong class="item-title">{{ tile.title }}</strong>
+            <p class="item-desc">{{ tile.description }}</p>
+        </div>
+    {%- endfor -%}
+</section>
+{%- endblock %}

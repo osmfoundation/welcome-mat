@@ -1,6 +1,14 @@
 ---
-title: Як зробити звортній внесок?
-description: Як ви та ваша організація можете зробити внесок в OSM
+title: &title Як зробити звортній внесок?
+description: &description Як ви та ваша організація можете зробити внесок в OSM
+
+tile:
+    sequence: 4
+    title: *title 
+    description: *description
+    image:
+        src: how-to-give-back.png
+        alt: Працівники гуманітарної місії Червоного Хреста розклали на землі папери з дослідженням місцевості та обговорюють їх
 lang: uk
 ---
 

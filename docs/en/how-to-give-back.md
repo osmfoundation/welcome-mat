@@ -1,6 +1,14 @@
 ---
-title: How to give back?
-description: How can you or your organization contribute to OSM?
+title: &title How to give back?
+description: &description How can you or your organization contribute to OSM?
+
+tile:
+    sequence: 4
+    title: *title 
+    description: *description
+    image:
+        src: how-to-give-back.png
+        alt: Workers from the Red Cross humanitarian mission have spread papers with local area research on the ground and are discussing them
 lang: en
 ---
 
