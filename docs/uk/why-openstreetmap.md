@@ -1,7 +1,15 @@
 ---
-title: Навіщо користуватись OpenStreetMap?
+title: &title Навіщо користуватись OpenStreetMap?
+description: &description Що ж робить OpenStreetMap особливим
+
+tile:
+    sequence: 3
+    title: *title 
+    description: *description
+    image:
+        src: why-openstreetmap.png
+        alt:  Група людей, які порівнюють дані, зібрані під час дослідження місцевості
 lang: uk
-description: Що ж робить OpenStreetMap особливим
 ---
 
 ## Безплатні та вільні дані

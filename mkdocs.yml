@@ -17,6 +17,7 @@ extra_css:
 
 theme: 
   name: material
+  custom_dir: overrides
 
   # logo: assets/logo.svg
   favicon: assets/favicon.png

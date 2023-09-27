@@ -1,6 +1,14 @@
 ---
 title: Наскільки якісні дані OSM?
 description: Дані OSM часто є такими ж хорошими або кращими, як і ті, що є у продажу
+
+tile:
+    sequence: 6
+    title: Використання OpenStreetMap
+    description: икористання, дослідження та редагування OSM…
+    image:
+        src: working-with-osm-data.png
+        alt: Особа редагує дані OpenStreetMap на ноутбуці
 lang: uk
 ---
 

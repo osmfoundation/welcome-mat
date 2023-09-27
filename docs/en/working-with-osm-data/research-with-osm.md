@@ -1,7 +1,7 @@
 ---
 title: How can I research with OSM?
 description: Research is a welcome part of the OSM community
-kang: en
+lang: en
 ---
 
 Research is a welcome part of the OSM community. From Kathmandu to Berlin, there is a rich history of research about OSM -- the community, the project, and the data. Before starting out, we encourage you to get in touch with the local OSM community and review the background on OSM research.

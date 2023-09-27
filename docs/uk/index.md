@@ -1,5 +1,6 @@
 ---
-title: Welcome Mat | OpenStreetMap
+template: home.html
+title: Вітаємо в OpenStreetMap
 description: OpenStreetMap – вільна мапа світу, редагувати яку може кожен, створена такими ж людьми як ти
 lang: uk
 hide:
@@ -15,84 +16,3 @@ hide:
 
 <!-- Screenshots are from https://youtu.be/Phwrgb16oEM -->
 
-<!-- 
-Current limitations:
-
-- All tile headers must be on one line
--->
-
-//// html | section.grid-container
-
-/// html | div.tile
-  [](what-is-openstreetmap.md){ .link }
-  ![Що таке OpenStreetMap?](../assets/images/what-is-openstreetmap.png)
-
-  ---
-  
-  **Що таке OpenStreetMap?**{ .item-title }
-
-  Короткий вступ, щоб дізнатись про те що таке OpenStreetMap
-  { .item-desc }
-///
-
-/// html | div.tile
-  [](who-is-openstreetmap.md){ .link }
-  ![Хто є в OpenStreetMap?](../assets/images/who-is-openstreetmap.png)
-
-  ---
-
-  **Хто є в OpenStreetMap?**{ .item-title }
-
-  Люди та Спільноти OpenStreetMap
-  { .item-desc }
-///
-
-/// html | div.tile
-  [](why-openstreetmap.md){ .link }
-  ![Чому OpenStreetMap?](../assets/images/why-openstreetmap.png)
-
-  ---
-
-  **Чому OpenStreetMap?**{ .item-title }
-
-  Що ж робить OpenStreetMap таким особливим
-  { .item-desc }
-///
-
-/// html | div.tile
-  [](how-to-give-back.md){ .link }
-  ![Внесок в OpenStreetMap](../assets/images/how-to-give-back.png)
-
-  ---
-  
-  **Внесок в OpenStreetMap**{ .item-title }
-
-  Як ви та ваша організація можете зробити внесок в OSM
-  { .item-desc }
-///
-
-/// html | div.tile
-  [](about-osm-community/history-of-osm.md){ .link }
-  ![Спільнота OpenStreetMap](../assets/images/about-osm-community.png)
-
-  ---
-
-  **Спільнота OpenStreetMap**{ .item-title }
-
-  Історія, контакти, як приєднатись та багато іншого…
-  { .item-desc }
-///
-
-/// html | div.tile
-  [](working-with-osm-data/how-good-is-osm.md){ .link }
-  ![Використання OpenStreetMap](../assets/images/working-with-osm-data.png)
-
-  ---
-
-  **Використання OpenStreetMap**{ .item-title }
-
-  Використання, дослідження та редагування OSM…
-  { .item-desc }
-///
-
-////

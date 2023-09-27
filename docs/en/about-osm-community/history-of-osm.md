@@ -1,6 +1,14 @@
 ---
 title: What is the history of OSM?
 description: OSM was founded in 2004 by Steve Coast, and taken up by a community of enthusiasts who wanted a free and open source data
+
+tile:
+    sequence: 5
+    title: About the OSM Community
+    description: Getting in touch, history, joining and more…
+    image:
+        src: about-osm-community.png
+        alt: A group photo with participants of the SotM US conference
 lang: en 
 ---
 
