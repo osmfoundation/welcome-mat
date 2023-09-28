@@ -11,6 +11,8 @@ edit_uri: edit/main/docs/
 
 copyright: None
 
+announce: None
+
 extra_css:
   - stylesheets/extra.css
 # Start of MkDocs theme adjastments
@@ -44,6 +46,9 @@ theme:
         name: Switch to light mode
 
   features:
+    - announce.dismiss
+    - content.action.edit
+    - content.action.view
     - navigation.tracking
     - navigation.tabs
     - navigation.tabs.sticky
@@ -51,8 +56,6 @@ theme:
     - navigation.footer
     - search.suggest
     - toc.follow
-    - content.action.edit
-    - content.action.view
 
 extra:
   social:
@@ -60,6 +63,8 @@ extra:
       link: https://openstreetmap.org/
     - icon: simple/openstreetmap
       link: https://osmfoundation.org/
+    - icon: fontawesome/brands/github
+      link: https://github.com/openstreetmap
     - icon: fontawesome/brands/discourse
       link: https://community.openstreetmap.org/
     - icon: simple/mastodon
@@ -140,6 +145,9 @@ plugins:
           name: English
           default: true
           site_name: Welcome to OpenStreetMap
+          announce: >
+            <p>Welcome Mat for <a href="https://www.openstreetmap.org" target="_blank">OpenStreetMap</a> community and <a href="https://osmfoundation.org" target="_blank">Foundation</a>. OpenStreetMap is the free and editable map of the world, created and maintained by a huge international community. Anybody can create an account and start editing on <a href="https://www.openstreetmap.org" target="_blank">OpenStreetMap</a> within minutes.</p>
+            <p>These guides are licensed under <a href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank">Creative Commons Attribution-ShareAlike 2.0 Generic License</a> if you would like to contribute or have any feedback on these, please feel free to raise an issue in this <a href="https://github.com/osmfoundation/welcome-mat/issues" target="_blank">repository</a>.</p>
           copyright: © 2019 – 2023 OpenStreetMap Foundation, <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/2.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank">Creative Commons Attribution-ShareAlike 2.0 Generic License</a>.
           nav_translations:
             Home: Home
@@ -170,6 +178,9 @@ plugins:
         - locale: uk
           name: Українська
           site_name: Ласкаво просимо до OpenStreetMap
+          announce: >
+            <p>Вітаємо вас у цьому посібнику спільноти <a href="https://www.openstreetmap.org" target="_blank">OpenStreetMap</a> та <a href="https://osmfoundation.org" target="_blank">Фундації</a> проєкту. OpenStreetMap – це вільна мапа світу покращувати яку може кожен, яка створена та підтримується зусиллями величезної міжнародної спільноти. Будь-хто може зареєструватись в проєкті та розпочати вносити свої зміни в <a href="https://www.openstreetmap.org" target="_blank">OpenStreetMap</a> за лічені хвилини.</p>
+            <p>Матеріали цього посібника розповсюджуються на умовах Ліцензії <a href="https://creativecommons.org/licenses/by-sa/2.0/deed.uk" target="_blank">Creative Commons Attribution-ShareAlike 2.0 Generic License</a> і якщо у вас є бажання взяти участь його вдосконалені, або у вас є побажання щодо його покращення, не соромтеся створити тікет у нашому <a href="https://github.com/osmfoundation/welcome-mat/issues" target="_blank">репозиторії</a>.</p>
           copyright: "© 2019 – 2023 Фундація OpenStreetMap, <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.uk\" target=\"_blank\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by-sa/2.0/80x15.png\" /></a><br />Матеріали цього сайту ліцензуються на умовах Ліцензії – <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.uk\" target=\"_blank\">Creative Commons Attribution-ShareAlike 2.0 Generic License</a>."
           nav_translations:
             Home: Головна
