@@ -1,0 +1,27 @@
+<script>
+    let announceBar = document.querySelector("[data-md-component=announce]");
+    let infoForm = document.querySelector("[data-md-component=info]");
+    let infoInputs = infoForm.querySelectorAll("input");
+    
+    let infoToggleHandler = (el) => {
+      for (input of infoInputs) {
+        let isHidden = input.hidden === true;
+        input.hidden = !isHidden;
+        if (isHidden) {
+          input.removeAttribute("aria-hidden");
+        } else {
+          input.setAttribute("aria-hidden", "true");
+        }
+        input.nextElementSibling.hidden = !isHidden;
+      }
+      announceBar.hidden = !announceBar.hidden;
+    };
+    
+    if (announceBar) {
+      announceBar.hidden = true;
+      for (input of infoInputs) {
+        input.addEventListener("click", infoToggleHandler);
+      }
+    }
+</script>
+    
