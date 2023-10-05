@@ -1,0 +1,27 @@
+<form class="md-header__option" data-md-component="info">
+  {% for option in config.announce.toggle %}
+  <input
+    class="md-option"
+    aria-label="{{ option.label }}" 
+    type="radio"
+    name="__info"
+    id="__info_{{ loop.index }}"
+          {% if loop.index != 1 %}
+    aria-hidden="true"
+          hidden
+    {% endif %}
+    />
+    <label
+      class="md-header__button md-icon"
+      title="{{ option.label }}"
+      for="__info_{{ loop.index }}"
+      {% if loop.index != 1 %}
+        hidden
+      {% endif %}
+    >
+      {% include ".icons/" ~ option.icon ~ ".svg" %}
+    </label>
+  {% endfor %}
+</form>
+
+{% include "partials/javascripts/info.html" %}
