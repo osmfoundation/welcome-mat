@@ -52,7 +52,7 @@ theme:
         name: Switch to light mode
 
   features:
-    - announce.dismiss
+    # - announce.dismiss
     - content.action.edit
     - content.action.view
     - navigation.tracking
@@ -236,3 +236,7 @@ plugins:
             Research with OSM: Як я можу використовувати OSM в дослідженнях?
             Find a developer: Де знайти хорошого розробника чи компанію для створення продукту з використанням OSM?
             Downloading and using: Завантаження та використання даних OSM
+       
+        - locale: "null"
+          name: Help to translate
+          fixed_link: https://github.com/Andygol/welcome-mat-osmf/#translation
