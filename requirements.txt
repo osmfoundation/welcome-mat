@@ -1,5 +1,5 @@
 mkdocs-ezlinks-plugin == 0.1.14
 mkdocs-macros-plugin == 1.0.5
-mkdocs-material == 9.5.26
+mkdocs-material == 9.5.29
 mkdocs-static-i18n == 1.2.3
 mkdocs-material[imaging]
