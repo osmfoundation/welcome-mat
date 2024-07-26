@@ -1,11 +1,11 @@
 ---
-title: Downloading and using OSM data
-description: It is possible to download raw data for a certain area, entire countries or regions…
-lang: en
+title: Pobieranie i korzystanie z danych projektu OSM
+description: Możliwe jest pobranie nieprzetworzonych danych dla określonego obszaru, całych krajów lub regionów...
+lang: pl
 ---
 
-There are many ways to use OpenStreetMap data. It is possible to download raw data for a certain area, entire countries or regions, or certain features such as roads or buildings. There are also many ways to use existing sets or of OpenStreetMap data, such as map images, routing software and more.
+Istnieje wiele sposobów korzystania z danych projektu OpenStreetMap. Możliwe jest pobranie nieprzetworzonych danych dla określonego obszaru, całych krajów lub regionów lub określonych elementów, takich jak drogi lub budynki. Istnieje również wiele sposobów korzystania z istniejących zestawów danych projektu OpenStreetMap, takich jak obrazy map, oprogramowanie do wyznaczania tras i inne.
 
-If you are interested in downloading raw OpenStreetMap data, [this page](https://wiki.openstreetmap.org/wiki/Downloading_data){:target="_blank"} has more information.
+Jeśli jesteś zainteresowany pobraniem surowych danych OpenStreetMap, [ta strona internetowa](https://wiki.openstreetmap.org/wiki/Downloading_data){:target="_blank"} ma więcej informacji.
 
-[Here](https://wiki.openstreetmap.org/wiki/Use_OpenStreetMap){:target="_blank"} is more information on uses of OpenStreetMap, such as in maps and for routing.
+[Tutaj](https://wiki.openstreetmap.org/wiki/Use_OpenStreetMap){:target="_blank"} znajduje się więcej informacji na temat zastosowań projektu OpenStreetMap, takich jak mapy i wyznaczanie tras.
