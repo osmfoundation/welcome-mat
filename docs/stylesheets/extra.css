@@ -1,11 +1,11 @@
-[data-md-color-scheme=osml] {
+:root {
     --md-primary-fg-color:        #7EBC6F;
     --md-primary-fg-color--light: #9CCB90;
     --md-primary-fg-color--dark:  #415D43;
   }
-  
+
 /* [data-md-color-scheme="slate"] {
-  --md-hue: 210; 
+  --md-hue: 210;
 } */
 
 .grid-container {

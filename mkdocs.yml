@@ -15,7 +15,7 @@ extra_css:
   - stylesheets/extra.css
 # Start of MkDocs theme adjastments
 
-theme: 
+theme:
   name: material
   custom_dir: overrides
 
@@ -23,23 +23,28 @@ theme:
   icon:
     logo: simple/openstreetmap
 
-  palette: 
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/theme-light-dark
+        name: Switch to light mode
 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       primary: custom
-      scheme: osml
+      scheme: default
       toggle:
-        icon: material/weather-sunny 
+        icon: material/weather-sunny
         name: Switch to dark mode
 
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
-      primary: blue grey
+      primary: black
       scheme: slate
       toggle:
         icon: material/weather-night
-        name: Switch to light mode
+        name: Switch to system preference
 
   features:
     # - announce.dismiss
@@ -66,18 +71,18 @@ extra:
     - icon: simple/mastodon
       link: https://en.osm.town/@openstreetmap
     - icon: fontawesome/brands/x-twitter
-      link: https://twitter.com/openstreetmap 
+      link: https://twitter.com/openstreetmap
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/OpenStreetMap/
 
-  announce: 
+  announce:
     text: None
     toggle:
       - label: Show info
         icon: material/information-outline
-      - label: Hide info 
+      - label: Hide info
         icon: material/information
-    
+
 # End of MkDocs theme adjastments
 
 markdown_extensions:
@@ -92,7 +97,7 @@ markdown_extensions:
 
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg   
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
   - toc:
       permalink: "#"
@@ -108,7 +113,7 @@ nav:
   - Who is OpenStreetMap: who-is-openstreetmap.md
   - Why use OpenStreetMap: why-openstreetmap.md
   - How can we give back: how-to-give-back.md
-  - About Community: 
+  - About Community:
     - History of OSM: about-osm-community/history-of-osm.md
     - OSMF: about-osm-community/osm-foundation.md
     - Local Chapters: about-osm-community/local-chapters.md
@@ -149,9 +154,11 @@ plugins:
           theme:
             palette:
               - toggle:
+                  name: Switch to light mode
+              - toggle:
                   name: Switch to dark mode
               - toggle:
-                  name: Switch to light mode
+                  name: Switch to system preference
           extra:
             announce:
               toggle:
@@ -195,9 +202,11 @@ plugins:
           theme:
             palette:
               - toggle:
+                  name: Przełącz na tryb jasny
+              - toggle:
                   name: Przełącz na tryb ciemny
               - toggle:
-                  name: Przełącz na tryb jasny
+                  name: Przełącz na preferencje systemowe
           extra:
             announce:
               toggle:
@@ -218,7 +227,7 @@ plugins:
 
             About Community: Społeczność OpenStreetMap
             History of OSM: Jaka jest historia projektu OSM?
-            OSMF: Czym jest Fundacja OSM? 
+            OSMF: Czym jest Fundacja OSM?
             Local Chapters: Jak powstają lokalne oddziały?
             Working Groups: Opowiedz mi o grupach roboczych Fundacji OSM
             Consumers:  Kto korzysta z projektu OpenStreetMap?
@@ -229,7 +238,7 @@ plugins:
             Working with data: Praca z danymi projektu OpenStreetMap
             Data quality: Jak dobre są dane projektu OSM?
             Contribute data: Zorganizowane redagowanie projektu OpenStreetMap
-            Humanitarian campaign:  Planujemy kampanię humanitarną z wykorzystaniem OSM, co musimy wiedzieć? 
+            Humanitarian campaign:  Planujemy kampanię humanitarną z wykorzystaniem OSM, co musimy wiedzieć?
             Research with OSM: Jak mogę prowadzić badania z wykorzystaniem projektu OSM?
             Find a developer: Gdzie możemy znaleźć dobrego programistę lub firmę, którzy będą współpracować z OSM?
             Downloading and using:  Pobieranie i korzystanie z danych projektu OSM
@@ -241,11 +250,13 @@ plugins:
           theme:
             palette:
               - toggle:
+                  name: Увімкнути світлу тему
+              - toggle:
                   name: Увімкнути темну тему
               - toggle:
-                  name: Увімкнути світлу тему
+                  name: Увімкнути системну тему
           extra:
-            announce: 
+            announce:
               toggle:
                 - label: Показати інформацію
                   icon: material/information-outline
@@ -279,7 +290,7 @@ plugins:
             Research with OSM: Як я можу використовувати OSM в дослідженнях?
             Find a developer: Де знайти хорошого розробника чи компанію для створення продукту з використанням OSM?
             Downloading and using: Завантаження та використання даних OSM
-       
+
         - locale: "null"
           name: Help to translate
           fixed_link: https://github.com/Andygol/welcome-mat-osmf/#translation
