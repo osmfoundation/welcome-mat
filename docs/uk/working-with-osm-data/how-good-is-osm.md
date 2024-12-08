@@ -5,7 +5,7 @@ description: Дані OSM часто є такими ж хорошими або 
 tile:
     sequence: 6
     title: Використання OpenStreetMap
-    description: икористання, дослідження та редагування OSM…
+    description: Використання, дослідження та редагування OSM…
     image:
         src: working-with-osm-data.png
         alt: Особа редагує дані OpenStreetMap на ноутбуці
