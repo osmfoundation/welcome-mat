@@ -1,6 +1,6 @@
 ---
 title: ¿Quién utiliza OpenStreetMap?
-description: OpenStreetMap es utilizado por personas de todo el mundo: particulares, voluntarios, empresas, organizaciones sin ánimo de lucro y gobiernos, …
+description: OpenStreetMap es utilizado por personas de todo el mundo - particulares, voluntarios, empresas, organizaciones sin ánimo de lucro y gobiernos, …
 lang: es
 ---
 
