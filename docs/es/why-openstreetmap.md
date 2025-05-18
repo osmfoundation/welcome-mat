@@ -8,7 +8,7 @@ tile:
     description: *description
     image:
         src: why-openstreetmap.png
-        alt:Un grupo de personas comparando datos recopilados durante una encuesta de campo de OpenStreetMap
+        alt: Un grupo de personas comparando datos recopilados durante una encuesta de campo de OpenStreetMap
 lang: es
 ---
 

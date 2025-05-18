@@ -245,7 +245,6 @@ plugins:
 
         - locale: es
           name: Español
-          default: true
           site_name: Bienvenido a OpenStreetMap
           copyright: © 2019 – 2025 OpenStreetMap Foundation, <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/2.0/80x15.png" /></a><br />This work is licensed under a <a rel=«license» href=«http://creativecommons.org/licenses/by-sa/2.0/» target=«_blank»>Creative Commons Attribution-ShareAlike 2.0 Generic License</a>.
           theme:
@@ -275,14 +274,14 @@ plugins:
             How can we give back: ¿Cómo puedes retribuir?
 
             About Community: Comunidad OpenStreetMap.
-            Historia de OSM: ¿Cuál es la historia de OSM?
+            History of OSM: ¿Cuál es la historia de OSM?
             OSMF: ¿Qué es la Fundación OSM?
-            Capítulos Locales: ¿Cómo se forman los Capítulos Locales?
-            Grupos de Trabajo: Cuéntame de los Grupos de Trabajo de la Fundación OSM.
-            Consumidores: ¿Quién utiliza OpenStreetMap?
-            Noticias OSM: ¿Qué hay de nuevo en OpenStreetMap?
-            Donaciones: ¿Cómo puedes donar dinero a OpenStreetMap?
-            Contacto: ¿Cómo ponerte en contacto?
+            Local Chapters: ¿Cómo se forman los Capítulos Locales?
+            Working Groups: Cuéntame de los Grupos de Trabajo de la Fundación OSM.
+            Consumers: ¿Quién utiliza OpenStreetMap?
+            OSM News: ¿Qué hay de nuevo en OpenStreetMap?
+            Donate: ¿Cómo puedes donar dinero a OpenStreetMap?
+            Contact: ¿Cómo ponerte en contacto?
 
             Working with data: Trabajar con datos de OpenStreetMap
             Data quality: ¿Qué calidad tienen los datos de OSM?
