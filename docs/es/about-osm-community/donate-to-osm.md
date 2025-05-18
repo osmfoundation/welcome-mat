@@ -28,4 +28,4 @@ Si existe un Capítulo local de OSM en tu jurisdicción, también podrías consi
 
 ## Conferencias
 
-Existe una variedad de conferencias de OpenStreetMap, y los ingresos por entradas contribuyen al sostenimiento de la comunidad. La conferencia internacional anual de OpenStreetMap se llama [State of the Map](https://stateofthemap.org){:target="_blank"}. También hay muchas conferencias [regionales](https://wiki.openstreetmap.org/wiki/State_Of_The_Map#Regional.2Flocal_conferences) sobre el Estado del Mapa.
+Existe una variedad de conferencias de OpenStreetMap, y los ingresos por entradas contribuyen al sostenimiento de la comunidad. La conferencia internacional anual de OpenStreetMap se llama [State of the Map](https://stateofthemap.org){:target="_blank"}. También hay muchas conferencias [regionales](https://wiki.openstreetmap.org/wiki/State_of_the_Map#Regional.2Flocal_conferences) sobre el Estado del Mapa.
