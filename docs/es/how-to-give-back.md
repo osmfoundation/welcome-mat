@@ -26,4 +26,5 @@ Aquí se presentan algunas [directrices generales](https://wiki.openstreetmap.or
 * Convertirse en [miembro o colaborador](/about-osm-community/donate-to-osm.md) contribuye a la sostenibilidad del proyecto. Varias [empresas](https://wiki.osmfoundation.org/wiki/Corporate_Members){:target="_blank"}, por ejemplo, son colaboradoras.
 * Contribuir con imágenes u otros datos, como trazas GPS o datos SIG, puede ayudar a mejorar el mapa para todos y proporcionar a la comunidad un medio para utilizar esa información para recopilar nuevos datos. Es importante publicar estos datos bajo una licencia abierta.
 * También existe una variedad de infraestructura de código abierto que se beneficiaría de la contribución y el apoyo de la comunidad en general.
-* También es necesario promover OpenStreetMap, realizar formación, involucrar a la comunidad y más. Puedes contribuir a OpenStreetMap sin tener que editar el mapa. * Participar en la gobernanza y el trabajo de la Fundación OpenStreetMap a través de los [grupos de trabajo](/about-osm-community/working-groups.md).
+* También es necesario promover OpenStreetMap, realizar formación, involucrar a la comunidad y más. Puedes contribuir a OpenStreetMap sin tener que editar el mapa.
+* Participar en la gobernanza y el trabajo de la Fundación OpenStreetMap a través de los [grupos de trabajo](/about-osm-community/working-groups.md).
