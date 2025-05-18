@@ -19,7 +19,7 @@ lang: es
 * OSM es una plataforma compartida para contribuir y colaborar con otros.
 * Contribuir a un mapa global tiene un mayor beneficio social.
 
-Aquí se presentan algunas [directrices generales](https://wiki.openstreetmap.org/wiki/How_We_Map){:target="_blank"} para contribuir. Si estás pensando en importar un conjunto de datos existente, [lee atentamente nuestras pautas de importación](https://wiki.openstreetmap.org/wiki/Import/Guidelines){:target="_blank"} y ten en cuenta especialmente la [compatibilidad de licencias](https://wiki.openstreetmap.org/wiki/Import/Guidelines#Step_3_-_License_approval){:target="_blank"}.
+Aquí se presentan algunas [directrices generales](https://wiki.openstreetmap.org/wiki/ES:C%C3%B3mo_mapeamos){:target="_blank"} para contribuir. Si estás pensando en importar un conjunto de datos existente, [lee atentamente nuestras pautas de importación](https://wiki.openstreetmap.org/wiki/ES:Importaci%C3%B3n/Directrices){:target="_blank"} y ten en cuenta especialmente la [compatibilidad de licencias](https://wiki.openstreetmap.org/wiki/ES:Importaci%C3%B3n/Directrices#Paso_3._Aprobaci%C3%B3n_de_licencia){:target="_blank"}.
 
 ## ¿De qué otras maneras podemos contribuir?
 
