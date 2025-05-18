@@ -1,5 +1,5 @@
 ---
-title: Cuéntame de los Grupos de Trabajo de la Fundación OSM.
+title: Cuéntame de los Grupos de Trabajo de la Fundación OSM
 description: Los grupos de trabajo de la Fundación OSM son voluntarios que gestionan y dirigen diversos aspectos de OpenStreetMap
 lang: es
 ---
@@ -32,7 +32,7 @@ Los Grupos de Trabajo de la Fundación OSM están formados por voluntarios que g
 
 ### Comité Organizador del State of the Map
 
-* Organización y ejecución de la Conferencia anual mundial de la Fundación OpenStreetMap, "State of the Map"
+* Organización y ejecución de la Conferencia anual mundial de la Fundación OpenStreetMap, "State of the Map".
 
 <!--
 ### Grupo de Trabajo de Capítulos Locales
