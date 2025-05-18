@@ -10,7 +10,7 @@ Hay una lista de correo electrónico para investigación: <a href="mailto:resear
 
 Sugerencias para realizar tu investigación y citar OpenStreetMap están [aquí](https://wiki.openstreetmap.org/wiki/Researcher_Information){:target="_blank"}.
 
-Puedes encontrar información detallada en Google Académico u otras fuentes web que incluyan artículos, pero aquí tienes [algunos ejemplos](https://wiki.openstreetmap.org/wiki/Research){:target="_blank"} para ayudarte a empezar.
+Puedes encontrar información detallada en Google Académico u otras fuentes web que incluyan artículos, pero aquí tienes [algunos ejemplos](https://wiki.openstreetmap.org/wiki/ES:Investigaci%C3%B3n){:target="_blank"} para ayudarte a empezar.
 
 **¿Podría OSM proporcionar una carta de apoyo para nuestro proyecto de investigación?**
 
