@@ -185,7 +185,7 @@ plugins:
             Consumers: Who uses OpenStreetMap?
             OSM News: What's new with OpenStreetMap?
             Donate: How can we give money to OpenStreetMap?
-            Contact: How to get in touch
+            Contact: How to get in touch?
 
             Working with data: Working with OpenStreetMap Data
             Data quality: How good is OSM data?
@@ -242,6 +242,54 @@ plugins:
             Research with OSM: Jak mogę prowadzić badania z wykorzystaniem projektu OSM?
             Find a developer: Gdzie możemy znaleźć dobrego programistę lub firmę, którzy będą współpracować z OSM?
             Downloading and using:  Pobieranie i korzystanie z danych projektu OSM
+
+        - locale: es
+          name: Español
+          site_name: Bienvenido a OpenStreetMap
+          copyright: © 2019 – 2025 OpenStreetMap Foundation, <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/2.0/80x15.png" /></a><br />This work is licensed under a <a rel=«license» href=«http://creativecommons.org/licenses/by-sa/2.0/» target=«_blank»>Creative Commons Attribution-ShareAlike 2.0 Generic License</a>.
+          theme:
+            palette:
+              - toggle:
+                  name: Cambiar a modo luminoso
+              - toggle:
+                  name: Cambiar a modo oscuro
+              - toggle:
+                  name: Cambiar de acuerdo a la configuración del sistema
+          extra:
+            announce:
+              toggle:
+                - label: Mostrar información
+                  icon: material/information-outline
+                - label: Ocultar información
+                  icon: material/information
+              text: >-
+                <p>Bienvenido al Tapete de Bienvenida de la comunidad <a href=«https://www.openstreetmap.org» target=«_blank»>OpenStreetMap</a> y <a href=«https://osmfoundation.org» target=«_blank»>Fundación</a>. OpenStreetMap es el mapa gratuito y editable del mundo, creado y mantenido por una enorme comunidad internacional. Cualquiera puede crear una cuenta y empezar a editar en <a href="https://www.openstreetmap.org" target="_blank">OpenStreetMap</a> en cuestión de minutos.</p>
+                <p>Estas guías están bajo licencia <a href=«http://creativecommons.org/licenses/by-sa/2.0/» target="_blank">Creative Commons Attribution-ShareAlike 2.0 Generic License</a> si deseas contribuir o tienes algún comentario sobre ellas, no dudes en crear una incidencia en este <a href=«https://github.com/osmfoundation/welcome-mat/issues» target=«_blank»>repositorio</a>.</p>
+          nav_translations:
+            Home: Home
+            # About: About us
+            What is OpenStreetMap: ¿Qué es OpenStreetMap?
+            Who is OpenStreetMap: ¿Quién es OpenStreetMap?
+            Why use OpenStreetMap: ¿Por qué usar OpenStreetMap?
+            How can we give back: ¿Cómo puedes retribuir?
+
+            About Community: Comunidad OpenStreetMap.
+            History of OSM: ¿Cuál es la historia de OSM?
+            OSMF: ¿Qué es la Fundación OSM?
+            Local Chapters: ¿Cómo se forman los Capítulos Locales?
+            Working Groups: Cuéntame de los Grupos de Trabajo de la Fundación OSM.
+            Consumers: ¿Quién utiliza OpenStreetMap?
+            OSM News: ¿Qué hay de nuevo en OpenStreetMap?
+            Donate: ¿Cómo puedes donar dinero a OpenStreetMap?
+            Contact: ¿Cómo ponerte en contacto?
+
+            Working with data: Trabajar con datos de OpenStreetMap
+            Data quality: ¿Qué calidad tienen los datos de OSM?
+            Contribute data: Edición organizada en OpenStreetMap
+            Humanitarian campaign: ¿Estás planeando una campaña humanitaria utilizando OSM, ¿qué necesitas saber?
+            Research with OSM: ¿Cómo puedo investigar con OSM?
+            Find a developer: ¿Dónde puedes encontrar un buen desarrollador o empresa para desarrollar con OSM?
+            Downloading and using: Descarga y uso de datos OSM
 
         - locale: uk
           name: Українська
