@@ -20,8 +20,8 @@ Hay una cosa segura sobre OSM: está mejorando constantemente en todas las regio
 
 Los enlaces que figuran a continuación muestran algunas de las estadísticas pertinentes para realizar una comparación con datos de terceros:
 
-- [http://www.missingmaps.org/osmstats/](http://www.missingmaps.org/osmstats/){:target=«_blank»}
-- [https://mapbox.github.io/osm-analysis-collab/osm-quality](https://mapbox.github.io/osm-analysis-collab/osm-quality){:target="_blank"}
+- [Missing Maps/statistics](https://www.missingmaps.org/es/statistics/){:target=«_blank»}
+- [mapbox/osm-quality](https://mapbox.github.io/osm-analysis-collab/osm-quality){:target="_blank"}
 
 Aquí se puede encontrar más investigación sobre OpenStreetMap, incluidos muchos documentos sobre la calidad de los datos:
 
