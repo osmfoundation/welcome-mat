@@ -13,8 +13,8 @@ copyright: None
 
 extra_css:
   - stylesheets/extra.css
-# Start of MkDocs theme adjastments
 
+# Start of MkDocs theme adjastments
 theme:
   name: material
   custom_dir: overrides
@@ -101,14 +101,14 @@ markdown_extensions:
 
   - toc:
       permalink: "#"
+      permalink_title: false
       slugify: !!python/object/apply:pymdownx.slugs.slugify
         kwds:
-          case: none
+          case: lower
 
 # Navigation menu
 nav:
   - Home: index.md
-  # - About: about.md
   - What is OpenStreetMap: what-is-openstreetmap.md
   - Who is OpenStreetMap: who-is-openstreetmap.md
   - Why use OpenStreetMap: why-openstreetmap.md
@@ -139,9 +139,9 @@ plugins:
       cards_layout_options:
         background_color: "#7EBC6F"
 
-# This part is for organising languages in specific folders
-# Using a folder per language structure
-# https://pypi.org/project/mkdocs-static-i18n/
+  # This part is for organising languages in specific folders
+  # Using a folder per language structure
+  # https://pypi.org/project/mkdocs-static-i18n/
   - i18n:
       docs_structure: folder
       reconfigure_material: true
@@ -150,7 +150,7 @@ plugins:
           name: English
           default: true
           site_name: Welcome to OpenStreetMap
-          copyright: © 2019 – 2023 OpenStreetMap Foundation, <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/2.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank">Creative Commons Attribution-ShareAlike 2.0 Generic License</a>.
+          copyright: © 2019 – 2025 OpenStreetMap Foundation, <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/2.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank">Creative Commons Attribution-ShareAlike 2.0 Generic License</a>.
           theme:
             palette:
               - toggle:
@@ -171,7 +171,6 @@ plugins:
                 <p>These guides are licensed under <a href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank">Creative Commons Attribution-ShareAlike 2.0 Generic License</a> if you would like to contribute or have any feedback on these, please feel free to raise an issue in this <a href="https://github.com/osmfoundation/welcome-mat/issues" target="_blank">repository</a>.</p>
           nav_translations:
             Home: Home
-            # About: About us
             What is OpenStreetMap: What is OpenStreetMap?
             Who is OpenStreetMap: Who is OpenStreetMap?
             Why use OpenStreetMap: Why use OpenStreetMap?
@@ -198,7 +197,7 @@ plugins:
         - locale: pl
           name: polski
           site_name: Witamy w OpenStreetMap
-          copyright: © 2019 – 2023 Fundacja OpenStreetMap, <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/2.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank">Creative Commons Attribution-ShareAlike 2.0 Generic License</a>.
+          copyright: © 2019 – 2025 Fundacja OpenStreetMap, <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/2.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank">Creative Commons Attribution-ShareAlike 2.0 Generic License</a>.
           theme:
             palette:
               - toggle:
@@ -219,7 +218,6 @@ plugins:
                 <p> Przewodniki te są licencjonowane na mocy <a href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank">Licencji Creative Commons Attribution-ShareAlike 2.0 Generic</a> Jeśli chcesz wnieść swój wkład lub masz jakieś uwagi na ich ten temat, prosimy o zgłoszenie problemu w tym  <a href="https://github.com/osmfoundation/welcome-mat/issues" target="_blank">repozytorium</a>.</p>
           nav_translations:
             Home: Strona główna
-            # About: O nas
             What is OpenStreetMap: Czym jest projekt OpenStreetMap?
             Who is OpenStreetMap: Kim jest społeczność OpenStreetMap?
             Why use OpenStreetMap: Dlaczego warto używać OpenStreetMap?
@@ -268,7 +266,6 @@ plugins:
                 <p>Estas guías están bajo licencia <a href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank">Creative Commons Attribution-ShareAlike 2.0 Generic License</a> si deseas contribuir o tienes algún comentario sobre ellas, no dudes en crear una incidencia en este <a href="https://github.com/osmfoundation/welcome-mat/issues" target="_blank">repositorio</a>.</p>
           nav_translations:
             Home: Home
-            # About: About us
             What is OpenStreetMap: ¿Qué es OpenStreetMap?
             Who is OpenStreetMap: ¿Quién es OpenStreetMap?
             Why use OpenStreetMap: ¿Por qué usar OpenStreetMap?
@@ -295,7 +292,7 @@ plugins:
         - locale: uk
           name: Українська
           site_name: Ласкаво просимо до OpenStreetMap
-          copyright: "© 2019 – 2023 Фундація OpenStreetMap, <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.uk\" target=\"_blank\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by-sa/2.0/80x15.png\" /></a><br />Матеріали цього сайту ліцензуються на умовах Ліцензії – <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.uk\" target=\"_blank\">Creative Commons Attribution-ShareAlike 2.0 Generic License</a>."
+          copyright: "© 2019 – 2025 Фундація OpenStreetMap, <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.uk\" target=\"_blank\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by-sa/2.0/80x15.png\" /></a><br />Матеріали цього сайту ліцензуються на умовах Ліцензії – <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.uk\" target=\"_blank\">Creative Commons Attribution-ShareAlike 2.0 Generic License</a>."
           theme:
             palette:
               - toggle:
@@ -316,7 +313,6 @@ plugins:
                 <p>Матеріали цього посібника розповсюджуються на умовах Ліцензії <a href="https://creativecommons.org/licenses/by-sa/2.0/deed.uk" target="_blank">Creative Commons Attribution-ShareAlike 2.0 Generic License</a> і якщо у вас є бажання взяти участь його вдосконалені, або у вас є побажання щодо його покращення, не соромтеся створити тікет у нашому <a href="https://github.com/osmfoundation/welcome-mat/issues" target="_blank">репозиторії</a>.</p>
           nav_translations:
             Home: Головна
-            # About: Про нас
             What is OpenStreetMap: Що таке OpenStreetMap?
             Who is OpenStreetMap: Хто є в OpenStreetMap?
             Why use OpenStreetMap: Чому OpenStreetMap?
