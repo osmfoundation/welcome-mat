@@ -1,6 +1,6 @@
 ---
 title: ¿Quién utiliza OpenStreetMap?
-description: OpenStreetMap es utilizado por personas de todo el mundo: particulares, voluntarios, empresas, organizaciones sin ánimo de lucro y gobiernos, …
+description: OpenStreetMap es utilizado por personas de todo el mundo - particulares, voluntarios, empresas, organizaciones sin ánimo de lucro y gobiernos, …
 lang: es
 ---
 
@@ -28,7 +28,7 @@ Aquí tienes una lista no exhaustiva de algunas grandes organizaciones que utili
 
 * [Air France](https://wiki.openstreetmap.org/wiki/File:Air_France_seatback_map_display.jpg){:target="_blank"}.
 * [Alaska Airlines](https://twitter.com/openstreetmapes/status/554009623062388736){:target="_blank"}.
-* [Deutsche Bahn](https://wiki.openstreetmap.org/wiki/File:OpenStreetMap_in_an_IC2_carriage_(DB){:target="_blank"}.jpg).
+* [Deutsche Bahn](https://wiki.openstreetmap.org/wiki/File:OpenStreetMap_in_an_IC2_carriage_(DB).jpg){:target="_blank"}.
 * Grab.
 * SNCF (Agencia ferroviaria francesa).
 * Uber.
@@ -48,7 +48,7 @@ Aquí tienes una lista no exhaustiva de algunas grandes organizaciones que utili
 * Ciudad de [Belem, Brazil](http://www.kdaberlinda.pa.gov.br/mapa_app/){:target="_blank"}.
 * Ciudad de Jakarta, Gobierno Indonesio.
 * French Gendarmerie and Police (Gerdarmería y Policía Francesa).
-* Gobierno de Brazil, [Ministerio de ambiente](https://www.ibama.gov.br/siema/){:target="_blank"}.and [Ministerio de Planificación](http://www.visualizador.inde.gov.br){:target="_blank"}.
+* Gobierno de Brazil, [Ministerio de ambiente](https://www.ibama.gov.br/siema/){:target="_blank"} and [Ministerio de Planificación](http://www.visualizador.inde.gov.br){:target="_blank"}.
 * [Base de datos nacional de direcciones del Gobierno francés](https://adresse.data.gouv.fr){:target="_blank"}.
 *  Gobierno de Italia: [Gabinete del Presidente](http://www.governo.it/mappa-del-presidente){:target="_blank"}.
 * Gobierno de Lesotho.
@@ -56,11 +56,11 @@ Aquí tienes una lista no exhaustiva de algunas grandes organizaciones que utili
 * Gobierno de Noruega agencia de transporte público.
 * Gobierno de Uruguay Ministerio de Desarrollo Social.
 * Gobierno Agencia de Gestión de Desastres.
-* [Carabineros italianos](http://www.carabinieri.it/cittadino/informazioni/dove-siamo){:target="_blank"}
+* [Carabineros italianos](http://www.carabinieri.it/cittadino/informazioni/dove-siamo){:target="_blank"}.
 * Agencia de tránsito de Cracovia (Polonia).
 * Agencia de Tránsito de Málaga, España.
 * Gobierno de la ciudad de Nueva York, EE.UU.
-* [Policía de Escocia](http://www.scotland.police.uk/your-community/edinburgh/){:target="_blank"}
+* [Policía de Escocia](http://www.scotland.police.uk/your-community/edinburgh/){:target="_blank"}.
 * Agencia de transportes de Portland (Oregón, EE.UU.).
 * Agencia de Tránsito de Rennes, Francia.
 * Statistics Canada.
@@ -105,4 +105,4 @@ Aquí tienes una lista no exhaustiva de algunas grandes organizaciones que utili
 
 Además de muchísimas empresas y organizaciones grandes, medianas y pequeñas de todo el mundo.
 
-Para ver más ejemplos de usos de OpenStreetMap, consulte nuestras [imágenes destacadas semanales].(https://wiki.openstreetmap.org/wiki/Featured_images){:target="_blank"}.
+Para ver más ejemplos de usos de OpenStreetMap, consulte nuestras [imágenes destacadas semanales](https://wiki.openstreetmap.org/wiki/Featured_images){:target="_blank"}.

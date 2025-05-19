@@ -24,8 +24,8 @@ Las [donaciones](https://donate.openstreetmap.org){:target="_blank"} de cualquie
 
 ## Capítulos locales
 
-Si existe un Capítulo local de OSM en tu jurisdicción, también podrías considerar donarles directamente. Las donaciones a los Capítulos locales benefician su labor de apoyo al proyecto OpenStreetMap y a la comunidad local. Las donaciones a los Capítulos locales pueden estar exentas de impuestos, según la legislación fiscal local. Para obtener más información, consulta directamente con el Capítulo local. Puedes encontrarlos en la [Wiki de OSM](https://wiki.openstreetmap.org/wiki/Foundation/Local_Chapters){:target="_blank"}
+Si existe un Capítulo local de OSM en tu jurisdicción, también podrías considerar donarles directamente. Las donaciones a los Capítulos locales benefician su labor de apoyo al proyecto OpenStreetMap y a la comunidad local. Las donaciones a los Capítulos locales pueden estar exentas de impuestos, según la legislación fiscal local. Para obtener más información, consulta directamente con el Capítulo local. Puedes encontrarlos en la [Wiki de OSM](https://wiki.openstreetmap.org/wiki/ES:Fundaci%C3%B3n/Cap%C3%ADtulos_locales){:target="_blank"}
 
 ## Conferencias
 
-Existe una variedad de conferencias de OpenStreetMap, y los ingresos por entradas contribuyen al sostenimiento de la comunidad. La conferencia internacional anual de OpenStreetMap se llama [State of the Map](https://stateofthemap.org){:target="_blank"}. También hay muchas conferencias [regionales](https://wiki.openstreetmap.org/wiki/State_Of_The_Map#Regional.2Flocal_conferences) sobre el Estado del Mapa.
+Existe una variedad de conferencias de OpenStreetMap, y los ingresos por entradas contribuyen al sostenimiento de la comunidad. La conferencia internacional anual de OpenStreetMap se llama [State of the Map](https://stateofthemap.org){:target="_blank"}. También hay muchas conferencias [regionales](https://wiki.openstreetmap.org/wiki/State_of_the_Map#Regional.2Flocal_conferences) sobre el Estado del Mapa.
