@@ -17,7 +17,7 @@ Jeśli jesteś częścią firmy lub organizacji, świetnym sposobem na finansowe
 
 Poziomy członkostwa instytucjonalnego zaczynają się od 500 euro za poziom Supporter i sięgają 20 000 euro lub więcej rocznie za poziom Platinum. Każdy poziom wiąże się z szeregiem dodatkowych korzyści. Członkowie instytucjonalni na poziomie Silver i wyższych mają miejsce w [Radzie Doradczej OSMF](https://wiki.osmfoundation.org/wiki/Advisory_Board){:target=„_blank”}, która pełni funkcję konsultacyjną dla Zarządu OSMF.
 
-Jeśli chcesz zostać członkiem instytucjonalnym lub dowiedzieć się więcej na temat darowizn, skontaktuj się z Zarządem Fundacji OSM pod adresem <a href="mailto:board@osmfoundation.org">board(at)osmfoundation.org</a>.
+Jeśli chcesz zostać członkiem instytucjonalnym lub dowiedzieć się więcej na temat darowizn, skontaktuj się z Zarządem Fundacji OSM pod adresem [board(at)osmfoundation.org](mailto:board@osmfoundation.org).
 
 ## Darowizny
 

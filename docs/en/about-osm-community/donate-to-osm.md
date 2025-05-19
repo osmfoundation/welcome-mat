@@ -16,7 +16,7 @@ If you are part of a company or organization, a great way to support OpenStreetM
 
 Corporate membership tiers start at €500 for the Supporter level and go up to €20,000 or more annually for the Platinum level. Each tier comes with a number of additional benefits. Corporate members of Silver and higher levels have a seat on the [OSMF Advisory Board](https://wiki.osmfoundation.org/wiki/Advisory_Board){:target="_blank"}, which serves to advise the OSMF Board of Directors.
 
-If you are interested in becoming a Corporate Member or learning more about donating, please get in touch with the OSM Foundation Board of Directors at <a href="mailto:board@osmfoundation.org">board(at)osmfoundation.org</a>.
+If you are interested in becoming a Corporate Member or learning more about donating, please get in touch with the OSM Foundation Board of Directors at [board(at)osmfoundation.org](mailto:board@osmfoundation.org).
 
 ## Donations
 

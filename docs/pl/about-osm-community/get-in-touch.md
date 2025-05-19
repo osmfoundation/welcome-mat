@@ -14,4 +14,4 @@ Jeśli potrzebujesz dodatkowej pomocy w kontaktowaniu się ze społecznościami,
 
 Tu znajdziesz [więcej informacji](/about-osm-community/donate-to-osm.md) o przekazywaniu darowizn na rzecz OSM.
 
-Jeśli jesteś zainteresowany wniesieniem wkładu lub przekazaniem darowizny na rzecz projektu OpenStreetMap albo masz inne pytania, skontaktuj się z Zarządem Fundacji OSM pod adresem <a href="mailto:board@osmfoundation.org">board(at)osmfoundation.org</a>.
+Jeśli jesteś zainteresowany wniesieniem wkładu lub przekazaniem darowizny na rzecz projektu OpenStreetMap albo masz inne pytania, skontaktuj się z Zarządem Fundacji OSM pod adresem [board(at)osmfoundation.org](mailto:board@osmfoundation.org).

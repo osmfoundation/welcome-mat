@@ -14,4 +14,4 @@ lang: uk
 
 Ось [додаткова інформація](/about-osm-community/donate-to-osm.md) про пожертви для OSM.
 
-Якщо ви зацікавлені зробити внесок чи пожертву в OpenStreetMap, або якщо у вас виникнуть будь-які інші запитання, зв’яжіться з Радою Фундації OSM за адресою <a href="mailto:board@osmfoundation.org">board(at)osmfoundation.org</a>.
+Якщо ви зацікавлені зробити внесок чи пожертву в OpenStreetMap, або якщо у вас виникнуть будь-які інші запитання, зв’яжіться з Радою Фундації OSM за адресою [board(at)osmfoundation.org](mailto:board@osmfoundation.org).

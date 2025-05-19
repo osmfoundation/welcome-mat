@@ -16,7 +16,7 @@ Si formas parte de una empresa u organización, una excelente manera de apoyar f
 
 Los niveles de membresía corporativa comienzan en 500 € para el nivel de Colaborador y llegan hasta 20 000 € o más al año para el nivel Platino. Cada nivel incluye una serie de beneficios adicionales. Los miembros corporativos de los niveles Plata y superiores forman parte del [Consejo Asesor de la Fundación OpenStreetMap](https://wiki.osmfoundation.org/wiki/Advisory_Board){:target="_blank"}, que asesora a la Junta Directiva de la Fundación.
 
-Si estás interesado en convertirte en miembro corporativo o aprender más sobre cómo realizar donaciones, comunícate con la Junta Directiva de la Fundación OSM en <a href="mailto:board@osmfoundation.org">board(at)osmfoundation.org</a>.
+Si estás interesado en convertirte en miembro corporativo o aprender más sobre cómo realizar donaciones, comunícate con la Junta Directiva de la Fundación OSM en [board(at)osmfoundation.org](mailto:board@osmfoundation.org).
 
 ## Donaciones
 
