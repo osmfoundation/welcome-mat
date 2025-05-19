@@ -246,7 +246,7 @@ plugins:
         - locale: es
           name: Español
           site_name: Bienvenido a OpenStreetMap
-          copyright: © 2019 – 2025 OpenStreetMap Foundation, <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/2.0/80x15.png" /></a><br />This work is licensed under a <a rel=«license» href=«http://creativecommons.org/licenses/by-sa/2.0/» target=«_blank»>Creative Commons Attribution-ShareAlike 2.0 Generic License</a>.
+          copyright: © 2019 – 2025 OpenStreetMap Foundation, <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/2.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank">Creative Commons Attribution-ShareAlike 2.0 Generic License</a>.
           theme:
             palette:
               - toggle:
@@ -263,8 +263,8 @@ plugins:
                 - label: Ocultar información
                   icon: material/information
               text: >-
-                <p>Bienvenido al Tapete de Bienvenida de la comunidad <a href=«https://www.openstreetmap.org» target=«_blank»>OpenStreetMap</a> y <a href=«https://osmfoundation.org» target=«_blank»>Fundación</a>. OpenStreetMap es el mapa gratuito y editable del mundo, creado y mantenido por una enorme comunidad internacional. Cualquiera puede crear una cuenta y empezar a editar en <a href="https://www.openstreetmap.org" target="_blank">OpenStreetMap</a> en cuestión de minutos.</p>
-                <p>Estas guías están bajo licencia <a href=«http://creativecommons.org/licenses/by-sa/2.0/» target="_blank">Creative Commons Attribution-ShareAlike 2.0 Generic License</a> si deseas contribuir o tienes algún comentario sobre ellas, no dudes en crear una incidencia en este <a href=«https://github.com/osmfoundation/welcome-mat/issues» target=«_blank»>repositorio</a>.</p>
+                <p>Bienvenido al Tapete de Bienvenida de la comunidad <a href="https://www.openstreetmap.org" target="_blank">OpenStreetMap</a> y <a href="https://osmfoundation.org" target="_blank">Fundación</a>. OpenStreetMap es el mapa gratuito y editable del mundo, creado y mantenido por una enorme comunidad internacional. Cualquiera puede crear una cuenta y empezar a editar en <a href="https://www.openstreetmap.org" target="_blank">OpenStreetMap</a> en cuestión de minutos.</p>
+                <p>Estas guías están bajo licencia <a href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank">Creative Commons Attribution-ShareAlike 2.0 Generic License</a> si deseas contribuir o tienes algún comentario sobre ellas, no dudes en crear una incidencia en este <a href="https://github.com/osmfoundation/welcome-mat/issues" target="_blank">repositorio</a>.</p>
           nav_translations:
             Home: Home
             # About: About us
