@@ -14,4 +14,4 @@ If you need more help with contacting communities, try the [OSM contact channels
 
 Here is [more information](/about-osm-community/donate-to-osm.md) about donating to OSM.
 
-If you are interested in contributing or donating to OpenStreetMap, or for any other questions, please get in touch with the OSM Foundation Board of Directors at <a href="mailto:board@osmfoundation.org">board(at)osmfoundation.org</a>.
+If you are interested in contributing or donating to OpenStreetMap, or for any other questions, please get in touch with the OSM Foundation Board of Directors at [board(at)osmfoundation.org](mailto:board@osmfoundation.org).

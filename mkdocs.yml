@@ -245,7 +245,6 @@ plugins:
           name: Español
           site_name: Bienvenido a OpenStreetMap
           copyright: © 2019 – 2025 OpenStreetMap Foundation, <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/2.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank">Creative Commons Attribution-ShareAlike 2.0 Generic License</a>.
-          copyright: © 2019 – 2025 OpenStreetMap Foundation, <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/2.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank">Creative Commons Attribution-ShareAlike 2.0 Generic License</a>.
           theme:
             palette:
               - toggle:

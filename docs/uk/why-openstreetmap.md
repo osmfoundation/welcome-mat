@@ -4,7 +4,7 @@ description: &description Що ж робить OpenStreetMap особливим
 
 tile:
     sequence: 3
-    title: *title 
+    title: *title
     description: *description
     image:
         src: why-openstreetmap.png
