@@ -12,7 +12,7 @@ The goal was to retain previous design using out-of-the-box features of MkDocs a
 You are welcome to extend the styling and content, as well as add new languages. To get started, please clone this repository, install the necessary dependencies, and feel free to experiment. Once you've made your improvements, don't hesitate to submit a pull request with your suggestions. Your contributions are greatly appreciated!
 
 ```
-git clone git@github.com:Andygol/welcome-mat-osmf.git
+git clone git@github.com:osmfoundation/welcome-mat.git
 cd welcome-mat-osmf
 python -m venv venv
 source ./venv/bin/activate

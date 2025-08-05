@@ -1,11 +1,10 @@
 site_name: Welcome to OpenStreetMap
-# site_url: https://welcome.openstreetmap.org/
-site_url: https://andygol.co.ua/welcome-mat-osmf
+site_url: https://welcome.openstreetmap.org/
 
 # repo_url: https://github.com/osmfoundation/welcome-mat
 # repo_name: osmfoundation/welcome-mat
-repo_url: https://github.com/Andygol/welcome-mat-osmf
-repo_name: Andygol/welcome-mat-osmf
+repo_url: https://github.com/osmfoundation/welcome-mat
+repo_name: osmfoundation/welcome-mat
 
 edit_uri: edit/main/docs/
 
@@ -337,4 +336,4 @@ plugins:
 
         - locale: "null"
           name: Help to translate
-          fixed_link: https://github.com/Andygol/welcome-mat-osmf/#translation
+          fixed_link: https://github.com/osmfoundation/welcome-mat/#translation
