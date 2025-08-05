@@ -3,7 +3,7 @@ on:
  pull_request:
     types: [opened, reopened]
 permissions:
-  contents: write
+  contents: read
 jobs:
   test-pr:
     runs-on: ubuntu-latest
