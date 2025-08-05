@@ -1,7 +1,10 @@
-FROM ghcr.io/ruby/ruby:3.1-alpine AS build
+FROM ghcr.io/ruby/ruby:3.2-noble AS build
 
 # Add Gem build requirements
-RUN apk add --no-cache g++ make
+RUN apt-get update && apt-get install -y \
+  g++ \
+  make \
+  && rm -rf /var/lib/apt/lists/*
 
 # Create app directory
 WORKDIR /app
@@ -10,7 +13,7 @@ WORKDIR /app
 ADD Gemfile* /app/
 
 # Install Gems
-RUN gem install bundler -v 2.4.5 \
+RUN gem install bundler -v 2.7.1 \
     && bundle config build.nokogiri --use-system-libraries \
     && bundle config --global jobs $(nproc) \
     && bundle install
