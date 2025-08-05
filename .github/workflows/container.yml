@@ -1,0 +1,28 @@
+name: container
+
+on:
+  push:
+    branches:
+      - '**'
+      - '!dependabot/**'
+    tags:
+      - 'v*.*.*'
+  pull_request:
+    branches:
+      - 'master'
+      - 'main'
+      - 'gh-pages'
+  schedule:
+    - cron: '25 3 */7 * *'
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-{{ github.head_ref || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  container-build:
+    permissions:
+      contents: read
+      packages: write
+    uses: openstreetmap/github-shared-workflows/.github/workflows/container-build-publish.yml@main
