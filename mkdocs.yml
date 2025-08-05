@@ -1,8 +1,6 @@
 site_name: Welcome to OpenStreetMap
 site_url: https://welcome.openstreetmap.org/
 
-# repo_url: https://github.com/osmfoundation/welcome-mat
-# repo_name: osmfoundation/welcome-mat
 repo_url: https://github.com/osmfoundation/welcome-mat
 repo_name: osmfoundation/welcome-mat
 
