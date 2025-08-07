@@ -7,7 +7,7 @@ tile:
     title: *title 
     description: *description
     image:
-        src: how-to-give-back.png
+        src: how-to-give-back.webp
         alt: Workers from the Red Cross humanitarian mission have spread papers with local area research on the ground and are discussing them
 lang: en
 ---

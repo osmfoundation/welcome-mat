@@ -4,7 +4,7 @@ Here is a re-work of <https://welcome.osm.org> website using [Material for MkDoc
 
 The goal was to retain previous design using out-of-the-box features of MkDocs and add multilingual support, light and dark themes.
 
-![light](assets/light-theme.png) | ![dark](assets/dark-theme.png)
+![light](assets/light-theme.webp) | ![dark](assets/dark-theme.webp)
 --- | ---
 
 ## Contribution

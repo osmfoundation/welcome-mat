@@ -7,7 +7,7 @@ tile:
     title: Спільнота OpenStreetMap
     description: Історія, контакти, як приєднатись та багато іншого…
     image:
-        src: about-osm-community.png
+        src: about-osm-community.webp
         alt: Групове фото з учасниками конференції SotM US
 lang: uk 
 ---

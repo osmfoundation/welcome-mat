@@ -7,7 +7,7 @@ tile:
     title: *title 
     description: *description
     image:
-        src: who-is-openstreetmap.png
+        src: who-is-openstreetmap.webp
         alt: Grupa osób pozujących na schodach po zakończeniu warsztatów z mapowania
 lang: pl
 ---

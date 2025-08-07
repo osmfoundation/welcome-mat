@@ -7,7 +7,7 @@ tile:
     title: *title 
     description: *description
     image:
-        src: how-to-give-back.png
+        src: how-to-give-back.webp
         alt: Pracownicy misji humanitarnej Czerwonego Krzyża rozłożyli dokumenty z lokalnymi badaniami na ziemi i omawiają je
 lang: pl
 ---

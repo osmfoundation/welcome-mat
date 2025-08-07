@@ -7,7 +7,7 @@ tile:
     title: About the OSM Community
     description: Getting in touch, history, joining and more…
     image:
-        src: about-osm-community.png
+        src: about-osm-community.webp
         alt: A group photo with participants of the SotM US conference
 lang: en 
 ---

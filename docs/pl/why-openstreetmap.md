@@ -7,7 +7,7 @@ tile:
     title: *title 
     description: *description
     image:
-        src: why-openstreetmap.png
+        src: why-openstreetmap.webp
         alt: Grupa osób porównująca dane zebrane podczas ankiety terenowej projektu OpenStreetMap
 lang: pl
 ---

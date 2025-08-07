@@ -7,7 +7,7 @@ tile:
     title: *title 
     description: *description
     image:
-        src: how-to-give-back.png
+        src: how-to-give-back.webp
         alt: Працівники гуманітарної місії Червоного Хреста розклали на землі папери з дослідженням місцевості та обговорюють їх
 lang: uk
 ---

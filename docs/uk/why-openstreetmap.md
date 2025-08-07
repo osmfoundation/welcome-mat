@@ -7,7 +7,7 @@ tile:
     title: *title
     description: *description
     image:
-        src: why-openstreetmap.png
+        src: why-openstreetmap.webp
         alt:  Група людей, які порівнюють дані, зібрані під час дослідження місцевості
 lang: uk
 ---

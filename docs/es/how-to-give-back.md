@@ -7,7 +7,7 @@ tile:
     title: *title 
     description: *description
     image:
-        src: how-to-give-back.png
+        src: how-to-give-back.webp
         alt: Los trabajadores de la misión humanitaria de la Cruz Roja han distribuido documentos con investigaciones locales sobre el terreno y los están discutiendo.
 lang: es
 ---

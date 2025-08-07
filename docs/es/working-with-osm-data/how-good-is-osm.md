@@ -7,7 +7,7 @@ tile:
     title: Trabajar con datos de OpenStreetMap
     description: Cómo utilizar, buscar y editar OSM…
     image:
-        src: working-with-osm-data.png
+        src: working-with-osm-data.webp
         alt: Una persona trabajando en un ordenador portátil, editando datos de OpenStreetMap
 lang: es
 ---

@@ -7,7 +7,7 @@ tile:
     title: *title 
     description: *description
     image:
-        src: what-is-openstreetmap.png
+        src: what-is-openstreetmap.webp
         alt: A group of researchers surveying the surroundings while collecting data for mapping and taking notes
 lang: en
 ---

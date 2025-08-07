@@ -7,7 +7,7 @@ tile:
     title: *title 
     description: *description
     image:
-        src: who-is-openstreetmap.png
+        src: who-is-openstreetmap.webp
         alt: Група людей позує на сходах після завершення семінару з мапінгу
 lang: uk
 ---

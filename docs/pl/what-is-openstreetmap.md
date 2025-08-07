@@ -7,7 +7,7 @@ tile:
     title: *title 
     description: *description
     image:
-        src: what-is-openstreetmap.png
+        src: what-is-openstreetmap.webp
         alt: Grupa badaczy analizuje otoczenie podczas zbierania danych do mapowania i sporządzania notatek.
 lang: pl
 ---

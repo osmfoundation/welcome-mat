@@ -7,7 +7,7 @@ tile:
     title: *title 
     description: *description
     image:
-        src: what-is-openstreetmap.png
+        src: what-is-openstreetmap.webp
         alt: Група дослідників уважно оглядає місцевість навколо під час збору даних для мапінгу та роблять записи в свої нотатники
 lang: uk
 ---

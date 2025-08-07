@@ -7,7 +7,7 @@ tile:
     title: Використання OpenStreetMap
     description: Використання, дослідження та редагування OSM…
     image:
-        src: working-with-osm-data.png
+        src: working-with-osm-data.webp
         alt: Особа редагує дані OpenStreetMap на ноутбуці
 lang: uk
 ---

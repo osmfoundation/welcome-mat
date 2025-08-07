@@ -7,7 +7,7 @@ tile:
     title: Working with OpenStreetMap Data
     description: How to use, research and edit OSM…
     image:
-        src: working-with-osm-data.png
+        src: working-with-osm-data.webp
         alt: A person working on a laptop computer, editing OpenStreetMap data
 lang: en
 ---
