@@ -15,6 +15,8 @@ on:
   schedule:
     - cron: '25 3 */7 * *'
   workflow_dispatch:
+  repository_dispatch:
+    types: [trigger-deploy]
 
 concurrency:
   group: ${{ github.workflow }}-{{ github.head_ref || github.ref }}
