@@ -1,0 +1,11 @@
+---
+title: Stiamo pianificando una campagna umanitaria usando OSM, cosa dobbiamo sapere?
+description:  Vi sono molti esempi di mappatura umanitaria
+lang: it
+---
+
+Se state solamente utilizzando i dati di OpenStreetMap, dovete solo rispettare la [licenza](https://www.openstreetmap.org/copyright){:target="_blank"}, che spiega come attribuire il credito a OpenStreetMap e sapere che nel caso si combinino altri dati con quelli di OSM, anch’essi dovranno andare a far parte di OSM.
+
+Se volete aiutare a creare dati OpenStreetMap con il vostro lavoro, è fantastico! Vi sono un certo numero di organizzazioni umanitarie che hanno fatto qualcosa del genere, usando i dati OSM dopo un disastro o una crisi oppure per mappare in alcuni luoghi anticipando gli eventi catastrofici che vi potrebbero accadere. I dati OSM sono spesso molto buoni ma se manca qualcosa potete aiutare a mappare gli oggetti cartografici che vi servono. Il modo migliore per farlo è quello di contattare la comunità locale scrivendo una [e-mail alla mailing-list di quel Paese](https://lists.openstreetmap.org/listinfo){:target="_blank"} oppure un messaggio nel loro [forum OSM](https://community.openstreetmap.org){:target="_blank"}, potrebbero essere a conoscenza di altri gruppi che hanno già operato lì. Tenete in considerazione che non state lavorando da zero; vi sono molti mappatori e gruppi attivi quindi verificate di aver adeguatamente addestrato i vostri partecipanti e di aver fatto capire loro come funziona OpenStreetMap prima di farli cominciare.
+
+Alcuni progetti di mappatura umanitaria comportano la raccolta di dati sul campo, altri la mappatura remota usando delle immagini, altri entrambe le cose. Spesso, combinando entrambe le attività si assicura una maggiore completezza e accuratezza dei dati. È importante anche lavorare con le persone locali durante le attività di mappatura umanitarie. Vi sono molti esempi di mappature umanitarie. OSMF non sostiene nessun gruppo in particolare ma alcune organizzazioni attive sono l’[Humanitarian OpenStreetMap Team](http://www.hotosm.org){:target="_blank"}, il [progetto Missing Maps](http://www.missingmaps.org){:target="_blank"} e [Projet Espace OSM Francophone](https://projeteof.org/){:target="_blank"}.
