@@ -7,7 +7,7 @@ tile:
     title: *title 
     description: *description
     image:
-        src: what-is-openstreetmap.png
+        src: what-is-openstreetmap.webp
         alt: Un gruppo di ricercatori effettua un sopralluogo nei dintorni mentre raccoglie dati per mappare e prendere appunti
 lang: it
 ---

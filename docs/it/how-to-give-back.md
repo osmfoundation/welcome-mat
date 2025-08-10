@@ -7,7 +7,7 @@ tile:
     title: *title 
     description: *description
     image:
-        src: how-to-give-back.png
+        src: how-to-give-back.webp
         alt: Lavoratori della missione umanitaria della Croce Rossa hanno distribuito le stampe con la ricerca dell’area locale sul posto e le stanno discutendo
 lang: it
 ---

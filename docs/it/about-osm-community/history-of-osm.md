@@ -7,7 +7,7 @@ tile:
     title: Informazioni sulla comunità OSM
     description: Entrare in contatto, storia, unirsi, etc.
     image:
-        src: about-osm-community.png
+        src: about-osm-community.webp
         alt: Una foto di gruppo dei partecipanti alla conferenza State of the Map US
 lang: it
 ---

@@ -7,7 +7,7 @@ tile:
     title: *title 
     description: *description
     image:
-        src: who-is-openstreetmap.png
+        src: who-is-openstreetmap.webp
         alt: Un gruppo di persone posa sulle scale dopo aver completato un laboratorio di mappatura
 lang: it
 ---
