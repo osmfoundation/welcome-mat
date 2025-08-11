@@ -26,7 +26,7 @@ OpenStreetMap pone l’accento sulla conoscenza locale e consente alle persone d
 
 ## Aggiornamenti continui
 
-OpenStreetMap non ha rilasci di dati. I contributi alla mappa sono inseriti immediatamente. Siete voi a scegliere quanto recenti sono i vostri dati OpenStreetMap, se necessario fino a un minuto prima.
+OpenStreetMap non pubblica dati sotto forma di release. I contributi alla mappa sono inseriti immediatamente. Siete voi a scegliere quanto recenti sono i vostri dati OpenStreetMap, se necessario fino a un minuto prima.
 
 ## Agenzia
 
