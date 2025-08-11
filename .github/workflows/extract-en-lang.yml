@@ -41,7 +41,7 @@ jobs:
 
           rm "$TMP_FILE"
 
-      - name: Check if something has been changed in en.yaml
+      - name: Check if something has been changed in en.yml
         id: check_changes
         run: |
           if git diff-index --quiet HEAD -- "${TARGET_FILE}"; then
