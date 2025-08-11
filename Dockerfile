@@ -37,7 +37,7 @@ COPY --from=builder /home/builder/output /usr/share/nginx/html
 
 RUN echo "absolute_redirect off;" >/etc/nginx/conf.d/no-absolute_redirect.conf
 RUN echo "gzip_static on; gzip_proxied any;" >/etc/nginx/conf.d/gzip_static.conf
-# FIXME: mkdocs-static-i18n incorrectly translating 404
+# FIXME: mkdocs-static-i18n incorrectly translating 404 using last language - https://github.com/ultrabug/mkdocs-static-i18n/issues/284
 # RUN sed -Ei'' 's/#error_page *404 +.*/error_page 404 \/404.html;/' /etc/nginx/conf.d/default.conf || true
 
 # Test nginx configuration
