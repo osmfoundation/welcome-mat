@@ -333,6 +333,53 @@ plugins:
             Find a developer: Де знайти хорошого розробника чи компанію для створення продукту з використанням OSM?
             Downloading and using: Завантаження та використання даних OSM
 
+        - locale: it
+          name: italiano
+          site_name: Benvenuti su OpenStreetMap
+          copyright: © 2019 – 2025 OpenStreetMap Foundation, <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/deed.it" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/2.0/80x15.png" /></a><br />Quest’opera è distribuita con la licenza <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/deed.it" target="_blank">Creative Commons Attribuzione - Condividi allo stesso modo 2.0 Generico</a>.
+          theme:
+            palette:
+              - toggle:
+                  name: Passa alla modalità chiara
+              - toggle:
+                  name: Passa alla modalità scura
+              - toggle:
+                  name: Passa alle impostazioni di sistema
+          extra:
+            announce:
+              toggle:
+                - label: Mostra informazioni
+                  icon: material/information-outline
+                - label: Nascondi le informazioni
+                  icon: material/information
+              text: >-
+                <p>Welcome Mat per la comunità di <a href="https://www.openstreetmap.org" target="_blank">OpenStreetMap</a> e la <a href="https://osmfoundation.org" target="_blank">Foundation</a>. OpenStreetMap è la mappa libera e modificabile del mondo, creata e manutenuta da un’enorme comunità internazionale. Chiunque può creare un’utenza e iniziare a modificare in pochi minuti su <a href="https://www.openstreetmap.org" target="_blank">OpenStreetMap</a>.</p>
+                <p>Queste guide sono distribuite con licenza <a href="http://creativecommons.org/licenses/by-sa/2.0/deed.it" target="_blank">Creative Commons Attribuzione - Condividi allo stesso modo 2.0 Generico</a> se vuoi contribuire o dire cosa ne pensi, puoi tranquillamente creare una issue su questo <a href="https://github.com/osmfoundation/welcome-mat/issues" target="_blank">repository</a>.</p>
+          nav_translations:
+            Home: Home
+            What is OpenStreetMap: Cosa è OpenStreetMap?
+            Who is OpenStreetMap: Chi è OpenStreetMap?
+            Why use OpenStreetMap: Perché usare OpenStreetMap?
+            How can we give back: Come dare qualcosa in cambio?
+
+            About Community: La comunità di OpenStreetMap
+            History of OSM: Qual è la storia di OSM?
+            OSMF: Che cosa è la OSM Foundation?
+            Local Chapters: Come si formano i Local chapter?
+            Working Groups: Parlami dei gruppi di lavoro della OSM Foundation
+            Consumers: Chi usa OpenStreetMap?
+            OSM News: Che c’è di nuovo su OpenStreetMap?
+            Donate: Come possiamo donare dei soldi a OpenStreetMap?
+            Contact: Come entrare in contatto?
+
+            Working with data: Lavorare con i dati di OpenStreetMap
+            Data quality: Quanto sono buoni i dati di OSM?
+            Contribute data: Modifiche organizzate su OpenStreetMap
+            Humanitarian campaign: Stiamo pianificando una campagna umanitaria usando OSM, cosa dobbiamo sapere?
+            Research with OSM: Come possiamo fare ricerca con OSM?
+            Find a developer: Dove possiamo trovare un bravo sviluppatore o un’azienda per realizzare qualcosa usando OSM?
+            Downloading and using: Scaricamento e uso dei dati OSM
+
         - locale: "null"
           name: Help to translate
           fixed_link: https://github.com/osmfoundation/welcome-mat/#translation
