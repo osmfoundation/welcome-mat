@@ -1,19 +1,19 @@
 ---
 template: home.html
-title: Welcome Mat | OpenStreetMap
-description: OpenStreetMap is a free, editable map of the whole world made by people like you
+title: 歡迎墊板 | 開放街圖
+description: 開放街圖是全尺度，由你與我的一般人參與的廣大國際社群創建與維護的自由可編輯的地圖。
 lang: zh-tw
 hide:
     - toc
     - navigation
 ---
 
-# Welcome Mat | OpenStreetMap 
+# 歡迎墊板 | 開放街圖
 
 <!-- (1) { .annotate }
 
-1.  Welcome Mat for [:simple-openstreetmap: OpenStreetMap](https://www.openstreetmap.org){:target="_blank"} community and [Foundation](https://osmfoundation.org){:target="_blank"}. OpenStreetMap is the free and editable map of the world, created and maintained by a huge international community. Anybody can create an account and start editing on [OpenStreetMap](https://www.openstreetmap.org){:target="_blank"} within minutes.
+1.  [:simple-openstreetmap: OpenStreetMap](https://www.openstreetmap.org){:target="_blank"} 社群與[基金會](https://osmfoundation.org){:target="_blank"}的歡迎墊板。開放街圖是全尺度，由廣大國際社群創建與維護的自由可編輯的地圖，任何人都可以創建帳號然後在幾分鐘內開始在[開放街圖](https://www.openstreetmap.org){:target="_blank"}上編輯。
     
-    These guides are licensed under [Creative Commons Attribution-ShareAlike 2.0 Generic License :fontawesome-brands-creative-commons-by:](http://creativecommons.org/licenses/by-sa/2.0/){:target="_blank"} if you would like to contribute or have any feedback on these, please feel free to raise an issue in this [repository](https://github.com/osmfoundation/welcome-mat/issues){:target="_blank"}.
+    這份指南以[創用CC相同分式分享一般授權 :fontawesome-brands-creative-commons-by:](http://creativecommons.org/licenses/by-sa/2.0/){:target="_blank"} 釋出。如果你想要貢獻或是提供意見，請到[程式碼倉櫥](https://github.com/osmfoundation/welcome-mat/issues){:target="_blank"}提出議題。
  -->
 <!-- Screenshots are from https://youtu.be/Phwrgb16oEM -->
