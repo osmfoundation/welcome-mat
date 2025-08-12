@@ -355,7 +355,7 @@ plugins:
                   icon: material/information
               text: >-
                 <p>歡迎墊板為<a href="https://www.openstreetmap.org" target="_blank">開放街圖</a>社群以及<a href="https://osmfoundation.org" target="_blank">基金會</a>設計製作。開放街圖是全尺度，由廣大的國際社群創建與維護的自由可編輯的地圖。任何人都能花幾分鐘時間創建帳號然後開始在<a href="https://www.openstreetmap.org" target="_blank">開放街圖網站</a>編輯。</p>
-                <p>These guides are licensed under <a href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank">創用CC相同方式分享2.0一般條款</a>分享。如果你想貢獻或是有任何回饋意見或是見解，請到 <a href="https://github.com/osmfoundation/welcome-mat/issues" target="_blank">程式碼庫</a>提出。</p>
+                <p>這份指南以<a href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank">創用CC相同方式分享2.0一般條款</a>分享。如果你想貢獻或是有任何回饋意見或是見解，請到 <a href="https://github.com/osmfoundation/welcome-mat/issues" target="_blank">程式碼倉儲</a>提出。</p>
           nav_translations:
             Home: 首頁
             What is OpenStreetMap: 什麼是開放街圖？
