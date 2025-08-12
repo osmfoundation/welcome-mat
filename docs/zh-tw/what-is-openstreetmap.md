@@ -8,11 +8,11 @@ tile:
     description: *description
     image:
         src: what-is-openstreetmap.webp
-        alt: A group of researchers surveying the surroundings while collecting data for mapping and taking notes
+        alt: 一群研究者一邊收集畫地圖資料與筆記，一邊踏察週遭
 lang: zh-tw
 ---
 
-[OpenStreetMap](https://openstreetmap.org){:target="_blank"} is a free, editable map of the whole world made by people like you. It was started in 2004 in the UK, out of frustration with the lack of availability of good map data that was free to use.
+[開放街圖](https://openstreetmap.org){:target="_blank"} is a free, editable map of the whole world made by people like you. It was started in 2004 in the UK, out of frustration with the lack of availability of good map data that was free to use.
 
 OpenStreetMap includes data about roads, buildings, addresses, shops and businesses, points of interest, railways, trails, transit, land use and natural features, and much more.
 
