@@ -4,6 +4,7 @@ repo_url: https://github.com/osmfoundation/welcome-mat
 repo_name: osmfoundation/welcome-mat
 edit_uri: edit/main/docs/
 copyright: None
+dev_addr: 127.0.0.1:8080
 extra_css:
   - stylesheets/extra.css
 # Start of MkDocs theme adjastments

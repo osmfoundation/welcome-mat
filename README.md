@@ -20,7 +20,27 @@ pip install -r requirements.txt
 mkdocs serve
 ```
 
-Open <http://127.0.0.1:8000/welcome-mat-osmf/> in your browser.
+Open <http://127.0.0.1:8080/> in your browser.
+
+## Running the Website Locally with Docker
+
+If you prefer to use Docker to run the website locally, follow these steps:
+
+1. Ensure you have Docker installed on your system. If not, you can download it from [Docker's official website](https://www.docker.com/).
+
+2. Navigate to the root directory of the repository in your terminal.
+
+3. Run the following command to build and start the website:
+
+   ```
+   docker compose up --build
+   ```
+
+4. Open <http://127.0.0.1:8080/> in your browser to view the website.
+
+### Viewing Changes
+
+To view any changes made to the website, you will need to stop the running container and re-run the command above.
 
 ## Translation
 
