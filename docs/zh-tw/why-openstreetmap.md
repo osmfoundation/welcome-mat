@@ -1,6 +1,6 @@
 ---
-title: &title Why use OpenStreetMap?
-description: &description What makes OpenStreetMap special?
+title: &title 為什麼要使用開放街圖？
+description: &description 開放街圖有什麼特別之處？
 
 tile:
     sequence: 3
@@ -8,30 +8,30 @@ tile:
     description: *description
     image:
         src: why-openstreetmap.webp
-        alt: A group of people comparing data collected during an OpenStreetMap field survey
+        alt: 一群人在開放街圖的現地踏察活動中收集資料
 lang: zh-tw
 ---
 
-## Free and Open
+## 自由與開放
 
-[OpenStreetMap](https://openstreetmap.org){:target="_blank"} is published under an open licence, that allows anyone to access, use and share the data. This creates a level playing field allowing a diverse variety of individuals, communities and organisations to contribute towards creating a shared resource.
+[開放街圖](https://openstreetmap.org){:target="_blank"}以開放授權釋出，允許所有人使用與分享資料。這讓個人、社群以及組織以分享的態度，產生豐富的生態系。
 
-## Global Reach
+## 全球適用
 
-OpenStreetMap provides global map data in a unified tagging schema, although there are some local variations. Data is available for every country in the world, and in many places, the data quality is excellent. And since it’s open, you can also help improve quality.
+開放街圖以統一的標籤標準之下，仍然地方變化，提供全球尺度的地圖資料。全部資料函蓋全球所有國家的所有地方，資料的品質相當。由於是開放的，所以你也可以幫助改進圖資品質。
 
-## Local Knowledge
+## 在地知識
 
-OpenStreetMap emphasizes local knowledge and empowers people across the globe to edit. The barrier to entry is low, and there are many ways to contribute that do not require access to the latest technology. The result is a map made by local experts.
+開放街圖強調在地知識與賦權全球的個人能夠自己編地圖。入門的門檻低，而且有許多不需要最新技術的貢獻方式。這些在地專家投入貢獻造就這份地圖。
 
-## Continuous updates
+## 持續更新
 
 OpenStreetMap has no data releases. Contributions to the map are ingested immediately. You determine how fresh you want your OpenStreetMap data, up to the minute if needed.
 
-## Agency
+## 代言人
 
-As OpenStreetMap contributors, we together hold the keys to the future of the map. Your contributions, be it in map data, novel tools, new people and insights, evangelism or training, help determine the course of OpenStreetMap, and make it a better map for you and everyone else.
+As OpenStreetMap contributors, we together hold the keys to the future of the map. Your contributions, be it in map data, novel tools, new people and insights, 新朋友與洞見，傳播知識或是訓練，幫忙決定開放街圖計劃的方案，成為不只你而是所有人都能使用，變得更好的地圖。
 
-## Giving Back
+## 回饋大家
 
 By building against a shared resource, your organisation can benefit from updates provided by OpenStreetMap’s global community.
