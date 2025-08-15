@@ -1,6 +1,6 @@
 ---
-title: &title What is OpenStreetMap?
-description: &description A brief introduction to OpenStreetMap
+title: &title 什麼是開放街圖？
+description: &description 開放街圖的簡短介紹
 
 tile:
     sequence: 1
@@ -12,12 +12,10 @@ tile:
 lang: zh-tw
 ---
 
-[開放街圖](https://openstreetmap.org){:target="_blank"} is a free, editable map of the whole world made by people like you. It was started in 2004 in the UK, out of frustration with the lack of availability of good map data that was free to use.
+[開放街圖](https://openstreetmap.org){:target="_blank"}是全球尺度，由廣大如你我的一般人構成的國際社群創建與維護的自由可編輯的地圖。整個計畫2004年從英國起源，發起的契機為當時欠缺自由可以運用的地理圖資。
 
-OpenStreetMap includes data about roads, buildings, addresses, shops and businesses, points of interest, railways, trails, transit, land use and natural features, and much more.
+開放街圖的資料包括道路、建築、地址、商家、興趣點、鐵路、登山路徑、交通運輸、土地利用與自然圖徵等等。
 
-The map is created and maintained by nearly 5 million registered users and more than 1 million map contributors in every country in the world, using free tools and software. The data is used by local people, volunteer groups, companies, governments, software developers and more.
+整份地圖由來自全球所有國家，接近500萬位註冊用戶以及超過100萬貢獻者，運用自由的工具與軟體創建與維護的。這些地圖資料由在地人、志工團體、公司、政府以及軟體開者等所使用。
 
-The project has a very lean governance structure, run entirely by the volunteers of the
-[OpenStreetMap Foundation](/about-osm-community/osm-foundation.md). Financial support comes from the OpenStreetMap Foundation members, including corporate members, as well as
-[donations](/about-osm-community/donate-to-osm.md).
+整個計劃的治理架構相當精簡，全數由[開放街圖基金會](/about-osm-community/osm-foundation.md)的志工來運作. 而資金來自包括企業會員的開放街圖基金會成員，以及各界的[捐款](/about-osm-community/donate-to-osm.md).
