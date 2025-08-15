@@ -12,16 +12,14 @@ tile:
 lang: zh-tw
 ---
 
-Everyone who participates in the creation and progress of [OpenStreetMap](https://openstreetmap.org){:target="_blank"} is part of the OSM community. There’s also the
-[OpenStreetMap Foundation](/about-osm-community/osm-foundation.md), a registered nonprofit in the United Kingdom that supports OpenStreetMap and makes sure it is running smoothly.
+任何參與[開放街圖](https://openstreetmap.org){:target="_blank"}創建與維護過程的人都是OSM社群的一份子。另外也有在英國註冊的非營利組織[開放街圖](/about-osm-community/osm-foundation.md)支援開放街圖以及確保網站順利運作。
 
-* **貢獻者：** people who add or update data on OpenStreetMap. The majority of these are volunteers; some are humanitarian workers or are employed by companies.
+* **貢獻者：** 在開放街圖新增或是更新資料人，主要由志工構成，有些人是人道救援組織職員或是公司的僱員。
 
-* **資料使用者：** many different companies, organizations, governments, researchers and individuals use OpenStreetMap data for any number of uses: transportation and routing, GPS and navigation, health care, city planning, cartography, municipal services, academic research, GIS and more. Some of the users of OSM data are
-[listed here](/about-osm-community/consumers.md).
+* **資料使用者：** 許多不同類型的公司、組織、政府機構、研究者與個人能在不同情境盡情使用開放街圖資料：交通與導航、GPS與導航、健康照護、都市計劃、繪製地圖、城市服務、學術研究、地理資訊系統等等。有些運用OSM資料的單位[列在這裡](/about-osm-community/consumers.md)。
 
-* **開發者：** coders, developers and designers who use OpenStreetMap to make tools like routing, data editing, quality assurance, project management and more.
+* **開發者：** 程式設計師、開發者、設計師使用開放街圖來設計用在導航、資料編輯、品質管控、專案管理等用途。
 
-* **在地與區域社群：** regional, country, state or city organizations that organize OpenStreetMap editing and events in their areas, but some of which are officially organized, others gather informally. Many of these groups organize their own conferences.
+* **在地與區域社群：** 區域、國家、或是城市為單位的組織能夠舉行開放街圖編輯活動，不過有些組織獲得承認，其他是非正式組織，許多也會舉行他們自己的大會。
 
-* **人道救援團體：** many humanitarian organizations create data and use OpenStreetMap data to support their projects, either for planning and preparation, logistics, or response. Often there are volunteer mappers who help digitize imagery, as well as on-the-ground data collectors and mapping staff.
+* **人道救援團體：** 許多人道救搜組織會創建資料與使用開放街圖資料來做為事前計劃與準備、物流或是災後復原等目的幫助他們的專案。許多志工圖客會來數位影像，還有組織現地採集資料與畫地圖的人員。
