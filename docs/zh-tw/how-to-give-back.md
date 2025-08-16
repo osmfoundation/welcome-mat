@@ -24,7 +24,7 @@ lang: zh-tw
 ## 有什麼其他貢獻方式？
 
 * 成為[成員或是支持者](/about-osm-community/donate-to-osm.md)幫助整個計劃更為永續。有[一些公司](https://wiki.osmfoundation.org/wiki/Corporate_Members){:target="_blank"}，舉例來說，也是支持者
-* Contributing imagery or other data such as GPS traces or your GIS data can help improve the map for all and provide a means for the community to use that information to collect new data. It is important to release that data under an open license as well.
+* 貢獻影像或是其他資料如 GPS 軌跡或是你的 GIS 資料能幫助所有人改進地圖，社群也能運用這些資訊收集新的資料。另外要注意用開放授權釋出資䚵。
 * There’s also a range of supporting open source infrastructure which would benefit from contribution and support from the wider community.
 * There is also a need for advocacy about OpenStreetMap, training, community engagement and more. You can contribute to OpenStreetMap without actually editing the map.
 * Participate in the governance and work of OpenStreetMap Foundation through [working groups](/about-osm-community/working-groups.md).
