@@ -26,12 +26,12 @@ lang: zh-tw
 
 ## 持續更新
 
-OpenStreetMap has no data releases. Contributions to the map are ingested immediately. You determine how fresh you want your OpenStreetMap data, up to the minute if needed.
+開放街圖沒有資料更新週期，一旦編輯做出貢獻就會馬上出現。你可以看看開放街圖資料可以有多新，甚至可以做到分鐘等級的更新程度。
 
 ## 代言人
 
-As OpenStreetMap contributors, we together hold the keys to the future of the map. Your contributions, be it in map data, novel tools, new people and insights, 新朋友與洞見，傳播知識或是訓練，幫忙決定開放街圖計劃的方案，成為不只你而是所有人都能使用，變得更好的地圖。
+做為開放街圖的貢獻者，我們掌握地圖的未來。你的貢獻會是地圖資料的一部分，新朋友與洞見，傳播知識或是訓練，幫忙決定開放街圖計劃的方案，成為不只你而是所有人都能使用，變得更好的地圖。
 
 ## 回饋大家
 
-By building against a shared resource, your organisation can benefit from updates provided by OpenStreetMap’s global community.
+藉由共享的資料，你的組織你從開放街圖全球社群當中得益。
