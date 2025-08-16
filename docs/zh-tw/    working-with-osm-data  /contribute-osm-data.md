@@ -1,6 +1,6 @@
 ---
-title: Organized Editing in OpenStreetMap
-description: Organized mapping efforts are an integral part of today's OSM contribution landscape …
+title: 開放街圖上的組織性編輯
+description: 組織性編輯地圖如今是開放街圖貢獻者的其中一部分…
 lang: zh-tw
 ---
 
