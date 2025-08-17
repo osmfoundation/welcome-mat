@@ -4,8 +4,8 @@ description: 組織性編輯地圖如今是開放街圖貢獻者的其中一部�
 lang: zh-tw
 ---
 
-OpenStreetMap is a project powered by its community. While originally supported by individuals, the continuing growth and popularity of OSM have also spawned organized mapping efforts. These have taken shape in the form of not only companies setting up paid data teams to improve OSM data in specific regions or for specific use cases, but also unpaid groups like school classes that are directed to work on OSM.
+開放街圖是社群所騙動的專案，原先是由個人發起，後續由組織來驅動成長與增加知名度。而這些組織性的行動不只是企業聘用資料團隊來改進特定地方或是特定用途的OSM圖資，還有志工性質團隊如學校也會加入。
 
-Organized mapping efforts are an integral part of today's OSM contribution landscape and, when done well, help make OSM better and more widely known.
+組織性編輯地圖如今是開放街圖貢獻者的其中一部分，而如果做得好，也會讓OSM變得更好而且更廣為人知。
 
-In order to maintain good communications between, and a level playing field for, individual community members and organized editing groups, there is a set of [guidelines for directed and organized editing](https://wiki.openstreetmap.org/wiki/Organised_Editing_Guidelines){:target="_blank"} such as by companies or school groups. The scope is to set expectations on visibility of mapping efforts and how to communicate with and be reachable by the broader community.
+而要讓彼此維持良好溝通，以及都有能發揮貢獻之處，個人社群參與者以及組織性編輯團隊如公司或是學校都需要遵循[組織性編輯指南](https://wiki.openstreetmap.org/wiki/Organised_Editing_Guidelines){:target="_blank"}。這套規距是讓載明畫地圖的範圍以及社群如何聯繫相關團體。
