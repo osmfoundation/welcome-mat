@@ -1,0 +1,47 @@
+en:
+  plugins:
+    - i18n:
+        languages:
+          - locale: ja
+            name: 日本語
+            site_name: OpenStreetMapへようこそ
+            copyright: © 2019 – 2025 OpenStreetMap Foundation, <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/2.0/80x15.png" /></a><br />この作品は、<a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank">Creative Commons Attribution-ShareAlike 2.0 Generic Licenseの下でライセンスされています</a>。
+            theme:
+              palette:
+                - toggle:
+                    name: ライトモードに切り替える
+                - toggle:
+                    name: ダークモードに切り替える
+                - toggle:
+                    name: システム環境設定に切り替える
+            extra:
+              announce:
+                toggle:
+                  - label: 情報を表示
+                    icon: material/information-outline
+                  - label: 情報を隠す
+                    icon: material/information
+                text: >-
+                  <p><a href="https://www.openstreetmap.org" target="_blank">OpenStreetMap</a> コミュニティと <a href="https://osmfoundation.org" target="_blank">Foundation のウェルカムマット</a>。OpenStreetMapは、巨大な国際コミュニティによって作成および維持されている、無料で編集可能な世界地図です。誰でもアカウントを作成し、数分以内に <a href="https://www.openstreetmap.org" target="_blank">OpenStreetMap で編集を開始できます</a>。</p><p>これらのガイドは、<a href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank">Creative Commons Attribution-ShareAlike 2.0 Generic License の下でライセンスされています</a>。これらについて貢献またはフィードバックがある場合は、この <a href="https://github.com/osmfoundation/welcome-mat/issues" target="_blank">リポジトリで問題を提起してください</a>。</p>
+            nav_translations:
+              Home: Home
+              What is OpenStreetMap: OpenStreetMapとは何ですか?
+              Who is OpenStreetMap: OpenStreetMapとは?
+              Why use OpenStreetMap: OpenStreetMapを使用する理由
+              How can we give back: 恩返しの方法
+              About Community: OpenStreetMapコミュニティ
+              History of OSM: OSMの歴史
+              OSMF: OSM財団とは
+              Local Chapters: 地方支部の設立
+              Working Groups: OSM財団ワーキンググループについて
+              Consumers: OpenStreetMap の利用者たち
+              OSM News: OpenStreetMapの新機能
+              Donate: OpenStreetMapに寄付する
+              Contact: 連絡する方法は?
+              Working with data: OpenStreetMapデータの操作方法
+              Data quality: OSMデータの品質
+              Contribute data: OpenStreetMapの統合編集
+              Humanitarian campaign: OSMを使って人道支援キャンペーンを計画していますが、知っておくべきことは何ですか?
+              Research with OSM: OSMを利用して研究するには
+              Find a developer: OSMで構築するのに最適な開発者や会社はどこにありますか?
+              Downloading and using: OSMデータのダウンロードと利用
