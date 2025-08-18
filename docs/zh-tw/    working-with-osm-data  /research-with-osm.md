@@ -12,8 +12,8 @@ OSM 社群歡迎研究團隊，而從加德滿都到柏林，有不少人研究�
 
 You can find details on Google Scholar or other web sources that include articles, but here are [some examples](https://wiki.openstreetmap.org/wiki/Research){:target="_blank"} to help you get started.
 
-**Could OSM provide a letter of support for our research project?**
+**OSM 能出具推薦信來支持研究專案嗎？**
 
-As OSM is a distributed, global community with diverse expertise, OSM does not provide an exclusive letter of support for any given topic. We encourage researchers to connect with their local OSM community and/or chapter. The benefit of researchers working within the community is that they can seek guidance and context about the work which will add value to the end product.
+由於 OSM 是由各領域專家組成，採分散式運作的國際社群，因此 OSM 無法提供任何主題的專屬推薦信。我們鼓勵研究者與卷們所在地的 OSM 社群與／或分會聯繫。is a distributed, global community with diverse expertise, OSM does not provide an exclusive letter of support for any given topic. We encourage researchers to connect with their local OSM community and/or chapter. The benefit of researchers working within the community is that they can seek guidance and context about the work which will add value to the end product.
 
 For these reasons, the OSMF Board does not formally give letters of support for research. We do, however, recommend that you contact previous researchers to build on their work. During your research journey, we do encourage you to connect with the community, join the events and share your research. Many researchers have presented at the various State of the Map events around the world. Their perspectives are very welcome and contribute to the corpus of OSM knowledge.
