@@ -1,6 +1,6 @@
 ---
-title: How can I research with OSM?
-description: Research is a welcome part of the OSM community
+title: 我如何運用 OSM 來進行研究？
+description: OSM 社群也歡迎研究專案
 lang: zh-tw
 ---
 
