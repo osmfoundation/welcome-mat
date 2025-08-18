@@ -1,14 +1,14 @@
 ---
-title: How good is OSM data?
-description: OSM is now often as good or better as what is commercially available
+title: OSM 資料有多好？
+description: OSM 資料品質通常與商業圖資相當，甚至還更好
 
 tile:
     sequence: 6
-    title: Working with OpenStreetMap Data
-    description: How to use, research and edit OSM…
+    title: 處理開放街圖資料
+    description: 如何使用、研究與編輯 OSM…
     image:
         src: working-with-osm-data.webp
-        alt: A person working on a laptop computer, editing OpenStreetMap data
+        alt: 有人用筆記型電腦編輯開放街圖資料
 lang: zh-tw
 ---
 
