@@ -4,11 +4,11 @@ description: OSM 社群也歡迎研究專案
 lang: zh-tw
 ---
 
-Research is a welcome part of the OSM community. From Kathmandu to Berlin, there is a rich history of research about OSM -- the community, the project, and the data. Before starting out, we encourage you to get in touch with the local OSM community and review the background on OSM research.
+OSM 社群歡迎研究團隊，而從加德滿都到柏林，有不少人研究過 OSM - 以及社群、專案、以及資料。要開始之前，我們鼓勵你與在地社群接洽，從而檢視 OSM 已經存在的研究成果。
 
-There is an email list for research, <a href="mailto:research-announce@lists.openstreetmap.org">research-announce@lists.openstreetmap.org</a>.
+有個研究主題的郵件論壇：<a href="mailto:research-announce@lists.openstreetmap.org">research-announce@lists.openstreetmap.org</a>.
 
-Suggestions for how to conduct your research and cite OpenStreetMap are [here](https://wiki.openstreetmap.org/wiki/Researcher_Information){:target="_blank"}.
+如何進行與署名開放街圖的方式與建議在[這邊](https://wiki.openstreetmap.org/wiki/Researcher_Information){:target="_blank"}.
 
 You can find details on Google Scholar or other web sources that include articles, but here are [some examples](https://wiki.openstreetmap.org/wiki/Research){:target="_blank"} to help you get started.
 
