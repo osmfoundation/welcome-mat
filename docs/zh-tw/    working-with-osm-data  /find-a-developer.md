@@ -1,6 +1,6 @@
 ---
-title: Where do we find a good developer or company to build with OSM?
-description: There are many organizations that use OSM, and there are also developers who build tools and processes using OSM
+title: 我要那裡找能用 OSM 資料建構的開發者或公司？
+description: 有許多組織使用 OSM，也有不少開發者建構與處理 OSM 資料
 lang: zh-tw
 ---
 
