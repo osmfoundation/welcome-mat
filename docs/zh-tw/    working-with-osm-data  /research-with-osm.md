@@ -10,7 +10,7 @@ OSM 社群歡迎研究團隊，而從加德滿都到柏林，有不少人研究�
 
 如何進行與署名開放街圖的方式與建議在[這邊](https://wiki.openstreetmap.org/wiki/Researcher_Information){:target="_blank"}.
 
-You can find details on Google Scholar or other web sources that include articles, but here are [some examples](https://wiki.openstreetmap.org/wiki/Research){:target="_blank"} to help you get started.
+你可以在 Google 學術搜尋或其他網路來源找到相關論文，但這邊有[一些例子](https://wiki.openstreetmap.org/wiki/Research){:target="_blank"}能從頭開始。
 
 **OSM 能出具推薦信來支持研究專案嗎？**
 
