@@ -1,0 +1,47 @@
+en:
+  plugins:
+    - i18n:
+        languages:
+          - locale: en
+            name: English
+            site_name: Welcome to OpenStreetMap
+            copyright: © 2019 – 2025 OpenStreetMap Foundation, <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/2.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank">Creative Commons Attribution-ShareAlike 2.0 Generic License</a>.
+            theme:
+              palette:
+                - toggle:
+                    name: Switch to light mode
+                - toggle:
+                    name: Switch to dark mode
+                - toggle:
+                    name: Switch to system preference
+            extra:
+              announce:
+                toggle:
+                  - label: Show info
+                    icon: material/information-outline
+                  - label: Hide info
+                    icon: material/information
+                text: >-
+                  <p>Welcome Mat for <a href="https://www.openstreetmap.org" target="_blank">OpenStreetMap</a> community and <a href="https://osmfoundation.org" target="_blank">Foundation</a>. OpenStreetMap is the free and editable map of the world, created and maintained by a huge international community. Anybody can create an account and start editing on <a href="https://www.openstreetmap.org" target="_blank">OpenStreetMap</a> within minutes.</p> <p>These guides are licensed under <a href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank">Creative Commons Attribution-ShareAlike 2.0 Generic License</a> if you would like to contribute or have any feedback on these, please feel free to raise an issue in this <a href="https://github.com/osmfoundation/welcome-mat/issues" target="_blank">repository</a>.</p>
+            nav_translations:
+              Home: Home
+              What is OpenStreetMap: What is OpenStreetMap?
+              Who is OpenStreetMap: Who is OpenStreetMap?
+              Why use OpenStreetMap: Why use OpenStreetMap?
+              How can we give back: How can we give back?
+              About Community: OpenStreetMap Community
+              History of OSM: What is the history of OSM?
+              OSMF: What is the OSM Foundation?
+              Local Chapters: How are Local Chapters formed?
+              Working Groups: Tell me about OSM Foundation Working Groups
+              Consumers: Who uses OpenStreetMap?
+              OSM News: What's new with OpenStreetMap?
+              Donate: How can we give money to OpenStreetMap?
+              Contact: How to get in touch?
+              Working with data: Working with OpenStreetMap Data
+              Data quality: How good is OSM data?
+              Contribute data: Organized Editing in OpenStreetMap
+              Humanitarian campaign: We’re planning a humanitarian campaign using OSM, what do we need to know?
+              Research with OSM: How can I research with OSM?
+              Find a developer: Where do we find a good developer or company to build with OSM?
+              Downloading and using: Downloading and using OSM data

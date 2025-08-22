@@ -325,7 +325,7 @@ plugins:
             Why use OpenStreetMap: Чому OpenStreetMap?
             How can we give back: Внесок в OpenStreetMap
             About Community: Спільнота OpenStreetMap
-            History of OSM: Історія OpenStreetMap
+            History of OSM: Історія OpenStreetMapcript running while making changes, the translated content will be automatically reflected in the displayed content after saving.
             OSMF: Що таке Фундація OSM?
             Local Chapters: Як створюються місцеві осередки?
             Working Groups: Розкажіть про робочі групи OSM Foundation
@@ -340,6 +340,49 @@ plugins:
             Research with OSM: Як я можу використовувати OSM в дослідженнях?
             Find a developer: Де знайти хорошого розробника чи компанію для створення продукту з використанням OSM?
             Downloading and using: Завантаження та використання даних OSM
+        - locale: ru
+          name: Русский
+          site_name: Приветственная площадка OpenStreetMap
+          copyright: © 2019 – 2025 Фонд OpenStreetMap, <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/deed.ru" target="_blank"><img alt="Лицензия Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/2.0/80x15.png" /></a><br />Эта работа лицензирована по <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/deed.ru" target="_blank">лицензии Creative Commons Attribution-ShareAlike 2.0 Generic</a>.
+          theme:
+            palette:
+              - toggle:
+                  name: Переключиться на светлую тему
+              - toggle:
+                  name: Переключиться на тёмную тему
+              - toggle:
+                  name: Использовать системные настройки
+          extra:
+            announce:
+              toggle:
+                - label: Показать информацию
+                  icon: material/information-outline
+                - label: Скрыть информацию
+                  icon: material/information
+              text: >-
+                <p>Приветственная площадка для сообщества <a href="https://www.openstreetmap.org" target="_blank">OpenStreetMap</a> и <a href="https://osmfoundation.org" target="_blank">Фонда</a>. OpenStreetMap — это свободная и редактируемая карта мира, создаваемая и поддерживаемая огромным международным сообществом. Любой желающий может создать учётную запись и начать редактировать <a href="https://www.openstreetmap.org" target="_blank">OpenStreetMap</a> в течение нескольких минут.</p> <p>Эти руководства лицензированы в соответствии с <a href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank">лицензией Creative Commons Attribution-ShareAlike 2.0 Generic</a>. Если вы хотите внести свой вклад или оставить отзыв о них, пожалуйста, создайте вопрос в этом <a href="https://github.com/osmfoundation/welcome-mat/issues" target="_blank">репозитории</a>.</p>
+          nav_translations:
+            Home: Главная
+            What is OpenStreetMap: Что такое OpenStreetMap?
+            Who is OpenStreetMap: Кто такой OpenStreetMap?
+            Why use OpenStreetMap: Почему стоит использовать OSM?
+            How can we give back: Как внести свой вклад?
+            About Community: Сообщество OpenStreetMap
+            History of OSM: История OSM
+            OSMF: Что такое Фонд OSM?
+            Local Chapters: Как создаются местные отделения?
+            Working Groups: Рабочие группы Фонда OSM
+            Consumers: Кто использует OpenStreetMap?
+            OSM News: Что нового в OpenStreetMap?
+            Donate: Как пожертвовать деньги OSM?
+            Contact: Как связаться?
+            Working with data: Работа с данными OSM
+            Data quality: Насколько хороши данные OSM?
+            Contribute data: Организованное редактирование в OSM
+            Humanitarian campaign: Гуманитарная кампания с OSM
+            Research with OSM: Исследования с помощью OSM
+            Find a developer: Где найти разработчика?
+            Downloading and using: Загрузка и использование данных
         - locale: "null"
           name: Help to translate
           fixed_link: https://github.com/osmfoundation/welcome-mat/#translation
