@@ -1,10 +1,10 @@
 ---
-title: Who uses OpenStreetMap?
-description: OpenStreetMap is used by people all over the world – individuals, volunteers, companies, nonprofits, governments, …
+title: 誰使用開放街圖？
+description: 開放街圖由全世界所有人使用 – 個人、志工、公司、非營利組織、政府機關等等…
 lang: zh-tw
 ---
 
-[OpenStreetMap](https://openstreetmap.org){:target="_blank"} is used by people all over the world – individuals, volunteers, companies, nonprofits, governments, organizations and more. There are many ways to use OpenStreetMap: as a basemap, using the OSM data for routing or navigation, using OSM data for GIS analysis, such as planning or logistics for humanitarian groups, utilities, governments and more.
+[開放街圖](https://openstreetmap.org){:target="_blank"}由全世界所有人使用 – 個人、志工、公司、非營利組織、政府機關等等。有這多人方式使用開放街圖：當作底圖，使用 OSM 資料來導航，使用 OSM 資料來進行 GIS 分析，例如人道救援團體、事業單位、政府等等來規劃或是物流。
 
 Here is a non-exhaustive list of some big organizations that use OpenStreetMap, to give you an idea of the breadth of OSM consumers. There are also many medium and small businesses, individuals and personal projects that use OpenStreetMap. And you can too!
 
