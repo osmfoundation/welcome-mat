@@ -72,15 +72,15 @@ lang: zh-tw
 
 * CartONG
 * 柯林頓健康發展組織
-* Concern Worldwide
+* 關注世界
 * 蓋茲基金會
-* International Federation of Red Cross and Red Crescent Societies (IFRC), International Committee of Red Cross (ICRC), and National Societies (e.g. American Red Cross, Bangladesh Red Crescent Society, British Red Cross, Canadian Red Cross, Netherlands Red Cross, and more)
-* MapAction
-* Médecins Sans Frontières/Doctors Without Borders
-* Pan American Development Foundation
-* United Nations
-* World Bank
-* See [missingmaps.org](https://www.missingmaps.org){:target="_blank"} for more humanitarian OSM partners
+* 紅十字會與紅新月會國際聯合會 (IFRC)、國際紅十字國際聯合會 (ICRC)、國家分會 (例如：美國紅十字會、孟加拉紅新月會、英國紅十字會、加拿大紅十字會、荷蘭紅十字會等。)
+* 地圖行動
+* 無國界醫生組織
+* 泛美開發基金會
+* 聯合國
+* 世界銀行
+* 參見 [missingmaps.org](https://www.missingmaps.org){:target="_blank"} 頁面列出更多 OSM 伙伴
 
 ## 教育單位
 
@@ -101,8 +101,8 @@ lang: zh-tw
 * 美國新聞及世界報導
 * 華爾街日報
 * 華盛頓郵報
-* Numerous films and TV shows such as *Blade Runner 2049*
+* 無數電影與電視節目，例如 *銀翼殺手2049*
 
-Plus many many, large, medium and small businesses and organizations around the world!
+再加上世界上許多大公司、中小企業，以及組織！
 
-To see more examples of uses of OpenStreetMap, see our [weekly featured images](https://wiki.openstreetmap.org/wiki/Featured_images){:target="_blank"}.
+要看更多使用開放街圖的例子，請參見我們[每週精選](https://wiki.openstreetmap.org/wiki/Featured_images){:target="_blank"}。
