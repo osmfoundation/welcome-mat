@@ -6,34 +6,34 @@ lang: zh-tw
 
 [開放街圖](https://openstreetmap.org){:target="_blank"}由全世界所有人使用 – 個人、志工、公司、非營利組織、政府機關等等。有這多人方式使用開放街圖：當作底圖，使用 OSM 資料來導航，使用 OSM 資料來進行 GIS 分析，例如人道救援團體、事業單位、政府等等來規劃或是物流。
 
-Here is a non-exhaustive list of some big organizations that use OpenStreetMap, to give you an idea of the breadth of OSM consumers. There are also many medium and small businesses, individuals and personal projects that use OpenStreetMap. And you can too!
+這裡有份非推薦性質的，使用開放街圖的大公司名單，讓你瞭解 OSM 資料消費者的面貌。當然也有一些中小企業、個人以及個人專案採用開放街圖，你也可以效法！
 
-## Major Sites
+## 主要網站
 
-* Amazon
-* Apple
-* Baidu Maps
+* 亞馬遜
+* 蘋果
+* 百度地圖
 * Facebook
-* Microsoft
-* [Wikipedia and Wikimedia](https://blog.wikimedia.org/2018/06/28/interactive-maps-now-in-your-language/){:target="_blank"}
+* 微軟
+* [維基百科以及維基媒體](https://blog.wikimedia.org/2018/06/28/interactive-maps-now-in-your-language/){:target="_blank"}
 
-## Social Sites
+## 社群網站
 
 * Foursquare
 * Pinterest
-* Pokemon Go
+* 寶可夢 Go
 * Snapchat
 
-## Transport
+## 交通
 
-* [Air France](https://wiki.openstreetmap.org/wiki/File:Air_France_seatback_map_display.jpg){:target="_blank"}
-* [Alaska Airlines](https://twitter.com/openstreetmapes/status/554009623062388736){:target="_blank"}
-* [Deutsche Bahn](https://wiki.openstreetmap.org/wiki/File:OpenStreetMap_in_an_IC2_carriage_(DB){:target="_blank"}.jpg)
+* [法國航空](https://wiki.openstreetmap.org/wiki/File:Air_France_seatback_map_display.jpg){:target="_blank"}
+* [阿拉斯加航空](https://twitter.com/openstreetmapes/status/554009623062388736){:target="_blank"}
+* [德國國鐵](https://wiki.openstreetmap.org/wiki/File:OpenStreetMap_in_an_IC2_carriage_(DB){:target="_blank"}.jpg)
 * Grab
-* SNCF (French rail agency)
+* SNCF (法國鐵路局)
 * Uber
 
-## Geodata Software and Services
+## 地理資訊軟體以及服務
 
 * CARTO
 * Digital Globe
@@ -42,38 +42,38 @@ Here is a non-exhaustive list of some big organizations that use OpenStreetMap, 
 * Mapbox
 * Telenav
 
-## Government
+## 政府
 
-* Agence Française de Développement (French Development Agency)
-* City of [Belem, Brazil](http://www.kdaberlinda.pa.gov.br/mapa_app/){:target="_blank"}
-* City of Jakarta, Indonesia Government
-* French Gendarmerie and Police
-* Government of Brazil, [Environment Ministry](https://www.ibama.gov.br/siema/){:target="_blank"} and [Planning Ministry](http://www.visualizador.inde.gov.br){:target="_blank"}
-* [Government of France National Address Database](https://adresse.data.gouv.fr){:target="_blank"}
-* Government of Italy: [President's Office](http://www.governo.it/mappa-del-presidente){:target="_blank"}
-* Government of Lesotho
-* Government of Lithuania
-* Government of Norway public transit agency
-* Government of Uruguay Ministry of Social Development
-* Indonesian Disaster Management Agency
-* [Italian Carabinieri](http://www.carabinieri.it/cittadino/informazioni/dove-siamo){:target="_blank"}
-* Krakow, Poland transit agency
-* Malaga, Spain transit agency
-* New York City, USA Government
-* [Police Scotland](http://www.scotland.police.uk/your-community/edinburgh/){:target="_blank"}
-* Portland, Oregon, USA transit agency
-* Rennes, France transit agency
-* Statistics Canada
-* Uganda Bureau of Statistics
-* US National Park Service
-* US State Department, USAID, Peace Corps
+* 法國發展署 (Agence Française de Développement)
+* [巴西貝侖市](http://www.kdaberlinda.pa.gov.br/mapa_app/){:target="_blank"}
+* 印尼雅加達市政府
+* 法國國家憲兵以及警察
+* 巴西政府[環境部](https://www.ibama.gov.br/siema/){:target="_blank"}以及[規劃部](http://www.visualizador.inde.gov.br){:target="_blank"}
+* [法國政府國家地址資料庫](https://adresse.data.gouv.fr){:target="_blank"}
+* 義大利政府：[總統府](http://www.governo.it/mappa-del-presidente){:target="_blank"}
+* 賴索託政府
+* 立陶宛政府
+* 挪威國家交通局Government of Norway public transit agency
+* 烏拉圭社會發展部
+* 印尼防災署
+* [義大利警政署](http://www.carabinieri.it/cittadino/informazioni/dove-siamo){:target="_blank"}
+* 波蘭克拉科夫交通局
+* 西班牙馬拉加交通局
+* 美國紐約市政府
+* [蘇格蘭警場](http://www.scotland.police.uk/your-community/edinburgh/){:target="_blank"}
+* 美國波特蘭交通局
+* 法國雷恩交通局
+* 加拿大統計局
+* 烏干達統計局
+* 美國國家公園署
+* 美國國務院美國援助和平工作團
 
-## Humanitarian Sector
+## 人道救援組織
 
 * CartONG
-* Clinton Health Access Initiative
+* 柯林頓健康發展組織
 * Concern Worldwide
-* Gates Foundation
+* 蓋茲基金會
 * International Federation of Red Cross and Red Crescent Societies (IFRC), International Committee of Red Cross (ICRC), and National Societies (e.g. American Red Cross, Bangladesh Red Crescent Society, British Red Cross, Canadian Red Cross, Netherlands Red Cross, and more)
 * MapAction
 * Médecins Sans Frontières/Doctors Without Borders
@@ -82,25 +82,25 @@ Here is a non-exhaustive list of some big organizations that use OpenStreetMap, 
 * World Bank
 * See [missingmaps.org](https://www.missingmaps.org){:target="_blank"} for more humanitarian OSM partners
 
-## Education
+## 教育單位
 
-* Cambridge University
-* George Washington University
-* Heidelberg University
-* Texas Tech University
-* University of Maryland
-* [YouthMappers](https://www.youthmappers.org){:target="_blank"}, an international network of student OpenStreetMap clubs
+* 劍橋大學
+* 喬治華盛頓大學
+* 海德堡大學
+* 德州科技大學
+* 馬里蘭大學
+* [年輕圖客](https://www.youthmappers.org){:target="_blank"}：由學生開放街圖社團組成的國際網路
 
-## News and Media
+## 新聞媒體
 
 * BBC
-* [Financial Times](https://www.reddit.com/r/dataisbeautiful/comments/9j285h/im_steve_bernard_interactive_design_editor_at_the/e6o3kyz/){:target="_blank"}
-* The Guardian
-* National Geographic
-* New York Times
-* US News & World Report
-* Wall Street Journal
-* Washington Post
+* [金融時報](https://www.reddit.com/r/dataisbeautiful/comments/9j285h/im_steve_bernard_interactive_design_editor_at_the/e6o3kyz/){:target="_blank"}
+* 衛報
+* 國家地理
+* 紐約時報
+* 美國新聞及世界報導
+* 華爾街日報
+* 華盛頓郵報
 * Numerous films and TV shows such as *Blade Runner 2049*
 
 Plus many many, large, medium and small businesses and organizations around the world!
