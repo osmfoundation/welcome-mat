@@ -1,11 +1,11 @@
 ---
-title: &title Why use OpenStreetMap?
-description: &description What makes OpenStreetMap special?
+title: Why use OpenStreetMap?
+description: What makes OpenStreetMap special?
 
 tile:
     sequence: 3
-    title: *title 
-    description: *description
+    title: title 
+    description: description
     image:
         src: why-openstreetmap.webp
         alt: A group of people comparing data collected during an OpenStreetMap field survey
