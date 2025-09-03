@@ -1,108 +1,110 @@
 ---
-title: Who uses OpenStreetMap?
-description: OpenStreetMap is used by people all over the world – individuals, volunteers, companies, nonprofits, governments, …
-lang: en
+শিরোনাম: ওপেনস্ট্রিটম্যাপ কারা ব্যবহার করে?
+বর্ণনা: ওপেনস্ট্রিটম্যাপ সারা বিশ্বের মানুষ ব্যবহার করে - ব্যক্তি, স্বেচ্ছাসেবক, কোম্পানি, অলাভজনক প্রতিষ্ঠান, সরকার, ...
+lang: bn
 ---
 
-[OpenStreetMap](https://openstreetmap.org){:target="_blank"} is used by people all over the world – individuals, volunteers, companies, nonprofits, governments, organizations and more. There are many ways to use OpenStreetMap: as a basemap, using the OSM data for routing or navigation, using OSM data for GIS analysis, such as planning or logistics for humanitarian groups, utilities, governments and more.
+[ওপেনস্ট্রিটম্যাপ](https://openstreetmap.org){:target="_blank"} ব্যবহার করে পৃথিবীর বিভিন্ন প্রান্তের মানুষ – ব্যক্তি, স্বেচ্ছাসেবক, কোম্পানি, অলাভজনক প্রতিষ্ঠান, সরকার, সংস্থা এবং আরও অনেকেই। ওপেনস্ট্রিটম্যাপ ব্যবহার করার অনেক উপায় রয়েছে: এটি একটি বেসম্যাপ হিসেবে ব্যবহার করা, ওএসএম ডেটা ব্যবহার করে রাউটিং বা ন্যাভিগেশন করা, জিআইএস বিশ্লেষণের জন্য ওএসএম ডেটা ব্যবহার করা – যেমন মানবিক সংস্থা, ইউটিলিটি, সরকার এবং অন্যান্যদের পরিকল্পনা বা লজিস্টিকসের জন্য।
 
-Here is a non-exhaustive list of some big organizations that use OpenStreetMap, to give you an idea of the breadth of OSM consumers. There are also many medium and small businesses, individuals and personal projects that use OpenStreetMap. And you can too!
 
-## Major Sites
+ওএসএম গ্রাহকদের বিস্তৃতি সম্পর্কে ধারণা দেওয়ার জন্য ওপেনস্ট্রিটম্যাপ ব্যবহারকারী কিছু বড় প্রতিষ্ঠানের একটি অ-সম্পূর্ণ তালিকা এখানে দেওয়া হল। এছাড়াও অনেক মাঝারি ও ছোট ব্যবসা, ব্যক্তি এবং ব্যক্তিগত প্রকল্প রয়েছে যারা ওপেনস্ট্রিটম্যাপ ব্যবহার করে। এবং আপনিও পারেন!
+## প্রধান সাইটগুলি
 
-* Amazon
-* Apple
-* Baidu Maps
-* Facebook
-* Microsoft
-* [Wikipedia and Wikimedia](https://blog.wikimedia.org/2018/06/28/interactive-maps-now-in-your-language/){:target="_blank"}
+* অ্যামাজন
+* অ্যাপল
+* বাইডু ম্যাপস
+* ফেসবুক
+* মাইক্রোসফট
+* [উইকিপিডিয়া এবং উইকিমিডিয়া](https://blog.wikimedia.org/2018/06/28/interactive-maps-now-in-your-language/){:target="_blank"}
 
-## Social Sites
+## সামাজিক সাইটসমূহ
 
-* Foursquare
-* Pinterest
-* Pokemon Go
-* Snapchat
+* ফোরস্কয়ার
+* পিন্টারেস্ট
+* পোকেমন গো
+* স্ন্যাপচ্যাট
 
-## Transport
 
-* [Air France](https://wiki.openstreetmap.org/wiki/File:Air_France_seatback_map_display.jpg){:target="_blank"}
-* [Alaska Airlines](https://twitter.com/openstreetmapes/status/554009623062388736){:target="_blank"}
-* [Deutsche Bahn](https://wiki.openstreetmap.org/wiki/File:OpenStreetMap_in_an_IC2_carriage_(DB){:target="_blank"}.jpg)
-* Grab
-* SNCF (French rail agency)
-* Uber
+## পরিবহন
 
-## Geodata Software and Services
+* [এয়ার ফ্রান্স](https://wiki.openstreetmap.org/wiki/File:Air_France_seatback_map_display.jpg){\:target="\_blank"}
+* [আলাস্কা এয়ারলাইনস](https://twitter.com/openstreetmapes/status/554009623062388736){\:target="\_blank"}
+* [ডয়চে বাহন](https://wiki.openstreetmap.org/wiki/File:OpenStreetMap_in_an_IC2_carriage_(DB){:target="_blank"}.jpg)
+* গ্র্যাব
+* SNCF (ফ্রান্স রেল সংস্থা)
+* উবার
 
-* CARTO
-* Digital Globe
-* ESRI
-* Garmin
-* Mapbox
-* Telenav
+## জিওডেটা সফটওয়্যার এবং সার্ভিস
 
-## Government
+* কার্টো (CARTO)
+* ডিজিটাল গ্লোব (Digital Globe)
+* ইসরি (ESRI)
+* গারমিন (Garmin)
+* ম্যাপবক্স (Mapbox)
+* টেলেন্যাভ (Telenav)
 
-* Agence Française de Développement (French Development Agency)
-* City of [Belem, Brazil](http://www.kdaberlinda.pa.gov.br/mapa_app/){:target="_blank"}
-* City of Jakarta, Indonesia Government
-* French Gendarmerie and Police
-* Government of Brazil, [Environment Ministry](https://www.ibama.gov.br/siema/){:target="_blank"} and [Planning Ministry](http://www.visualizador.inde.gov.br){:target="_blank"}
-* [Government of France National Address Database](https://adresse.data.gouv.fr){:target="_blank"}
-* Government of Italy: [President's Office](http://www.governo.it/mappa-del-presidente){:target="_blank"}
-* Government of Lesotho
-* Government of Lithuania
-* Government of Norway public transit agency
-* Government of Uruguay Ministry of Social Development
-* Indonesian Disaster Management Agency
-* [Italian Carabinieri](http://www.carabinieri.it/cittadino/informazioni/dove-siamo){:target="_blank"}
-* Krakow, Poland transit agency
-* Malaga, Spain transit agency
-* New York City, USA Government
-* [Police Scotland](http://www.scotland.police.uk/your-community/edinburgh/){:target="_blank"}
-* Portland, Oregon, USA transit agency
-* Rennes, France transit agency
-* Statistics Canada
-* Uganda Bureau of Statistics
-* US National Park Service
-* US State Department, USAID, Peace Corps
+## সরকার / সরকারি সংস্থা
 
-## Humanitarian Sector
+* ফরাসি উন্নয়ন সংস্থা (Agence Française de Développement)
+* [বেলেম শহর, ব্রাজিল](http://www.kdaberlinda.pa.gov.br/mapa_app/){\:target="\_blank"}
+* জাকার্তা, ইন্দোনেশিয়া সরকার
+* ফরাসি জেন্ডারমেরি ও পুলিশ
+* ব্রাজিল সরকার: [পরিবেশ মন্ত্রণালয়](https://www.ibama.gov.br/siema/){\:target="\_blank"} এবং [পরিকল্পনা মন্ত্রণালয়](http://www.visualizador.inde.gov.br){\:target="\_blank"}
+* [ফরাসি জাতীয় ঠিকানা ডেটাবেস](https://adresse.data.gouv.fr){\:target="\_blank"}
+* ইতালি সরকার: [রাষ্ট্রপতির অফিস](http://www.governo.it/mappa-del-presidente){\:target="\_blank"}
+* লেসোথো সরকার
+* লিথুয়ানিয়া সরকার
+* নরওয়ে সরকার: পাবলিক ট্রানজিট সংস্থা
+* উরুগুয়ে সরকার: সামাজিক উন্নয়ন মন্ত্রণালয়
+* ইন্দোনেশিয়ান দুর্যোগ ব্যবস্থাপনা সংস্থা
+* [ইতালিয়ান কারাবিনিয়ারি](http://www.carabinieri.it/cittadino/informazioni/dove-siamo){\:target="\_blank"}
+* ক্রাকো, পোল্যান্ড: ট্রানজিট সংস্থা
+* মালাগা, স্পেন: ট্রানজিট সংস্থা
+* নিউ ইয়র্ক সিটি, মার্কিন যুক্তরাষ্ট্র সরকার
+* [পুলিশ স্কটল্যান্ড](http://www.scotland.police.uk/your-community/edinburgh/){\:target="\_blank"}
+* পোর্টল্যান্ড, ওরিগন, মার্কিন যুক্তরাষ্ট্র: ট্রানজিট সংস্থা
+* রেনেস, ফ্রান্স: ট্রানজিট সংস্থা
+* স্ট্যাটিসটিক্স কানাডা
+* উগান্ডা স্ট্যাটিসটিক্স ব্যুরো
+* মার্কিন যুক্তরাষ্ট্র: ন্যাশনাল পার্ক সার্ভিস
+* মার্কিন যুক্তরাষ্ট্র: স্টেট ডিপার্টমেন্ট, ইউএসএআইডি, পিস কর্পস
 
-* CartONG
-* Clinton Health Access Initiative
-* Concern Worldwide
-* Gates Foundation
-* International Federation of Red Cross and Red Crescent Societies (IFRC), International Committee of Red Cross (ICRC), and National Societies (e.g. American Red Cross, Bangladesh Red Crescent Society, British Red Cross, Canadian Red Cross, Netherlands Red Cross, and more)
-* MapAction
-* Médecins Sans Frontières/Doctors Without Borders
-* Pan American Development Foundation
-* United Nations
-* World Bank
-* See [missingmaps.org](https://www.missingmaps.org){:target="_blank"} for more humanitarian OSM partners
+## মানবিক সেক্টর
 
-## Education
+* কার্টওএনজি (CartONG)
+* ক্লিন্টন হেলথ অ্যাক্সেস ইনিশিয়েটিভ (Clinton Health Access Initiative)
+* কনসার্ন ওয়ার্ল্ডওয়াইড (Concern Worldwide)
+* গেটস ফাউন্ডেশন 
+* আন্তর্জাতিক রেড ক্রস এবং রেড ক্রিসেন্ট সোসাইটি ফেডারেশন (IFRC), আন্তর্জাতিক রেড ক্রস কমিটি (ICRC), এবং জাতীয় সংস্থা (যেমন: আমেরিকান রেড ক্রস, বাংলাদেশ রেড ক্রিসেন্ট সোসাইটি, ব্রিটিশ রেড ক্রস, কানাডিয়ান রেড ক্রস, নেদারল্যান্ডস রেড ক্রস ইত্যাদি)
+* ম্যাপঅ্যাকশন
+* মেডেসিন সঁ ফ্রঁটিয়ের / ডক্টরস উইদাউট বর্ডার্স (Médecins Sans Frontières / Doctors Without Borders)
+* প্যান অ্যামেরিকান ডেভেলপমেন্ট ফাউন্ডেশন
+* জাতিসংঘ
+* বিশ্বব্যাংক
+* দেখুন [missingmaps.org](https://www.missingmaps.org){\:target="\_blank"}
 
-* Cambridge University
-* George Washington University
-* Heidelberg University
-* Texas Tech University
-* University of Maryland
-* [YouthMappers](https://www.youthmappers.org){:target="_blank"}, an international network of student OpenStreetMap clubs
+## শিক্ষা
 
-## News and Media
+* কেমব্রিজ বিশ্ববিদ্যালয় (Cambridge University)
+* জর্জ ওয়াশিংটন বিশ্ববিদ্যালয় (George Washington University)
+* হেইডেলবার্গ বিশ্ববিদ্যালয় (Heidelberg University)
+* টেক্সাস টেক বিশ্ববিদ্যালয় (Texas Tech University)
+* মেরিল্যান্ড বিশ্ববিদ্যালয় (University of Maryland)
+* [YouthMappers](https://www.youthmappers.org){\:target="\_blank"}, একটি আন্তর্জাতিক নেটওয়ার্ক যেখানে ছাত্ররা ওপেনস্ট্রিটম্যাপ ক্লাব পরিচালনা করে
 
-* BBC
-* [Financial Times](https://www.reddit.com/r/dataisbeautiful/comments/9j285h/im_steve_bernard_interactive_design_editor_at_the/e6o3kyz/){:target="_blank"}
-* The Guardian
-* National Geographic
-* New York Times
-* US News & World Report
-* Wall Street Journal
-* Washington Post
-* Numerous films and TV shows such as *Blade Runner 2049*
 
-Plus many many, large, medium and small businesses and organizations around the world!
+## সংবাদ ও গণমাধ্যম
 
-To see more examples of uses of OpenStreetMap, see our [weekly featured images](https://wiki.openstreetmap.org/wiki/Featured_images){:target="_blank"}.
+* বিবিসি
+* [ফাইনান্সিয়াল টাইমস](https://www.reddit.com/r/dataisbeautiful/comments/9j285h/im_steve_bernard_interactive_design_editor_at_the/e6o3kyz/){:target="_blank"}
+* দ্য গার্ডিয়ান
+* ন্যাশনাল জিওগ্রাফিক
+* নিউ ইয়র্ক টাইমস
+* ইউএস নিউজ অ্যান্ড ওয়ার্ল্ড রিপোর্ট
+* ওয়াল স্ট্রিট জার্নাল
+* ওয়াশিংটন পোস্ট
+* অসংখ্য চলচ্চিত্র এবং টিভি শো যেমন *ব্লেড রানার ২০৪৯*
+
+এছাড়াও বিশ্বজুড়ে অনেক, বৃহৎ, মাঝারি এবং ছোট ব্যবসা এবং প্রতিষ্ঠান!
+
+ওপেনস্ট্রিটম্যাপের ব্যবহারের আরও উদাহরণ দেখতে, দেখুন আমাদের [সাপ্তাহিক নির্বাচিত ছবি।](https://wiki.openstreetmap.org/wiki/Featured_images){:target="_blank"}
