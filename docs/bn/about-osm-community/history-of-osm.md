@@ -1,17 +1,18 @@
 ---
-title: What is the history of OSM?
-description: OSM was founded in 2004 by Steve Coast, and taken up by a community of enthusiasts who wanted a free and open source data
+শিরোনাম: ওএসএম-এর ইতিহাস কী?
+বর্ণনা: ওএসএম ২০০৪ সালে স্টিভ কোস্ট দ্বারা প্রতিষ্ঠিত হয়েছিল এবং এটি এমন এক সম্প্রদায় দ্বারা গৃহীত হয়েছিল যারা বিনামূল্যে এবং ওপেন সোর্স ডেটা চেয়েছিল
 
 tile:
-    sequence: 5
-    title: About the OSM Community
-    description: Getting in touch, history, joining and more…
-    image:
+    ক্রম: ৫
+    শিরোনাম: ওএসএম কমিউনিটি সম্পর্কে
+    বর্ণনা: যোগাযোগ, ইতিহাস, যোগদান এবং আরও অনেক কিছু...
+    ছবি:
         src: about-osm-community.webp
-        alt: A group photo with participants of the SotM US conference
-lang: en 
+        alt: এসওটিএম ইউএস সম্মেলনের অংশগ্রহণকারীদের সাথে একটি গ্রুপ ছবি
+      
+lang: bn 
 ---
 
-[OpenStreetMap](https://openstreetmap.org){:target="_blank"} was founded in the UK in 2004 by Steve Coast, and taken up by a community of map enthusiasts who wanted a free and open source of data. It has since grown to more than 1 million contributors around the world: individual volunteers, map enthusiast, GIS and geography data specialists, companies that use map data, humanitarian organizations, government agencies and more.
+[ওপেনস্ট্রিটম্যাপ](https://openstreetmap.org){:target="_blank"} ২০০৪ সালে যুক্তরাজ্যে স্টিভ কোস্ট দ্বারা প্রতিষ্ঠিত হয়েছিল এবং মানচিত্র উৎসাহীদের একটি সম্প্রদায় দ্বারা পরিচালিত হয়েছিল যারা বিনামূল্যে এবং উন্মুক্ত তথ্যের উৎস চেয়েছিল। এর পর থেকে এটি বিশ্বজুড়ে ১০ লক্ষেরও বেশি অবদানকারীতে পরিণত হয়েছে: স্বতন্ত্র স্বেচ্ছাসেবক, মানচিত্র উৎসাহী, GIS এবং ভূগোল তথ্য বিশেষজ্ঞ, মানচিত্র তথ্য ব্যবহারকারী কোম্পানি, মানবিক সংস্থা, সরকারি সংস্থা এবং আরও অনেক কিছু।
 
-In 2006, the [OpenStreetMap Foundation](/about-osm-community/osm-foundation.md) was established to encourage the growth, development and distribution of free geospatial data and provide geospatial data for anybody to use and share. In 2012, OpenStreetMap switched to licensing data under the [Open Database License](https://wiki.osmfoundation.org/wiki/Licence){:target="_blank"}.
+২০০৬ সালে, [ওপেনস্ট্রিটম্যাপ ফাউন্ডেশন](/about-osm-community/osm-foundation.md) বিনামূল্যে ভূ-স্থানিক তথ্যের বৃদ্ধি, উন্নয়ন এবং বিতরণকে উৎসাহিত করার জন্য এবং যে কেউ ব্যবহার এবং ভাগ করে নেওয়ার জন্য ভূ-স্থানিক তথ্য সরবরাহ করার জন্য প্রতিষ্ঠিত হয়েছিল। ২০১২ সালে, ওপেনস্ট্রিটম্যাপ [ওপেন ডাটাবেস লাইসেন্স](https://wiki.osmfoundation.org/wiki/Licence){:target="_blank"} এর অধীনে লাইসেন্সিং ডেটা ব্যবহার করে।
