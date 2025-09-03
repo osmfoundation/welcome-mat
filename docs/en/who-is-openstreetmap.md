@@ -1,11 +1,11 @@
 ---
-title: &title Who is OpenStreetMap?
-description: &description The people and communities of OSM
+Title: Who is OpenStreetMap?
+Description: The people and communities of OSM
 
 tile:
     sequence: 2
-    title: *title 
-    description: *description
+    Title: Title
+    Description: Description
     image:
         src: who-is-openstreetmap.webp
         alt: A group of people posing on stairs after completing a mapping workshop
