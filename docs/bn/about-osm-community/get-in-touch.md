@@ -1,17 +1,17 @@
 ---
-title: How to get in touch
-description: There are many different ways to get in touch with the OpenStreetMap community, it depends on what you want to ask about
-lang: en
+শিরোনাম: কিভাবে যোগাযোগ করবেন
+বিবরণ: ওপেনস্ট্রিটম্যাপ সম্প্রদায়ের সাথে যোগাযোগ করার বিভিন্ন উপায় রয়েছে, এটি নির্ভর করে আপনি কী বিষয়ে জিজ্ঞাসা করতে চান তার উপর।
+lang: bn
 ---
 
-As a decentralized project, there are many different ways to get in touch with the OpenStreetMap community, it depends on what you want to ask about.
+একটি বিকেন্দ্রীকৃত প্রজেক্ট হিসেবে, ওপেনস্ট্রিটম্যাপ কমিউনিটির সাথে যোগাযোগ করার অনেকগুলো ভিন্ন উপায় আছে, এটি নির্ভর করে আপনি কী বিষয়ে জানতে চান তার ওপর।
 
-The [Working Groups](/about-osm-community/working-groups.md) may cover your question if it’s about a specific topic such as licensing or press inquiries.
+যদি আপনার প্রশ্নটি লাইসেন্সিং বা প্রেস জিজ্ঞাসার মতো একটি নির্দিষ্ট বিষয় সম্পর্কে হয়, তাহলে [ওয়ার্কিং গ্রুপগুলি](/about-osm-community/working-groups.md) আপনার প্রশ্নের উত্তর দিতে পারে।
 
-If you want to talk with the community in a specific country or region, please consult the [OSM Wiki](https://wiki.openstreetmap.org){:target="_blank"}.
+আপনি যদি একটি নির্দিষ্ট দেশ বা অঞ্চলের কমিউনিটির সাথে কথা বলতে চান, অনুগ্রহ করে [ওএসএম উইকি](https://wiki.openstreetmap.org){:target="\_blank"} দেখুন।
 
-If you need more help with contacting communities, try the [OSM contact channels](https://wiki.openstreetmap.org/wiki/Contact_channels){:target="_blank"} page.
+যদি কমিউনিটির সাথে যোগাযোগ করার জন্য আপনার আরও সাহায্যের প্রয়োজন হয়, তাহলে [ওএসএম যোগাযোগ চ্যানেল](https://wiki.openstreetmap.org/wiki/Contact_channels){:target="\_blank"} পেজটি দেখুন।
 
-Here is [more information](/about-osm-community/donate-to-osm.md) about donating to OSM.
+ওএসএম -এ অনুদান দেওয়া সম্পর্কে [আরও তথ্য](/about-osm-community/donate-to-osm.md) এখানে রয়েছে।
 
-If you are interested in contributing or donating to OpenStreetMap, or for any other questions, please get in touch with the OSM Foundation Board of Directors at [board(at)osmfoundation.org](mailto:board@osmfoundation.org).
+আপনি যদি ওপেনস্ট্রিটম্যাপ-এ অবদান রাখতে বা অনুদান দিতে আগ্রহী হন, অথবা অন্য যেকোনো প্রশ্নের জন্য, অনুগ্রহ করে [board(at)osmfoundation.org](mailto:board@osmfoundation.org)-এ ওএসএম ফাউন্ডেশনের পরিচালনা পর্ষদ -এর সাথে যোগাযোগ করুন।
