@@ -1,27 +1,27 @@
 ---
-title: &title Who is OpenStreetMap?
-description: &description The people and communities of OSM
+শিরোনাম: ওপেনস্ট্রিটম্যাপ কে?
+বর্ণনা: ওএসএম-এর মানুষ এবং সম্প্রদায়
 
 tile:
-    sequence: 2
-    title: *title 
-    description: *description
+    ক্রম: ২
+    শিরোনাম: শিরোনাম
+    বর্ণনা: বর্ণনা
     image:
         src: who-is-openstreetmap.webp
-        alt: A group of people posing on stairs after completing a mapping workshop
-lang: en
+        alt: ম্যাপিং কর্মশালা শেষ করার পর সিঁড়িতে পোজ দিচ্ছেন একদল মানুষ
+lang: bn
 ---
 
-Everyone who participates in the creation and progress of [OpenStreetMap](https://openstreetmap.org){:target="_blank"} is part of the OSM community. There’s also the
-[OpenStreetMap Foundation](/about-osm-community/osm-foundation.md), a registered nonprofit in the United Kingdom that supports OpenStreetMap and makes sure it is running smoothly.
+[ওপেনস্ট্রিটম্যাপ](https://openstreetmap.org){:target="_blank"} তৈরি এবং অগ্রগতিতে অংশগ্রহণকারী প্রত্যেকেই ওএসএম সম্প্রদায়ের অংশ। এছাড়াও যুক্তরাজ্যে নিবন্ধিত একটি অলাভজনক প্রতিষ্ঠান
+[ওপেনস্ট্রিটম্যাপ ফাউন্ডেশন](/about-osm-community/osm-foundation.md) রয়েছে যা ওপেনস্ট্রিটম্যাপ সমর্থন করে এবং নিশ্চিত করে যে এটি সুষ্ঠুভাবে চলছে।
 
-* **Contributors:** people who add or update data on OpenStreetMap. The majority of these are volunteers; some are humanitarian workers or are employed by companies.
+* **অবদানকারী:** যারা ওপেনস্ট্রিটম্যাপ-এ ডেটা যোগ বা আপডেট করেন। এদের বেশিরভাগই স্বেচ্ছাসেবক; কেউ কেউ মানবিক কর্মী অথবা কোম্পানিতে নিযুক্ত।
 
-* **Data Consumers:** many different companies, organizations, governments, researchers and individuals use OpenStreetMap data for any number of uses: transportation and routing, GPS and navigation, health care, city planning, cartography, municipal services, academic research, GIS and more. Some of the users of OSM data are
-[listed here](/about-osm-community/consumers.md).
+* **ডেটা গ্রাহক:** অনেক কোম্পানি, সংস্থা, সরকার, গবেষক এবং ব্যক্তি যেকোনো ব্যবহারের জন্য ওপেনস্ট্রিটম্যাপ ডেটা ব্যবহার করে: পরিবহন এবং রাউটিং, জিপিএস এবং নেভিগেশন, স্বাস্থ্যসেবা, নগর পরিকল্পনা, মানচিত্রাঙ্কন, পৌর পরিষেবা, একাডেমিক গবেষণা, জিআইএস এবং আরও অনেক কিছু। ওএসএম ডেটা ব্যবহারকারীদের মধ্যে কিছু
+[এখানে তালিকাভুক্ত](/about-osm-community/consumers.md)।
 
-* **Developers:** coders, developers and designers who use OpenStreetMap to make tools like routing, data editing, quality assurance, project management and more.
+* **ডেভেলপার:** কোডার, ডেভেলপার এবং ডিজাইনার যারা ওপেনস্ট্রিটম্যাপ ব্যবহার করে রাউটিং, ডেটা এডিটিং, মান নিশ্চিতকরণ, প্রকল্প ব্যবস্থাপনা এবং আরও অনেক কিছু তৈরি করে।
 
-* **Local and Regional Communities:** regional, country, state or city organizations that organize OpenStreetMap editing and events in their areas, but some of which are officially organized, others gather informally. Many of these groups organize their own conferences.
+* **স্থানীয় এবং আঞ্চলিক সম্প্রদায়:** আঞ্চলিক, দেশ, রাজ্য বা শহরের সংগঠন যারা তাদের এলাকায় ওপেনস্ট্রিটম্যাপ সম্পাদনা এবং ইভেন্ট আয়োজন করে, কিন্তু কিছু আনুষ্ঠানিকভাবে সংগঠিত হয়, অন্যরা অনানুষ্ঠানিকভাবে একত্রিত হয়। এই গোষ্ঠীগুলির মধ্যে অনেকেই তাদের নিজস্ব সম্মেলন আয়োজন করে।
 
-* **Humanitarian Groups:** many humanitarian organizations create data and use OpenStreetMap data to support their projects, either for planning and preparation, logistics, or response. Often there are volunteer mappers who help digitize imagery, as well as on-the-ground data collectors and mapping staff.
+* **মানবিক গোষ্ঠী:** অনেক মানবিক সংগঠন তথ্য তৈরি করে এবং পরিকল্পনা এবং প্রস্তুতি, সরবরাহ, বা প্রতিক্রিয়ার জন্য তাদের প্রকল্পগুলিকে সমর্থন করার জন্য ওপেনস্ট্রিটম্যাপ ডেটা ব্যবহার করে। প্রায়শই স্বেচ্ছাসেবক ম্যাপার থাকে যারা চিত্র ডিজিটালাইজ করতে সাহায্য করে, সেইসাথে অন-দ্য-গ্রাউন্ড ডেটা সংগ্রাহক এবং ম্যাপিং কর্মীরাও থাকে।
