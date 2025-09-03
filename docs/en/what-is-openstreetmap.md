@@ -1,14 +1,15 @@
 ---
-title: &title What is OpenStreetMap?
-description: &description A brief introduction to OpenStreetMap
+Title: "What is OpenStreetMap?"
+description: "A brief introduction to OpenStreetMap"
 
-tile:
-    sequence: 1
-    title: *title 
-    description: *description
+tiles:
+  - sequence: 1
+    title: Title
+    description: Description
     image:
-        src: what-is-openstreetmap.webp
-        alt: A group of researchers surveying the surroundings while collecting data for mapping and taking notes
+      src: what-is-openstreetmap.webp
+      alt: "A group of researchers surveying the surroundings while collecting data for mapping and taking notes"
+
 lang: en
 ---
 
