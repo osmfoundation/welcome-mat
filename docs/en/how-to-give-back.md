@@ -1,14 +1,14 @@
 ---
-title: &title How to give back?
-description: &description How can you or your organization contribute to OSM?
+Title: "How to contribute?"
+Description: "How can you or your organization contribute to OSM?"
 
-tile:
+tiles:
     sequence: 4
-    title: *title 
-    description: *description
+    title: "Your title here"
+    description: "Your description here"
     image:
-        src: how-to-give-back.webp
-        alt: Workers from the Red Cross humanitarian mission have spread papers with local area research on the ground and are discussing them
+      src: how-to-give-back.webp
+      alt: "Workers from the Red Cross humanitarian mission have spread papers with local area research on the ground and are discussing them"
 lang: en
 ---
 
