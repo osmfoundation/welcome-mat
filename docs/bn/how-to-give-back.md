@@ -1,30 +1,31 @@
 ---
-title: &title How to give back?
-description: &description How can you or your organization contribute to OSM?
+শিরোনাম: "কীভাবে অবদান রাখবেন ?"
+বর্ণনা: "আপনি বা আপনার সংস্থা ওএসএম-এ কীভাবে অবদান রাখতে পারেন?"
 
-tile:
-    sequence: 4
-    title: *title 
-    description: *description
-    image:
-        src: how-to-give-back.webp
-        alt: Workers from the Red Cross humanitarian mission have spread papers with local area research on the ground and are discussing them
-lang: en
+tiles:
+    ক্রম: ৪
+    শিরোনাম: "এখানে তোমার শিরোনাম"
+    বর্ণনা: "আপনার বিবরণ এখানে"
+    ছবি:
+      src: how-to-give-back.webp
+      alt: "রেড ক্রস মানবিক মিশনের কর্মীরা স্থানীয় এলাকার গবেষণার উপর ভিত্তি করে কাগজপত্র ছড়িয়ে দিয়েছেন এবং সেগুলো নিয়ে আলোচনা করছেন"
+
+lang: bn
 ---
 
-## Why should an organization contribute data to OpenStreetMap?
+## কেন একটি প্রতিষ্ঠানের ওপেনস্ট্রিটম্যাপ-এ ডেটা অবদান রাখা উচিত?
 
-* Adding data to OSM is quicker and easier than building your own system: you benefit from updates to the software, the ecosystem and collaborative maintenance and improvement of the data
-* Allows an organisation to focus on its core data, rather than also maintaining geospatial data
-* OSM is a shared platform to contribute and collaborate with others
-* Broader social good of contributing to a global map
+* ওএসএম-এ ডেটা যোগ করা আপনার নিজস্ব সিস্টেম তৈরির চেয়ে দ্রুত এবং সহজ: আপনি সফ্টওয়্যার, ইকোসিস্টেমের আপডেট এবং সহযোগিতামূলক রক্ষণাবেক্ষণ এবং ডেটার উন্নতি থেকে উপকৃত হন।
+* একটি প্রতিষ্ঠানকে ভূ-স্থানিক ডেটা বজায় রাখার পরিবর্তে তার মূল ডেটার উপর মনোযোগ দেওয়ার সুযোগ দেয়।
+* ওএসএম হল অন্যদের সাথে অবদান এবং সহযোগিতা করার জন্য একটি ভাগ করা প্ল্যাটফর্ম।
+* একটি বিশ্বব্যাপী মানচিত্রে অবদান রাখার বিস্তৃত সামাজিক সুবিধা।
 
-Here are some [general guidelines](https://wiki.openstreetmap.org/wiki/How_We_Map){:target="_blank"} for contributing. If you are thinking about importing an existing data set, [read our import guidelines closely](https://wiki.openstreetmap.org/wiki/Import/Guidelines){:target="_blank"} and particularly note [license compatibility](https://wiki.openstreetmap.org/wiki/Import/Guidelines#Step_3_-_License_approval){:target="_blank"}.
+অবদান রাখার জন্য এখানে কিছু [সাধারণ নির্দেশিকা](https://wiki.openstreetmap.org/wiki/How_We_Map){:target="_blank"} দেওয়া হল। যদি আপনি একটি বিদ্যমান ডেটা সেট আমদানি করার কথা ভাবছেন, [আমাদের আমদানি নির্দেশিকাগুলি মনোযোগ সহকারে পড়ুন](https://wiki.openstreetmap.org/wiki/Import/Guidelines){:target="_blank"} এবং বিশেষ করে [লাইসেন্স সামঞ্জস্য](https://wiki.openstreetmap.org/wiki/Import/Guidelines#Step_3_-_License_approval){:target="_blank"} লক্ষ্য করুন।
 
-## What other ways can we contribute?
+## আমরা আর কোন কোন উপায়ে অবদান রাখতে পারি?
 
-* Becoming a [member or supporter](/about-osm-community/donate-to-osm.md) helps contribute to the sustainability of the project. A [number of companies](https://wiki.osmfoundation.org/wiki/Corporate_Members){:target="_blank"}, for example, are supporters.
-* Contributing imagery or other data such as GPS traces or your GIS data can help improve the map for all and provide a means for the community to use that information to collect new data. It is important to release that data under an open license as well.
-* There’s also a range of supporting open source infrastructure which would benefit from contribution and support from the wider community.
-* There is also a need for advocacy about OpenStreetMap, training, community engagement and more. You can contribute to OpenStreetMap without actually editing the map.
-* Participate in the governance and work of OpenStreetMap Foundation through [working groups](/about-osm-community/working-groups.md).
+* একজন [সদস্য বা সমর্থক](/about-osm-community/donate-to-osm.md) হওয়া প্রকল্পের স্থায়িত্বে অবদান রাখতে সাহায্য করে। উদাহরণস্বরূপ, [সংখ্যার কোম্পানি](https://wiki.osmfoundation.org/wiki/Corporate_Members){:target="_blank"} সমর্থক।
+* চিত্রাবলী বা অন্যান্য ডেটা যেমন জিপিএস ট্রেস বা আপনার জিআইএস ডেটা অবদান রাখা সকলের জন্য মানচিত্র উন্নত করতে সাহায্য করতে পারে এবং সম্প্রদায়কে নতুন ডেটা সংগ্রহ করার জন্য সেই তথ্য ব্যবহার করার একটি উপায় প্রদান করতে পারে। সেই তথ্য একটি ওপেন লাইসেন্সের অধীনে প্রকাশ করাও গুরুত্বপূর্ণ।
+* এছাড়াও বিভিন্ন ধরণের ওপেন সোর্স অবকাঠামো রয়েছে যা বৃহত্তর সম্প্রদায়ের অবদান এবং সহায়তা থেকে উপকৃত হবে।
+* ওপেনস্ট্রিটম্যাপ, প্রশিক্ষণ, সম্প্রদায়ের সম্পৃক্ততা এবং আরও অনেক কিছু সম্পর্কে প্রচারণার প্রয়োজন রয়েছে। আপনি মানচিত্রটি সম্পাদনা না করেও ওপেনস্ট্রিটম্যাপে অবদান রাখতে পারেন।
+* [ওয়ার্কিং গ্রুপ](/about-osm-community/working-groups.md) এর মাধ্যমে ওপেনস্ট্রিটম্যাপ ফাউন্ডেশনের পরিচালনা এবং কাজে অংশগ্রহণ করুন।
