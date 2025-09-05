@@ -1,30 +1,30 @@
 ---
-title: How good is OSM data?
-description: OSM is now often as good or better as what is commercially available
+শিরোনাম: ওএসএম ডেটা কতটা ভালো?
+বর্ণনা: ওএসএম এখন প্রায়শই বাণিজ্যিকভাবে পাওয়া তথ্যের মতোই ভালো বা ভালো।
 
 tile:
-    sequence: 6
-    title: Working with OpenStreetMap Data
-    description: How to use, research and edit OSM…
-    image:
+    ক্রম: ৬
+    শিরোনাম: ওপেনস্ট্রিটম্যাপ ডেটা নিয়ে কাজ করা
+    বর্ণনা: ওএসএম কীভাবে ব্যবহার, গবেষণা এবং সম্পাদনা করবেন...
+    ছবি:
         src: working-with-osm-data.webp
-        alt: A person working on a laptop computer, editing OpenStreetMap data
+        alt: ল্যাপটপ কম্পিউটারে কাজ করা একজন ব্যক্তি, ওপেনস্ট্রিটম্যাপ ডেটা সম্পাদনা করছেন
 lang: en
 ---
 
-This is difficult to answer with a simple answer, but “good” should be a starting point. OSM data is created by local communities made up of individual mappers, so their activity level often dictates the quality of the map. Also, in some regions, open government data is available to mappers for improving OSM.
+এর উত্তর সহজভাবে দেওয়া কঠিন, কিন্তু "ভালো" বলতে শুরু করা উচিত। ওএসএম ডেটা স্থানীয় সম্প্রদায়ের দ্বারা তৈরি করা হয় যারা পৃথক ম্যাপারদের দ্বারা গঠিত, তাই তাদের কার্যকলাপের স্তর প্রায়শই মানচিত্রের মান নির্ধারণ করে। এছাড়াও, কিছু অঞ্চলে, ওএসএম উন্নত করার জন্য ম্যাপারদের কাছে উন্মুক্ত সরকারি ডেটা উপলব্ধ থাকে।
 
-Nonetheless, as OSM compares to the traditional map provider data, and OSM is now often as good or better as what is commercially available. This is evidenced by increased government and corporate usage and contribution.
+তবুও, ওএসএম ঐতিহ্যবাহী মানচিত্র সরবরাহকারীর ডেটার সাথে তুলনা করলে, এবং ওএসএম এখন প্রায়শই বাণিজ্যিকভাবে উপলব্ধ ডেটার চেয়ে ভালো বা ভালো। এটি সরকারী এবং কর্পোরেট ব্যবহার এবং অবদান বৃদ্ধির দ্বারা প্রমাণিত হয়।
 
-There is one thing for certain about OSM; it is constantly improving in all regions.
+ওএসএম সম্পর্কে একটি বিষয় নিশ্চিত; এটি সমস্ত অঞ্চলে ক্রমাগত উন্নতি করছে।
 
-Links below demonstrate some of the statistics that are relevant to make a comparison with third party data:
+নীচের লিঙ্কগুলি এমন কিছু পরিসংখ্যান প্রদর্শন করে যা তৃতীয় পক্ষের ডেটার সাথে তুলনা করার জন্য প্রাসঙ্গিক:
 
 - [http://www.missingmaps.org/osmstats/](http://www.missingmaps.org/osmstats/){:target="_blank"}
 - [https://mapbox.github.io/osm-analysis-collab/osm-quality](https://mapbox.github.io/osm-analysis-collab/osm-quality){:target="_blank"}
 
-More research about OpenStreetMap, including many papers on data quality, can be found here:
+ওপেনস্ট্রিটম্যাপ সম্পর্কে আরও গবেষণা, ডেটা মানের উপর অনেক গবেষণাপত্র সহ, এখানে পাওয়া যাবে:
 
 - [https://wiki.openstreetmap.org/wiki/Research](https://wiki.openstreetmap.org/wiki/Research){:target="_blank"}.
 
-There are a number of quality assurance tools here, [https://wiki.openstreetmap.org/wiki/Quality_assurance](https://wiki.openstreetmap.org/wiki/Quality_assurance){:target="_blank"}.
+এখানে বেশ কিছু গুণমান নিশ্চিতকরণ সরঞ্জাম রয়েছে, [https://wiki.openstreetmap.org/wiki/Quality_assurance](https://wiki.openstreetmap.org/wiki/Quality_assurance){:target="_blank"}।
