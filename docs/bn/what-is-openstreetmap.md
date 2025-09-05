@@ -1,23 +1,23 @@
 ---
-title: &title What is OpenStreetMap?
-description: &description A brief introduction to OpenStreetMap
+শিরোনাম: "ওপেনস্ট্রিটম্যাপ কী?"
+বর্ণনা: "ওপেনস্ট্রিটম্যাপের একটি সংক্ষিপ্ত ভূমিকা"
 
-tile:
-    sequence: 1
-    title: *title 
-    description: *description
-    image:
-        src: what-is-openstreetmap.webp
-        alt: A group of researchers surveying the surroundings while collecting data for mapping and taking notes
-lang: en
+tiles:
+    ক্রম: ১
+    শিরোনাম: শিরোনাম
+    বর্ণনা: বর্ণনা
+    ছবি:
+      src: what-is-openstreetmap.webp
+      alt: "একদল গবেষক আশেপাশের এলাকা জরিপ করছেন, ম্যাপিংয়ের জন্য তথ্য সংগ্রহ করছেন এবং নোট নিচ্ছেন"
+lang: bn
 ---
 
-[OpenStreetMap](https://openstreetmap.org){:target="_blank"} is a free, editable map of the whole world made by people like you. It was started in 2004 in the UK, out of frustration with the lack of availability of good map data that was free to use.
+[ওপেনস্ট্রিটম্যাপ](https://openstreetmap.org){:target="_blank"} হল আপনার মতো মানুষদের দ্বারা তৈরি সমগ্র বিশ্বের একটি বিনামূল্যের, সম্পাদনাযোগ্য মানচিত্র। এটি ২০০৪ সালে যুক্তরাজ্যে শুরু হয়েছিল, ব্যবহারের জন্য বিনামূল্যে ভালো মানচিত্রের তথ্যের অভাবের হতাশা থেকে।
 
-OpenStreetMap includes data about roads, buildings, addresses, shops and businesses, points of interest, railways, trails, transit, land use and natural features, and much more.
+ওপেনস্ট্রিটম্যাপ-এ রাস্তা, ভবন, ঠিকানা, দোকান এবং ব্যবসা, আকর্ষণীয় স্থান, রেলপথ, পথ, পরিবহন, ভূমি ব্যবহার এবং প্রাকৃতিক বৈশিষ্ট্য এবং আরও অনেক কিছু সম্পর্কে তথ্য অন্তর্ভুক্ত রয়েছে।
 
-The map is created and maintained by nearly 5 million registered users and more than 1 million map contributors in every country in the world, using free tools and software. The data is used by local people, volunteer groups, companies, governments, software developers and more.
+বিশ্বের প্রতিটি দেশে প্রায় ৫০ লক্ষ নিবন্ধিত ব্যবহারকারী এবং ১০ লক্ষেরও বেশি মানচিত্র অবদানকারী বিনামূল্যে সরঞ্জাম এবং সফ্টওয়্যার ব্যবহার করে মানচিত্রটি তৈরি এবং রক্ষণাবেক্ষণ করেন। স্থানীয় মানুষ, স্বেচ্ছাসেবক গোষ্ঠী, কোম্পানি, সরকার, সফ্টওয়্যার বিকাশকারী এবং আরও অনেক কিছু দ্বারা ডেটা ব্যবহার করা হয়।
 
-The project has a very lean governance structure, run entirely by the volunteers of the
-[OpenStreetMap Foundation](/about-osm-community/osm-foundation.md). Financial support comes from the OpenStreetMap Foundation members, including corporate members, as well as
-[donations](/about-osm-community/donate-to-osm.md).
+প্রকল্পটির একটি অত্যন্ত দুর্বল প্রশাসন কাঠামো রয়েছে, যা সম্পূর্ণরূপে
+[ওপেনস্ট্রিটম্যাপ ফাউন্ডেশন](/about-osm-community/osm-foundation.md) এর স্বেচ্ছাসেবকদের দ্বারা পরিচালিত হয়। আর্থিক সহায়তা আসে ওপেনস্ট্রিটম্যাপ ফাউন্ডেশনের সদস্যদের কাছ থেকে, যার মধ্যে কর্পোরেট সদস্যরাও অন্তর্ভুক্ত, এবং
+[দান](/about-osm-community/donate-to-osm.md)।
