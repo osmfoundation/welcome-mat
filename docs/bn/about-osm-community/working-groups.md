@@ -1,46 +1,46 @@
 ---
-title: Tell me about OSM Foundation Working Groups
-description: The OSM Foundation Working Groups are volunteers who manage and run various aspects of OpenStreetMap
-lang: en
+শিরোনাম: ওএসএম ফাউন্ডেশন ওয়ার্কিং গ্রুপ সম্পর্কে বলুন
+বর্ণনা: ওএসএম ফাউন্ডেশন ওয়ার্কিং গ্রুপ হল স্বেচ্ছাসেবক যারা ওপেনস্ট্রিটম্যাপ এর বিভিন্ন দিক পরিচালনা এবং পরিচালনা করে
+lang: bn
 ---
 
-The OSM Foundation Working Groups are volunteers who manage and run various aspects of OpenStreetMap.
+ওএসএম ফাউন্ডেশন ওয়ার্কিং গ্রুপ হল স্বেচ্ছাসেবক যারা ওপেনস্ট্রিটম্যাপের বিভিন্ন দিক পরিচালনা এবং পরিচালনা করে।
 
-### Licensing Working Group
+### লাইসেন্সিং ওয়ার্কিং গ্রুপ
 
-* Handling issues relating to the current license for OSM data
+* ওএসএম ডেটার বর্তমান লাইসেন্স সম্পর্কিত সমস্যাগুলি পরিচালনা করা
 
-### Data Working Group
+### ডেটা ওয়ার্কিং গ্রুপ
 
-* Resolving issues about copyright violations, data disputes, vandalism, and automated edits beyond the normal means of the community.
-* Helping to set policy on data.
+* কপিরাইট লঙ্ঘন, ডেটা বিরোধ, ভাঙচুর এবং সম্প্রদায়ের স্বাভাবিক উপায়ের বাইরে স্বয়ংক্রিয় সম্পাদনা সম্পর্কিত সমস্যা সমাধান করা।
+* ডেটার উপর নীতি নির্ধারণে সহায়তা করা।
 
-### Communication Working Group
+### যোগাযোগ কর্মী গোষ্ঠী
 
-* Maintaining [blog.openstreetmap.org](https://blog.openstreetmap.org){:target="_blank"} and OpenStreetMap accounts on [Twitter](https://twitter.com/openstreetmap){:target="_blank"} and [Facebook](https://www.facebook.com/OpenStreetMap){:target="_blank"}.
-* Making announcements and project news written with the official "voice of the foundation"
-* Responding to press contacts.
-* Overseeing design and content on [osmfoundation.org](https://wiki.osmfoundation.org){:target="_blank"}
+* [blog.openstreetmap.org](https://blog.openstreetmap.org){:target="_blank"} এবং [টুইটার](https://twitter.com/openstreetmap){:target="_blank"} এবং [ফেসবুক](https://www.facebook.com/OpenStreetMap){:target="_blank"} এ ওপেনস্ট্রিটম্যাপ অ্যাকাউন্ট রক্ষণাবেক্ষণ করা।
+* "ফাউন্ডেশনের অফিসিয়াল কণ্ঠস্বর" দিয়ে ঘোষণা এবং প্রকল্পের সংবাদ লেখা
+* সংবাদমাধ্যমের যোগাযোগের প্রতিক্রিয়া জানানো।
+* [osmfoundation.org](https://wiki.osmfoundation.org){:target="_blank"} এ নকশা এবং বিষয়বস্তু তদারকি করা
 
-### Operations Working Group
+### অপারেশনস ওয়ার্কিং গ্রুপ
 
-* Planning and maintenance of the OSM API and servers.
+* ওএসএম এপিআই এবং সার্ভারের পরিকল্পনা এবং রক্ষণাবেক্ষণ।
 
-### Engineering Working Group
+### ইঞ্জিনিয়ারিং ওয়ার্কিং গ্রুপ
 
-* Engaging and assisting developers to develop OSM software.
+* ওএসএম সফ্টওয়্যার তৈরিতে ডেভেলপারদের জড়িত করা এবং সহায়তা করা।
 
-### State of the Map Organizing Committee
+### মানচিত্র সংগঠক কমিটির অবস্থা
 
-* Organizing and executing the annual worldwide OpenStreetMap Foundation Conference, "State of the Map"
+* বার্ষিক বিশ্বব্যাপী ওপেনস্ট্রিটম্যাপ ফাউন্ডেশন সম্মেলন, "মানচিত্রের অবস্থা" আয়োজন এবং সম্পাদন করা
 
 <!--
-### Local Chapters Working Group
-* Responsible for running the process of setting up OSM Foundation local chapters.
+### স্থানীয় অধ্যায় কর্মী গোষ্ঠী
+* ওএসএম ফাউন্ডেশন স্থানীয় অধ্যায় স্থাপনের প্রক্রিয়া পরিচালনার জন্য দায়ী।
 -->
 
-### Membership Working Group
+### সদস্যপদ কর্মী গোষ্ঠী
 
-* Administering the membership database
-* Answering routine membership queries
-* Increasing OSMF Membership
+* সদস্যপদ ডাটাবেস পরিচালনা করা
+* নিয়মিত সদস্যপদ প্রশ্নের উত্তর দেওয়া
+* ওএসএমএফ সদস্যপদ বৃদ্ধি করা
