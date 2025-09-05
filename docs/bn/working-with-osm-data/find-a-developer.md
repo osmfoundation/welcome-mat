@@ -1,11 +1,11 @@
 ---
-title: Where do we find a good developer or company to build with OSM?
-description: There are many organizations that use OSM, and there are also developers who build tools and processes using OSM
-lang: en
+শিরোনাম: ওএসএম ব্যবহার করে তৈরি করার জন্য আমরা কোথায় একজন ভালো ডেভেলপার বা কোম্পানি খুঁজে পাব?
+বিবরণ: অনেক প্রতিষ্ঠান ওএসএম ব্যবহার করে, এবং এমন ডেভেলপারও আছে যারা ওএসএম ব্যবহার করে টুলস এবং প্রসেস তৈরি করে
+lang: bn
 ---
 
-OSM is a global, open community. There are many organizations and companies that use OSM, and there are also developers who build tools and processes using OSM. The OSM Foundation does not vet developers nor maintain a list of developers.
+ওএসএম একটি বিশ্বব্যাপী, উন্মুক্ত সম্প্রদায়। অনেক প্রতিষ্ঠান এবং কোম্পানি ওএসএম ব্যবহার করে, এবং এমন ডেভেলপারও আছে যারা ওএসএম ব্যবহার করে টুলস এবং প্রসেস তৈরি করে। ওএসএম ফাউন্ডেশন ডেভেলপারদের পরীক্ষা করে না বা ডেভেলপারদের তালিকা বজায় রাখে না।
 
-We recommend that you join the community, investigate some of the networks and groups involved, and ask questions. There is a lengthy [list of commercial services for OSM on our wiki](https://wiki.openstreetmap.org/wiki/Commercial_OSM_Software_and_Services){:target="_blank"}. Depending on where you are in the world, there are local OSM chapters, local country-level mailing lists, as well as local events. Hiring a developer with any niche skills, such as expertise in OSM and the related technological applications, is the responsibility of each business.
+আমরা আপনাকে কমিউনিটিতে যোগদান করার, জড়িত কিছু নেটওয়ার্ক এবং গ্রুপ তদন্ত করার এবং প্রশ্ন জিজ্ঞাসা করার পরামর্শ দিচ্ছি। আমাদের উইকিতে ওএসএম-এর জন্য [বাণিজ্যিক পরিষেবার একটি দীর্ঘ তালিকা রয়েছে](https://wiki.openstreetmap.org/wiki/Commercial_OSM_Software_and_Services){:target="_blank"}। আপনি বিশ্বের কোথায় আছেন তার উপর নির্ভর করে, স্থানীয় ওএসএম অধ্যায়, স্থানীয় দেশ-স্তরের মেইলিং তালিকা এবং স্থানীয় ইভেন্ট রয়েছে। ওএসএম এবং সংশ্লিষ্ট প্রযুক্তিগত অ্যাপ্লিকেশনের মতো যেকোনো বিশেষ দক্ষতা সম্পন্ন একজন ডেভেলপারকে নিয়োগ করা প্রতিটি ব্যবসার দায়িত্ব।
 
-The [Get in Touch](/about-osm-community/get-in-touch.md) page has suggestions for how to reach out and talk with the community.
+[যোগাযোগ করুন](/about-osm-community/get-in-touch.md) পৃষ্ঠায় সম্প্রদায়ের সাথে কীভাবে যোগাযোগ করা যায় এবং তাদের সাথে কথা বলার জন্য পরামর্শ রয়েছে।
