@@ -1,11 +1,10 @@
 ---
-title: Downloading and using OSM data
-description: It is possible to download raw data for a certain area, entire countries or regions…
-lang: en
+শিরোনাম: ওএসএম ডেটা ডাউনলোড এবং ব্যবহার
+বর্ণনা: একটি নির্দিষ্ট এলাকা, সমগ্র দেশ বা অঞ্চলের জন্য কাঁচা ডেটা ডাউনলোড করা সম্ভব...
+lang: bn
 ---
+ওপেনস্ট্রিটম্যাপ ডেটা ব্যবহার করার অনেক উপায় আছে। একটি নির্দিষ্ট এলাকা, সমগ্র দেশ বা অঞ্চলের জন্য কাঁচা ডেটা ডাউনলোড করা সম্ভব, অথবা রাস্তা বা ভবনের মতো নির্দিষ্ট বৈশিষ্ট্যের জন্য কাঁচা ডেটা ডাউনলোড করা সম্ভব। বিদ্যমান সেট বা ওপেনস্ট্রিটম্যাপ ডেটা ব্যবহার করার অনেক উপায় আছে, যেমন মানচিত্রের ছবি, রাউটিং সফ্টওয়্যার এবং আরও অনেক কিছু।
 
-There are many ways to use OpenStreetMap data. It is possible to download raw data for a certain area, entire countries or regions, or certain features such as roads or buildings. There are also many ways to use existing sets or of OpenStreetMap data, such as map images, routing software and more.
+আপনি যদি কাঁচা ওপেনস্ট্রিটম্যাপ ডেটা ডাউনলোড করতে আগ্রহী হন, তাহলে [এই পৃষ্ঠায়](https://wiki.openstreetmap.org/wiki/Downloading_data){:target="_blank"} আরও তথ্য রয়েছে।
 
-If you are interested in downloading raw OpenStreetMap data, [this page](https://wiki.openstreetmap.org/wiki/Downloading_data){:target="_blank"} has more information.
-
-[Here](https://wiki.openstreetmap.org/wiki/Use_OpenStreetMap){:target="_blank"} is more information on uses of OpenStreetMap, such as in maps and for routing.
+[এখানে](https://wiki.openstreetmap.org/wiki/Use_OpenStreetMap){:target="_blank"} ওপেনস্ট্রিটম্যাপ এর ব্যবহার সম্পর্কে আরও তথ্য রয়েছে, যেমন মানচিত্রে এবং রাউটিংয়ের জন্য।
