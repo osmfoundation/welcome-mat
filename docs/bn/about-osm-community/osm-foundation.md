@@ -1,14 +1,14 @@
 ---
-title: What is the OSM Foundation?
-description: The OSM Foundation is the nonprofit organization that supports OSM and provides the necessary organizational backbone
-lang: en
+শিরোনাম: ওএসএম ফাউন্ডেশন কী?
+বর্ণনা: ওএসএম ফাউন্ডেশন হল একটি অলাভজনক সংস্থা যা ওএসএম কে সমর্থন করে এবং প্রয়োজনীয় সাংগঠনিক মেরুদণ্ড প্রদান করে
+lang: bn
 ---
 
-OpenStreetMap is not a closely governed or managed project; grassroots activities are the core of the movement, and individuals participating in OpenStreetMap enjoy great freedom. The OpenStreetMap Foundation is the nonprofit organization that supports OpenStreetMap and provides the necessary organizational backbone. It is made up of a number of different members and groups.
+ওপেনস্ট্রিটম্যাপ কোনও নিবিড়ভাবে পরিচালিত বা পরিচালিত প্রকল্প নয়; তৃণমূল পর্যায়ের কার্যক্রমই এই আন্দোলনের মূল বিষয়, এবং ওপেনস্ট্রিটম্যাপে অংশগ্রহণকারী ব্যক্তিরা প্রচুর স্বাধীনতা উপভোগ করেন। ওপেনস্ট্রিটম্যাপ ফাউন্ডেশন হল একটি অলাভজনক সংস্থা যা ওপেনস্ট্রিটম্যাপকে সমর্থন করে এবং প্রয়োজনীয় সাংগঠনিক মেরুদণ্ড প্রদান করে। এটি বিভিন্ন সদস্য এবং গোষ্ঠীর সমন্বয়ে গঠিত।
 
-* **[OSMF Members](https://wiki.osmfoundation.org/wiki/Membership){:target="_blank"}:** members who have paid dues to join the OpenStreetMap Foundation. They can vote on the OpenStreetMap Foundation Board of Directors and give their opinions on board matters. You can join [here](https://wiki.osmfoundation.org/wiki/Membership){:target="_blank"}.
-* **[OSMF Board of Directors](https://wiki.osmfoundation.org/wiki/Officers_%26_Board){:target="_blank"}:** seven members from around the world who serve as the key governance body of the OpenStreetMap Foundation.
-* **[Local Chapters](https://wiki.osmfoundation.org/wiki/Local_Chapters){:target="_blank"}:** country-specific organizations that act on behalf of the OpenStreetMap Foundation, organising activities like OpenStreetMap editing projects, events and conferences in their areas. Local Chapters are officially registered nonprofit organizations. Note that many countries do not have an officially chartered Chapter, but still have active editing.
-* **[Working Groups](/about-osm-community/working-groups.md):** groups organized by the OpenStreetMap Foundation that handle specific topics like operating the OSM servers, handling data issues, managing legal and licensing issues, running communications about OpenStreetMap, organizing the annual State of the Map conference and much more.
-* **[Corporate Members](https://wiki.osmfoundation.org/wiki/Corporate_Members){:target="_blank"}:** corporate supporters of OpenStreetMap who donate different amounts of money to the OpenStreetMap Foundation. Here is more information about [becoming a corporate member](https://wiki.osmfoundation.org/wiki/Join_as_a_corporate_member){:target="_blank"}.
-* **[Advisory Board](https://wiki.osmfoundation.org/wiki/Advisory_Board){:target="_blank"}:** a group that serves to advise the OSM Foundation Board of Directors, made up of official Local Chapters and Gold & Platinum Corporate Members
+* **[ওএসএমএফ সদস্য](https://wiki.osmfoundation.org/wiki/Membership){:target="_blank"}:** যেসব সদস্য ওপেনস্ট্রিটম্যাপ ফাউন্ডেশনে যোগদানের জন্য ফি পরিশোধ করেছেন। তারা ওপেনস্ট্রিটম্যাপ ফাউন্ডেশন পরিচালনা পর্ষদে ভোট দিতে পারেন এবং বোর্ডের বিষয়ে তাদের মতামত দিতে পারেন। আপনি [এখানে](https://wiki.osmfoundation.org/wiki/Membership){:target="_blank"} যোগ দিতে পারেন।
+* **[ওএসএমএফ পরিচালনা পর্ষদ](https://wiki.osmfoundation.org/wiki/Officers_%26_Board){:target="_blank"}:** বিশ্বজুড়ে সাতজন সদস্য যারা ওপেনস্ট্রিটম্যাপ ফাউন্ডেশনের মূল পরিচালনা পর্ষদ হিসেবে কাজ করেন।
+* **[স্থানীয় অধ্যায়](https://wiki.osmfoundation.org/wiki/Local_Chapters){:target="_blank"}:** দেশ-নির্দিষ্ট সংস্থাগুলি যারা ওপেনস্ট্রিটম্যাপ ফাউন্ডেশনের পক্ষে কাজ করে, তাদের এলাকায় ওপেনস্ট্রিটম্যাপ সম্পাদনা প্রকল্প, ইভেন্ট এবং সম্মেলনের মতো কার্যক্রম পরিচালনা করে। স্থানীয় অধ্যায়গুলি আনুষ্ঠানিকভাবে নিবন্ধিত অলাভজনক সংস্থা। মনে রাখবেন যে অনেক দেশে আনুষ্ঠানিকভাবে চার্টার্ড চ্যাপ্টার নেই, তবে এখনও সক্রিয় সম্পাদনা রয়েছে।
+* **[ওয়ার্কিং গ্রুপ](/about-osm-community/working-groups.md):** ওপেনস্ট্রিটম্যাপ ফাউন্ডেশন দ্বারা সংগঠিত গ্রুপগুলি যা ওএসএম সার্ভার পরিচালনা, ডেটা সমস্যা পরিচালনা, আইনি এবং লাইসেন্সিং সমস্যা পরিচালনা, ওপেনস্ট্রিটম্যাপ সম্পর্কে যোগাযোগ পরিচালনা, বার্ষিক স্টেট অফ দ্য ম্যাপ সম্মেলন আয়োজন এবং আরও অনেক কিছুর মতো নির্দিষ্ট বিষয়গুলি পরিচালনা করে।
+* **[কর্পোরেট সদস্য](https://wiki.osmfoundation.org/wiki/Corporate_Members){:target="_blank"}:** ওপেনস্ট্রিটম্যাপ-এর কর্পোরেট সমর্থকরা যারা ওপেনস্ট্রিটম্যাপ ফাউন্ডেশনে বিভিন্ন পরিমাণ অর্থ দান করেন। [কর্পোরেট সদস্য হওয়ার](https://wiki.osmfoundation.org/wiki/Join_as_a_corporate_member){:target="_blank"} সম্পর্কে আরও তথ্য এখানে দেওয়া হল।
+* **[পরামর্শদাতা বোর্ড](https://wiki.osmfoundation.org/wiki/Advisory_Board){:target="_blank"}:** একটি দল যা ওএসএম ফাউন্ডেশনের পরিচালনা পর্ষদকে পরামর্শ দেয়, যা অফিসিয়াল স্থানীয় অধ্যায় এবং গোল্ড ও প্ল্যাটিনাম কর্পোরেট সদস্যদের নিয়ে গঠিত।

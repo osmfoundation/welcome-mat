@@ -1,19 +1,19 @@
 ---
-title: How can I research with OSM?
-description: Research is a welcome part of the OSM community
-lang: en
+শিরোনাম: ওএসএম-এর মাধ্যমে আমি কীভাবে গবেষণা করতে পারি?
+বর্ণনা: গবেষণা ওএসএম সম্প্রদায়ের একটি স্বাগত অংশ।
+lang: bn
 ---
 
-Research is a welcome part of the OSM community. From Kathmandu to Berlin, there is a rich history of research about OSM -- the community, the project, and the data. Before starting out, we encourage you to get in touch with the local OSM community and review the background on OSM research.
+গবেষণা ওএসএম সম্প্রদায়ের একটি স্বাগত অংশ। কাঠমান্ডু থেকে বার্লিন পর্যন্ত, ওএসএম সম্পর্কে গবেষণার একটি সমৃদ্ধ ইতিহাস রয়েছে -- সম্প্রদায়, প্রকল্প এবং তথ্য। শুরু করার আগে, আমরা আপনাকে স্থানীয় ওএসএম সম্প্রদায়ের সাথে যোগাযোগ করতে এবং ওএসএম গবেষণার পটভূমি পর্যালোচনা করতে উৎসাহিত করছি।
 
-There is an email list for research, <a href="mailto:research-announce@lists.openstreetmap.org">research-announce@lists.openstreetmap.org</a>.
+গবেষণার জন্য একটি ইমেল তালিকা রয়েছে, <a href="mailto:research-announce@lists.openstreetmap.org">research-announce@lists.openstreetmap.org</a>।
 
-Suggestions for how to conduct your research and cite OpenStreetMap are [here](https://wiki.openstreetmap.org/wiki/Researcher_Information){:target="_blank"}.
+আপনার গবেষণা পরিচালনা এবং ওপেনস্ট্রিটম্যাপ উদ্ধৃত করার জন্য পরামর্শগুলি [এখানে](https://wiki.openstreetmap.org/wiki/Researcher_Information){:target="_blank"}।
 
-You can find details on Google Scholar or other web sources that include articles, but here are [some examples](https://wiki.openstreetmap.org/wiki/Research){:target="_blank"} to help you get started.
+আপনি গুগল স্কলার বা অন্যান্য ওয়েব উৎসগুলিতে বিশদ জানতে পারেন যেখানে নিবন্ধ রয়েছে, তবে শুরু করতে সাহায্য করার জন্য এখানে [কিছু উদাহরণ](https://wiki.openstreetmap.org/wiki/Research){:target="_blank"} দেওয়া হল।
 
-**Could OSM provide a letter of support for our research project?**
+**আমাদের গবেষণা প্রকল্পের জন্য ওএসএম কি সমর্থনপত্র প্রদান করতে পারে?**
 
-As OSM is a distributed, global community with diverse expertise, OSM does not provide an exclusive letter of support for any given topic. We encourage researchers to connect with their local OSM community and/or chapter. The benefit of researchers working within the community is that they can seek guidance and context about the work which will add value to the end product.
+যেহেতু ওএসএম একটি বিস্তৃত, বৈচিত্র্যময় দক্ষতা সম্পন্ন বিশ্বব্যাপী সম্প্রদায়, ওএসএম কোনও নির্দিষ্ট বিষয়ের জন্য একচেটিয়া সমর্থনপত্র প্রদান করে না। আমরা গবেষকদের তাদের স্থানীয় ওএসএম সম্প্রদায় এবং/অথবা অধ্যায়ের সাথে সংযোগ স্থাপন করতে উৎসাহিত করি। সম্প্রদায়ের মধ্যে কাজ করা গবেষকদের সুবিধা হল যে তারা সেই কাজের বিষয়ে নির্দেশনা এবং প্রেক্ষাপট জানতে পারেন যা চূড়ান্ত পণ্যের মূল্য যোগ করবে।
 
-For these reasons, the OSMF Board does not formally give letters of support for research. We do, however, recommend that you contact previous researchers to build on their work. During your research journey, we do encourage you to connect with the community, join the events and share your research. Many researchers have presented at the various State of the Map events around the world. Their perspectives are very welcome and contribute to the corpus of OSM knowledge.
+এই কারণে, ওএসএমএফ বোর্ড আনুষ্ঠানিকভাবে গবেষণার জন্য সমর্থনপত্র প্রদান করে না। তবে, আমরা সুপারিশ করি যে আপনি পূর্ববর্তী গবেষকদের সাথে তাদের কাজ আরও উন্নত করার জন্য যোগাযোগ করুন। আপনার গবেষণা যাত্রার সময়, আমরা আপনাকে সম্প্রদায়ের সাথে সংযোগ স্থাপন করতে, ইভেন্টগুলিতে যোগ দিতে এবং আপনার গবেষণা ভাগ করে নিতে উৎসাহিত করি। অনেক গবেষক বিশ্বজুড়ে বিভিন্ন স্টেট অফ দ্য ম্যাপ ইভেন্টে উপস্থাপন করেছেন। তাদের দৃষ্টিভঙ্গি অত্যন্ত স্বাগত এবং ওএসএম জ্ঞানের ভাণ্ডারে অবদান রাখে।
