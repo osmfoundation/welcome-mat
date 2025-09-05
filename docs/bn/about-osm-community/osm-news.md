@@ -1,15 +1,16 @@
 ---
-title: What's new with OpenStreetMap?
-description: There are many ways to find out what’s new with OpenStreetMap
-lang: en
+শিরোনাম: ওপেনস্ট্রিটম্যাপ-এ নতুন কী আছে?
+
+বর্ণনা: ওপেনস্ট্রিটম্যাপ-এ নতুন কী আছে তা জানার অনেক উপায় আছে
+lang: bn
 ---
 
-There are many ways to find out what’s new with OpenStreetMap. OSM has official social media channels at [https://twitter.com/openstreetmap](https://twitter.com/openstreetmap){:target="_blank"} and [https://www.facebook.com/OpenStreetMap/](https://www.facebook.com/OpenStreetMap/){:target="_blank"}.
+ওপেনস্ট্রিটম্যাপ-এ নতুন কী আছে তা জানার অনেক উপায় আছে। ওএসএম-এর অফিসিয়াল সোশ্যাল মিডিয়া চ্যানেলগুলি [https://twitter.com/openstreetmap](https://twitter.com/openstreetmap){:target="_blank"} এবং [https://www.facebook.com/OpenStreetMap/](https://www.facebook.com/OpenStreetMap/){:target="_blank"} এ রয়েছে।
 
-The official blog is at [https://blog.openstreetmap.org/](https://blog.openstreetmap.org/){:target="_blank"}.
+অফিসিয়াল ব্লগটি [https://blog.openstreetmap.org/](https://blog.openstreetmap.org/){:target="_blank"} এ রয়েছে।
 
-There is an independent weekly newsletter at [http://www.weeklyosm.eu](http://www.weeklyosm.eu){:target="_blank"}.
+[http://www.weeklyosm.eu](http://www.weeklyosm.eu){:target="_blank"} এ একটি স্বাধীন সাপ্তাহিক নিউজলেটার রয়েছে।
 
-[Google News](https://news.google.com/news/search/section/q/openstreetmap/openstreetmap?hl=en&gl=US&ned=us){:target="_blank"} is frequently updated with articles about OpenStreetMap, too.
+[গুগল নিউজ](https://news.google.com/news/search/section/q/openstreetmap/openstreetmap?hl=en&gl=US&ned=us){:target="_blank"} প্রায়শই ওপেনস্ট্রিটম্যাপ সম্পর্কে নিবন্ধগুলি আপডেট করে।
 
-Or just try searching the web or social media for OpenStreetMap. There are hundreds of articles and blog posts about OSM.
+অথবা কেবল ওয়েব বা সোশ্যাল মিডিয়াতে ওপেনস্ট্রিটম্যাপ অনুসন্ধান করার চেষ্টা করুন। ওএসএম সম্পর্কে শত শত নিবন্ধ এবং ব্লগ পোস্ট রয়েছে।
