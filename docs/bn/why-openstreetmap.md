@@ -1,37 +1,37 @@
 ---
-title: &title Why use OpenStreetMap?
-description: &description What makes OpenStreetMap special?
+শিরোনাম: ওপেনস্ট্রিটম্যাপ কেন ব্যবহার করবেন?
+বর্ণনা: ওপেনস্ট্রিটম্যাপকে কী বিশেষ করে তোলে?
 
 tile:
-    sequence: 3
-    title: *title 
-    description: *description
+    ক্রম: ৩
+    শিরোনাম: শিরোনাম 
+    বর্ণনা: বর্ণনা
     image:
         src: why-openstreetmap.webp
-        alt: A group of people comparing data collected during an OpenStreetMap field survey
-lang: en
+        alt: ওপেনস্ট্রিটম্যাপ ফিল্ড জরিপের সময় সংগৃহীত তথ্য তুলনা করছে একদল লোক
+lang: bn
 ---
 
-## Free and Open
+## বিনামূল্যে এবং উন্মুক্ত
 
-[OpenStreetMap](https://openstreetmap.org){:target="_blank"} is published under an open licence, that allows anyone to access, use and share the data. This creates a level playing field allowing a diverse variety of individuals, communities and organisations to contribute towards creating a shared resource.
+[ওপেনস্ট্রিটম্যাপ](https://openstreetmap.org){:target="_blank"} একটি উন্মুক্ত লাইসেন্সের অধীনে প্রকাশিত হয়, যা যে কাউকে ডেটা অ্যাক্সেস, ব্যবহার এবং ভাগ করে নেওয়ার অনুমতি দেয়। এটি একটি সমান খেলার ক্ষেত্র তৈরি করে যা বিভিন্ন ব্যক্তি, সম্প্রদায় এবং সংস্থাকে একটি ভাগ করা সম্পদ তৈরিতে অবদান রাখার সুযোগ দেয়।
 
-## Global Reach
+## বিশ্বব্যাপী পৌঁছান
 
-OpenStreetMap provides global map data in a unified tagging schema, although there are some local variations. Data is available for every country in the world, and in many places, the data quality is excellent. And since it’s open, you can also help improve quality.
+ওপেনস্ট্রিটম্যাপ একটি সমন্বিত ট্যাগিং স্কিমায় বিশ্বব্যাপী মানচিত্রের ডেটা সরবরাহ করে, যদিও কিছু স্থানীয় বৈচিত্র্য রয়েছে। বিশ্বের প্রতিটি দেশের জন্য ডেটা উপলব্ধ, এবং অনেক জায়গায়, ডেটার মান চমৎকার। এবং যেহেতু এটি উন্মুক্ত, আপনি মান উন্নত করতেও সাহায্য করতে পারেন।
 
-## Local Knowledge
+## স্থানীয় জ্ঞান
 
-OpenStreetMap emphasizes local knowledge and empowers people across the globe to edit. The barrier to entry is low, and there are many ways to contribute that do not require access to the latest technology. The result is a map made by local experts.
+ওপেনস্ট্রিটম্যাপ স্থানীয় জ্ঞানের উপর জোর দেয় এবং বিশ্বজুড়ে মানুষকে সম্পাদনা করার ক্ষমতা দেয়। প্রবেশের বাধা কম, এবং অবদান রাখার অনেক উপায় রয়েছে যার জন্য সর্বশেষ প্রযুক্তির অ্যাক্সেসের প্রয়োজন হয় না। ফলাফল হল স্থানীয় বিশেষজ্ঞদের দ্বারা তৈরি একটি মানচিত্র।
 
-## Continuous updates
+## ক্রমাগত আপডেট
 
-OpenStreetMap has no data releases. Contributions to the map are ingested immediately. You determine how fresh you want your OpenStreetMap data, up to the minute if needed.
+ওপেনস্ট্রিটম্যাপ-এর কোনও ডেটা রিলিজ নেই। মানচিত্রে অবদান অবিলম্বে গ্রহণ করা হয়। আপনার ওপেনস্ট্রিটম্যাপ ডেটা কতটা নতুন, প্রয়োজনে তা আপনিই নির্ধারণ করতে পারবেন।
 
-## Agency
+## সংস্থা
 
-As OpenStreetMap contributors, we together hold the keys to the future of the map. Your contributions, be it in map data, novel tools, new people and insights, evangelism or training, help determine the course of OpenStreetMap, and make it a better map for you and everyone else.
+ওপেনস্ট্রিটম্যাপ অবদানকারী হিসেবে, আমরা একসাথে মানচিত্রের ভবিষ্যতের চাবিকাঠি ধারণ করি। আপনার অবদান, তা মানচিত্রের ডেটা, নতুন সরঞ্জাম, নতুন মানুষ এবং অন্তর্দৃষ্টি, ধর্মপ্রচার বা প্রশিক্ষণের ক্ষেত্রেই হোক না কেন, ওপেনস্ট্রিটম্যাপ-এর গতিপথ নির্ধারণে সাহায্য করে এবং এটিকে আপনার এবং অন্য সকলের জন্য আরও ভালো মানচিত্রে পরিণত করে।
 
-## Giving Back
+## প্রতিদান
 
-By building against a shared resource, your organisation can benefit from updates provided by OpenStreetMap’s global community.
+একটি ভাগ করা সম্পদের বিপরীতে নির্মাণ করে, আপনার সংস্থা ওপেনস্ট্রিটম্যাপ-এর বিশ্বব্যাপী সম্প্রদায় দ্বারা প্রদত্ত আপডেটগুলি থেকে উপকৃত হতে পারে।
