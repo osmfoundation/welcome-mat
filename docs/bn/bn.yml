@@ -1,0 +1,47 @@
+bn:
+  plugins:
+    - i18n:
+        languages:
+          - locale: bn
+            name: বাংলা
+            site_name: ওপেনস্ট্রিটম্যাপে স্বাগতম
+            copyright: © ২০১৯ – ২০২৫ ওপেনস্ট্রিটম্যাপ ফাউন্ডেশন, <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank"><img alt="ক্রিয়েটিভ কমন্স লাইসেন্স" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/2.0/80x15.png" /></a><br />এই কাজটি <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank">ক্রিয়েটিভ কমন্স অ্যাট্রিবিউশন-শেয়ারঅ্যালাইক ২.০ জেনেরিক লাইসেন্স</a> এর অধীনে লাইসেন্সপ্রাপ্ত।
+            theme:
+              palette:
+                - toggle:
+                    name: হালকা মোডে স্যুইচ করুন
+                - toggle:
+                    name: ডার্ক মোডে স্যুইচ করুন
+                - toggle:
+                    name: সিস্টেমের পছন্দ অনুসারে পরিবর্তন করুন
+            extra:
+              announce:
+                toggle:
+                  - label: তথ্য দেখান
+                    icon: material/information-outline
+                  - label: তথ্য লুকান
+                    icon: material/information
+                text: >-
+                  <p> <a href="https://www.openstreetmap.org" target="_blank">ওপেনস্ট্রিটম্যাপ</a> কমিউনিটি এবং <a href="https://osmfoundation.org" target="_blank">ফাউন্ডেশন</a>-এর জন্য স্বাগত পৃষ্ঠা। ওপেনস্ট্রিটম্যাপ হল বিশ্বের বিনামূল্যে এবং সম্পাদনাযোগ্য মানচিত্র, যা একটি বিশাল আন্তর্জাতিক সম্প্রদায় দ্বারা তৈরি এবং রক্ষণাবেক্ষণ করা হয়। <a href="https://www.openstreetmap.org" target="_blank">ওপেনস্ট্রিটম্যাপ</a>-এ যে কেউ কয়েক মিনিটের মধ্যেই একটি অ্যাকাউন্ট তৈরি এবং সম্পাদনা শুরু করতে পারে।</p> <p>এই নির্দেশিকাগুলি <a href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank">ক্রিয়েটিভ কমন্স অ্যাট্রিবিউশন-শেয়ারঅ্যালাইক ২.০ জেনেরিক লাইসেন্স</a> এর অধীনে লাইসেন্সপ্রাপ্ত, যদি আপনি এগুলিতে অবদান রাখতে চান বা কোনও প্রতিক্রিয়া জানাতে চান, তবে নির্দ্বিধায় এই <a href="https://github.com/osmfoundation/welcome-mat/issues" target="_blank">repository</a>-তে একটি সমস্যা (issue) উত্থাপন করতে পারেন।</p>
+            nav_translations:
+              Home: হোম
+              What is OpenStreetMap: ওপেনস্ট্রিটম্যাপ কী?
+              Who is OpenStreetMap: ওপেনস্ট্রিটম্যাপ কে?
+              Why use OpenStreetMap: ওপেনস্ট্রিটম্যাপ কেন ব্যবহার করবেন?
+              How can we give back: আমরা কিভাবে অবদান রাখতে পারি?
+              About Community: ওপেনস্ট্রিটম্যাপ সম্প্রদায়
+              History of OSM: ওএসএম এর ইতিহাস কী?
+              OSMF: ওএসএম ফাউন্ডেশন কী?
+              Local Chapters: স্থানীয় অধ্যায়গুলি কীভাবে গঠিত হয়?
+              Working Groups: ওএসএম ফাউন্ডেশন ওয়ার্কিং গ্রুপ সম্পর্কে আমাকে বলুন
+              Consumers: ওপেনস্ট্রিটম্যাপ কারা ব্যবহার করে?
+              OSM News: ওপেনস্ট্রিটম্যাপে নতুন কী আছে?
+              Donate: আমরা কিভাবে ওপেনস্ট্রিটম্যাপে-এ টাকা দিতে পারি?
+              Contact: কিভাবে যোগাযোগ করবেন?
+              Working with data: ওপেনস্ট্রিটম্যাপ ডেটা নিয়ে কাজ করা
+              Data quality: ওএসএম ডেটা কতটা ভালো?
+              Contribute data: ওপেনস্ট্রিটম্যাপে সংগঠিত সম্পাদনা
+              Humanitarian campaign: আমরা ওএসএম ব্যবহার করে একটি মানবিক প্রচারণার পরিকল্পনা করছি, আমাদের কী জানা দরকার?
+              Research with OSM: আমি কিভাবে ওএসএম দিয়ে গবেষণা করতে পারি?
+              Find a developer: ওএসএম দিয়ে নির্মাণের জন্য আমরা কোথায় একটি ভালো ডেভেলপার বা কোম্পানি পাব?
+              Downloading and using: ওএসএম ডেটা ডাউনলোড এবং ব্যবহার করা
