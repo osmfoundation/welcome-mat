@@ -1,11 +1,11 @@
 ---
-শিরোনাম: ওপেনস্ট্রিটম্যাপ কে?
-বর্ণনা: ওএসএম-এর মানুষ এবং সম্প্রদায়
+title: &title "ওপেনস্ট্রিটম্যাপ কে?"
+description: &description "ওএসএম-এর মানুষ এবং সম্প্রদায়"
 
 tile:
-    ক্রম: ২
-    শিরোনাম: শিরোনাম
-    বর্ণনা: বর্ণনা
+    sequence: 2
+    title: *title
+    description: *description
     image:
         src: who-is-openstreetmap.webp
         alt: ম্যাপিং কর্মশালা শেষ করার পর সিঁড়িতে পোজ দিচ্ছেন একদল মানুষ
