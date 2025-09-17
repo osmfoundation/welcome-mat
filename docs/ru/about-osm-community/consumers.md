@@ -28,7 +28,7 @@ lang: ru
 
 * [Air France](https://wiki.openstreetmap.org/wiki/File:Air_France_seatback_map_display.jpg){:target="_blank"}
 * [Alaska Airlines](https://twitter.com/openstreetmapes/status/554009623062388736){:target="_blank"}
-* [Deutsche Bahn](https://wiki.openstreetmap.org/wiki/File:OpenStreetMap_in_an_IC2_carriage_(DB){:target="_blank"}.jpg)
+* [Deutsche Bahn](https://wiki.openstreetmap.org/wiki/File:OpenStreetMap_in_an_IC2_carriage_(DB).jpg){:target="_blank"}
 * Grab
 * SNCF (французское железнодорожное агентство)
 * Uber
