@@ -12,15 +12,15 @@ OSM 相當精實，開放街圖基金會依靠個人與企業會員會費，年�
 
 ## 企業會員
 
-If you are part of a company or organization, a great way to support OpenStreetMap financially is by becoming a [Corporate Member](https://wiki.osmfoundation.org/wiki/Membership#Corporate_Members){:target="_blank"} of the OpenStreetMap Foundation.
+如果你是公司或是組織的成員，成為[企業會員](https://wiki.osmfoundation.org/wiki/Membership#Corporate_Members){:target="_blank"}是敗務上支持開放街圖基金會的方式。
 
-Corporate membership tiers start at €500 for the Supporter level and go up to €20,000 or more annually for the Platinum level. Each tier comes with a number of additional benefits. Corporate members of Silver and higher levels have a seat on the [OSMF Advisory Board](https://wiki.osmfoundation.org/wiki/Advisory_Board){:target="_blank"}, which serves to advise the OSMF Board of Directors.
+企業會員資格的會費每年從 500 歐元開始，一直到 20,000 歐元以上的白金級別。每一級別往上增加時會增加額外的福利，例如銀級以上會員有在 [OSMF 顧問團](https://wiki.osmfoundation.org/wiki/Advisory_Board){:target="_blank"}有一席，能夠給 OSMF 理事會建議。
 
-If you are interested in becoming a Corporate Member or learning more about donating, please get in touch with the OSM Foundation Board of Directors at [board(at)osmfoundation.org](mailto:board@osmfoundation.org).
+如果你有興趣成為企業會員或是想更瞭解捐款事誼，請到 [board(at)osmfoundation.org](mailto:board@osmfoundation.org) 聯繫 OSMF 理事會。
 
 ## 捐款
 
-[Donations](https://donate.openstreetmap.org){:target="_blank"} of any amount are also more than welcome. The OpenStreetMap Foundation is a registered non-profit in the United Kingdom.
+我們歡迎任務額度的[捐款](https://donate.openstreetmap.org){:target="_blank"}，開放街圖基金會是英國註冊的非營利組織。
 
 ## 地方分會
 
