@@ -27,7 +27,7 @@ COPY --chown=builder:builder . .
 RUN mkdocs build --strict --site-dir /home/builder/output
 
 # Compress assets for nginx gzip_static support
-RUN find /home/builder/output -type f -size +256c \( -name "*.html" -o -name "*.css" -o -name "*.js" -o -name "*.xml" -o -name "*.json" -o -name "*.svg" -o -name "*.ttf" -o -name "*.woff2" -o -name "*.woff" -o -name "*.eot" -o -name "*.otf" -o -name "*.pbf" \) -print0 | xargs -0 -P4 --no-run-if-empty gzip -9k --force
+RUN find /home/builder/output -type f -size +256c \( -name "*.html" -o -name "*.css" -o -name "*.js" -o -name "*.xml" -o -name "*.json" -o -name "*.svg" -o -name "*.ttf" -o -name "*.woff2" -o -name "*.woff" -o -name "*.eot" -o -name "*.otf" -o -name "*.pbf" \) -print0 | xargs -0 -P4 --no-run-if-empty gzip -9k --force --no-name
 
 # ---- Final Stage: Webserver ----
 FROM ghcr.io/nginx/nginx-unprivileged:stable AS webserver
