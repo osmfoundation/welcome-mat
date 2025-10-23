@@ -29,7 +29,7 @@ lang: bn
 
 * [এয়ার ফ্রান্স](https://wiki.openstreetmap.org/wiki/File:Air_France_seatback_map_display.jpg){\:target="\_blank"}
 * [আলাস্কা এয়ারলাইনস](https://twitter.com/openstreetmapes/status/554009623062388736){\:target="\_blank"}
-* [ডয়চে বাহন](https://wiki.openstreetmap.org/wiki/File:OpenStreetMap_in_an_IC2_carriage_(DB){:target="_blank"}.jpg)
+* [ডয়চে বাহন](https://wiki.openstreetmap.org/wiki/File:OpenStreetMap_in_an_IC2_carriage_(DB).jpg){:target="_blank"}
 * গ্র্যাব
 * SNCF (ফ্রান্স রেল সংস্থা)
 * উবার
