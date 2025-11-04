@@ -24,7 +24,7 @@ If you are interested in becoming a Corporate Member or learning more about dona
 
 ## Local chapters
 
-If an OSM Local Chapter exists in your jurisdiction, you may also want to consider donating to them directly. Donations to Local Chapters benefit their work supporting the OpenStreetMap project and community at the local level. Donations to Local Chapters may be tax-exempt, depending on local tax law. For details, inquire with the Local Chapter directly. You can find the current chapters [here](https://wiki.openstreetmap.org/wiki/Foundation/Local_Chapters){:target="_blank"}
+If an OSM Local Chapter exists in your jurisdiction, you may also want to consider donating to them directly. Donations to Local Chapters benefit their work supporting the OpenStreetMap project and community at the local level. Donations to Local Chapters may be tax-exempt, depending on local tax law. For details, inquire with the Local Chapter directly. You can find the current chapters from the [OSM Foundation](https://osmfoundation.org/wiki/Local_Chapters){:target="_blank"}
 
 ## Conferences
 
