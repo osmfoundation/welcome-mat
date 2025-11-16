@@ -104,5 +104,3 @@ Here is a non-exhaustive list of some big organizations that use OpenStreetMap, 
 * Numerous films and TV shows such as *Blade Runner 2049*
 
 Plus many many, large, medium and small businesses and organizations around the world!
-
-To see more examples of uses of OpenStreetMap, see our [weekly featured images](https://wiki.openstreetmap.org/wiki/Featured_images){:target="_blank"}.
