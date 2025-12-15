@@ -1,17 +1,17 @@
 ---
-title: How to get in touch
-description: There are many different ways to get in touch with the OpenStreetMap community, it depends on what you want to ask about
+title: 聯繫我們
+description: 有不同方式能夠聯繫開放街圖社群，而取決於你所求何事
 lang: zh-tw
 ---
 
-As a decentralized project, there are many different ways to get in touch with the OpenStreetMap community, it depends on what you want to ask about.
+開放街圖為去中心化的專案，因此有不同方式聨繫社群，取決於宗所求何事。
 
-The [Working Groups](/about-osm-community/working-groups.md) may cover your question if it’s about a specific topic such as licensing or press inquiries.
+不同[工作小組](/about-osm-community/working-groups.md)的業務範圍也許與你有關，像是特定主題如授權條款或是媒體詢問。
 
-If you want to talk with the community in a specific country or region, please consult the [OSM Wiki](https://wiki.openstreetmap.org){:target="_blank"}.
+如果你想聯繫特定國家或區域的社群的話，請查閱 [OSM Wiki](https://wiki.openstreetmap.org){:target="_blank"}。
 
-If you need more help with contacting communities, try the [OSM contact channels](https://wiki.openstreetmap.org/wiki/Contact_channels){:target="_blank"} page.
+如果你想聯繫社群詢問特定問題，試試透過 [OSM 聯繫管道](https://wiki.openstreetmap.org/wiki/Contact_channels){:target="_blank"} 頁面。
 
-Here is [more information](/about-osm-community/donate-to-osm.md) about donating to OSM.
+關於捐款給 OSM 這裡還有 [更多資訊](/about-osm-community/donate-to-osm.md)。
 
-If you are interested in contributing or donating to OpenStreetMap, or for any other questions, please get in touch with the OSM Foundation Board of Directors at [board(at)osmfoundation.org](mailto:board@osmfoundation.org).
+如果你有興趣貢獻或是捐款給開放街圖，或是有其他問題，請透過 at [board(at)osmfoundation.org](mailto:board@osmfoundation.org) 聯繫開放街圖基金會。
