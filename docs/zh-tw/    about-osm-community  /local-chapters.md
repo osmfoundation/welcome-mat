@@ -1,17 +1,17 @@
 ---
-title: How are Local Chapters formed?
-description: The OpenStreetMap Foundation is happy to talk to groups who are going to apply and work with them to become a local chapter
+title: 如何組成地方分會？
+description: 開放街圖基金會很高興各地社群能與基金會一同努力來申請成為地方分會
 lang: zh-tw
 ---
 
-Once the community of OpenStreetMap contributors in an area is mature enough to warrant the creation of a national (or regional) organisation, they can set up a formal group and apply to be recognized as a local chapter of the OpenStreetMap Foundation. The sequence is key though – creating a formal group is never the first step for OSM activities in a country.  Instead, a formal group should only be set up once there is a certain amount of OSM activities, from a diverse group of people in the country, who can then together found the organisation.
+當一個地方的開放街圖貢獻者社群足夠成熟，能夠付擔得起建立國家 (或是地區) 層級的組織，社群可以設立正式組織並且申請被開放街圖基金會承認為地方分會。順序很重要 - 創立正式組織從來不是一個國家之內 OSM 活動的第一步，應該是有一定程度的 OSM 活動以及擁有不同主題的參與者之後。再來考慮組織起來成立正式組織。
 
-Local chapters must be nonprofit organisations dedicated to supporting the aims of the OpenStreetMap Foundation and the OpenStreetMap project.
+地方分會必須是非營利組織身份，並且能夠支持開放街圖基金會與開放街圖計劃。
 
-Generally, a group that applies for local chapter status in a country is expected to represent the OSM community in the whole country, and membership must be available to everyone in the country. For example, a local hackerspace in the capital or a group of students from a university might not be the best-suited groups to form a local chapter because they tend to lack the inclusivity and reach we are looking for.  We're also expecting local chapters to have democratic structures so that the OSM community members who join the group can decide in the local chapter's affairs. While it is possible for a local chapter to be part of an existing entity rather than a separate organisation, such a local chapter would have to demonstrate how the OSM community members can make decisions without being unduly controlled by the parent organisation.
+一般來說，申請成為地方分會的組織必須能代表整個國家的開放街圖社群，而且會員資格必須開放給全國的人。例如說，首都的地方駭客組織或是一群大學生，因為沒有包容性以及外部連結性，就不適合申請成為地方分會。我們也預期地方分會具備民主體制，能允許OSM社群成員加入並且決定地方分會事務。與其成立新組織，地方分會是可以用既有組織來代表，但仍需要OSM社群成員展示能夠決定事務，並且不受到母組織的控制。
 
-An organisation that applies for local chapter status should be sustainable financially, and should have a track record of OSM-related activities, either as an organisation or at least through their founding members. When evaluating a local chapter application, the OSM Foundation will not look at what the chapter is planning to do, but at what they have done already!
+申請成為地方分會的組織必須顯示他們具備財務永續性，而且也必須以團體或是創會成員身份記錄OSM相關活動。當基金會評估地方分會的狀況，不會看他們計劃什麼，而是已經做了什麼！
 
-The Local Chapter application process is described [here](https://wiki.osmfoundation.org/wiki/Local_Chapters){:target="_blank"}.
+[這裡這這IWNIWI(https://wiki.osmfoundation.org/wiki/Local_Ch{:target="_blank"}有地方分會申請程序。
 
-The OpenStreetMap Foundation is happy to talk to groups who do not yet meet the requirements set out above for a local chapter, and work with them to become a local chapter in the future.
+開放街圖基金會很樂意與尚不符合資源的團體洽談，努力輔導團體有昭一日成為在地分會。
