@@ -1,14 +1,14 @@
 ---
-title: What is the OSM Foundation?
-description: The OSM Foundation is the nonprofit organization that supports OSM and provides the necessary organizational backbone
+title: 開放街圖基金會是什麼？
+description: 開放街圖基金會為支援開放街圖計劃的非營利組織，並且提供所需要組織性後援
 lang: zh-tw
 ---
 
-OpenStreetMap is not a closely governed or managed project; grassroots activities are the core of the movement, and individuals participating in OpenStreetMap enjoy great freedom. The OpenStreetMap Foundation is the nonprofit organization that supports OpenStreetMap and provides the necessary organizational backbone. It is made up of a number of different members and groups.
+開放街圖並非緊密治理或是管理的專案；草概性活動為其根基，而且個人能夠自由參與開放街圖。開放街圖基金會為支援開放街圖計劃的非營利組織，並且提供所需要組織性後援，並且由不同背景的成員與組織所組成。
 
-* **[OSMF Members](https://wiki.osmfoundation.org/wiki/Membership){:target="_blank"}:** members who have paid dues to join the OpenStreetMap Foundation. They can vote on the OpenStreetMap Foundation Board of Directors and give their opinions on board matters. You can join [here](https://wiki.osmfoundation.org/wiki/Membership){:target="_blank"}.
-* **[OSMF Board of Directors](https://wiki.osmfoundation.org/wiki/Officers_%26_Board){:target="_blank"}:** seven members from around the world who serve as the key governance body of the OpenStreetMap Foundation.
-* **[Local Chapters](https://wiki.osmfoundation.org/wiki/Local_Chapters){:target="_blank"}:** country-specific organizations that act on behalf of the OpenStreetMap Foundation, organising activities like OpenStreetMap editing projects, events and conferences in their areas. Local Chapters are officially registered nonprofit organizations. Note that many countries do not have an officially chartered Chapter, but still have active editing.
-* **[Working Groups](/about-osm-community/working-groups.md):** groups organized by the OpenStreetMap Foundation that handle specific topics like operating the OSM servers, handling data issues, managing legal and licensing issues, running communications about OpenStreetMap, organizing the annual State of the Map conference and much more.
-* **[Corporate Members](https://wiki.osmfoundation.org/wiki/Corporate_Members){:target="_blank"}:** corporate supporters of OpenStreetMap who donate different amounts of money to the OpenStreetMap Foundation. Here is more information about [becoming a corporate member](https://wiki.osmfoundation.org/wiki/Join_as_a_corporate_member){:target="_blank"}.
-* **[Advisory Board](https://wiki.osmfoundation.org/wiki/Advisory_Board){:target="_blank"}:** a group that serves to advise the OSM Foundation Board of Directors, made up of official Local Chapters and Gold & Platinum Corporate Members
+* **[OSMF 會員](https://wiki.osmfoundation.org/wiki/Membership){:target="_blank"}：** 會員繳會費加入開放街圖基金會，他們可以投票決定理事成員，並且決議事項，你可以從[這裡](https://wiki.osmfoundation.org/wiki/Membership){:target="_blank"}加入。
+* **[開放街圖基金會理事會](https://wiki.osmfoundation.org/wiki/Officers_%26_Board){:target="_blank"}：** 總共有全球共7位成員，為開放街圖基金會的治理主體。
+* **[地方分會](https://wiki.osmfoundation.org/wiki/Local_Chapters){:target="_blank"}：** 國家層級的組織，能夠代替開放街圖基金會行事，籌辦所屬地方的開放街圖編輯計劃、活動以及大會。地方分會為立案的非營利組織，但有些地方非有官方地方分會，但仍有活躍的編輯活動。
+* **[工作小組](/about-osm-community/working-groups.md)：** 由開放街圖基金會組織的小組，負責不同事務，例如管理開放街圖伺服器，處理資料問題，管理法務與授權議題，與外界溝通開放街圖，籌辦年度 State of the Map 大會等等。
+* **[企業會員](https://wiki.osmfoundation.org/wiki/Corporate_Members){:target="_blank"}：** 透過不同額度的捐款支持開放街圖計劃的企業，這邊有[如何成為企業會員](https://wiki.osmfoundation.org/wiki/Join_as_a_corporate_member){:target="_blank"}的資訊。
+* **[顧問團](https://wiki.osmfoundation.org/wiki/Advisory_Board){:target="_blank"}:** 提供理事會建議的團體，由官方地方分會與金級、白金級企業會員組成。
