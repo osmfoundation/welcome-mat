@@ -1,46 +1,46 @@
 ---
-title: Tell me about OSM Foundation Working Groups
-description: The OSM Foundation Working Groups are volunteers who manage and run various aspects of OpenStreetMap
+title: 瞭解更多有關開放街圖基金會工作小組的事情
+description: 開放街圖基金會工作小組由志工組成，管理以及執行開放街圖不同面向事務
 lang: zh-tw
 ---
 
-The OSM Foundation Working Groups are volunteers who manage and run various aspects of OpenStreetMap.
+開放街圖基金會工作小組由志工組成，管理以及執行開放街圖不同面向事務。
 
-### Licensing Working Group
+### 授權工作小組
 
-* Handling issues relating to the current license for OSM data
+* 處理 OSM 資料相關的授權事務
 
-### Data Working Group
+### 資料工作小組
 
-* Resolving issues about copyright violations, data disputes, vandalism, and automated edits beyond the normal means of the community.
-* Helping to set policy on data.
+* 解決社群當中遇到的侵犯著作權、資料爭議、破壞，以及自動化編輯等事務。
+* 協助建議資料相關政策。
 
-### Communication Working Group
+### 溝通工作小組
 
-* Maintaining [blog.openstreetmap.org](https://blog.openstreetmap.org){:target="_blank"} and OpenStreetMap accounts on [Twitter](https://twitter.com/openstreetmap){:target="_blank"} and [Facebook](https://www.facebook.com/OpenStreetMap){:target="_blank"}.
-* Making announcements and project news written with the official "voice of the foundation"
-* Responding to press contacts.
-* Overseeing design and content on [osmfoundation.org](https://wiki.osmfoundation.org){:target="_blank"}
+* 維護 [blog.openstreetmap.org](https://blog.openstreetmap.org){:target="_blank"} 以及開放街圖的 [Twitter](https://twitter.com/openstreetmap){:target="_blank"} 帳號以及 [Facebook](https://www.facebook.com/OpenStreetMap){:target="_blank"} 帳號。
+* 發佈公告以及官方發佈以「基金會角度」的計劃最新消息。
+* 回應媒體詢問。
+* 監督 [osmfoundation.org](https://wiki.osmfoundation.org){:target="_blank"} 的設計以及內容。 
 
-### Operations Working Group
+### 營運工作小組
 
-* Planning and maintenance of the OSM API and servers.
+* 計劃與維繫 OSM API 以及伺服器。
 
-### Engineering Working Group
+### 工程工作小組
 
-* Engaging and assisting developers to develop OSM software.
+* 接洽與協助開發者開發 OSM 相關軟體。
 
-### State of the Map Organizing Committee
+### State of the Map 籌辦委員會
 
-* Organizing and executing the annual worldwide OpenStreetMap Foundation Conference, "State of the Map"
+* 籌辦以及執行年度全球開放街圖基金會的大會「State of the Map」
 
 <!--
-### Local Chapters Working Group
-* Responsible for running the process of setting up OSM Foundation local chapters.
+### 在地分會工作小組
+* 負責監管以及協助成立 OSM 基金會認可的在地分會。
 -->
 
-### Membership Working Group
+### 會員工作小組
 
-* Administering the membership database
-* Answering routine membership queries
-* Increasing OSMF Membership
+* 管理會員資料庫
+* 回答會員資格詢問
+* 招募 OSMF 會員
