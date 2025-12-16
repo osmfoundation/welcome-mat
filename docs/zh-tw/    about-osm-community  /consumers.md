@@ -53,7 +53,7 @@ lang: zh-tw
 * 義大利政府：[總統府](http://www.governo.it/mappa-del-presidente){:target="_blank"}
 * 賴索託政府
 * 立陶宛政府
-* 挪威國家交通局Government of Norway public transit agency
+* 挪威國家交通局
 * 烏拉圭社會發展部
 * 印尼防災署
 * [義大利警政署](http://www.carabinieri.it/cittadino/informazioni/dove-siamo){:target="_blank"}
