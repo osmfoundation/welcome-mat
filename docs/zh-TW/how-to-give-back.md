@@ -9,7 +9,7 @@ tile:
     image:
         src: how-to-give-back.webp
         alt: 紅十字會救災團體成員與在地人討論在地狀況
-lang: zh-tw
+lang: zh-TW
 ---
 
 ## 為什麼組織應該貢獻開放街圖？

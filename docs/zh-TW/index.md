@@ -2,7 +2,7 @@
 template: home.html
 title: 歡迎墊板 | 開放街圖
 description: 開放街圖是全尺度，由你與我的一般人參與的廣大國際社群創建與維護的自由可編輯的地圖。
-lang: zh-tw
+lang: zh-TW
 hide:
     - toc
     - navigation

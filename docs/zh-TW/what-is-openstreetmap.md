@@ -9,7 +9,7 @@ tile:
     image:
         src: what-is-openstreetmap.webp
         alt: 一群研究者一邊收集畫地圖資料與筆記，一邊踏察週遭
-lang: zh-tw
+lang: zh-TW
 ---
 
 [開放街圖](https://openstreetmap.org){:target="_blank"}是全球尺度，由廣大如你我的一般人構成的國際社群創建與維護的自由可編輯的地圖。整個計畫2004年從英國起源，發起的契機為當時欠缺自由可以運用的地理圖資。

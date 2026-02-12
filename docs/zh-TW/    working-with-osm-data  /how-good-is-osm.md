@@ -9,7 +9,7 @@ tile:
     image:
         src: working-with-osm-data.webp
         alt: 有人用筆記型電腦編輯開放街圖資料
-lang: zh-tw
+lang: zh-TW
 ---
 
 這個問題難以用簡單的答案回應，但「好」通常是討論的起始點。OSM 資料由個別圖客所組成的在地社群參與貢獻，因此活躍程度反應地圖的品質。另外，有些地方能夠運用開放政府資料來改進 OSM。

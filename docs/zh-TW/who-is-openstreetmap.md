@@ -9,7 +9,7 @@ tile:
     image:
         src: who-is-openstreetmap.webp
         alt: 在圖客趴結束時於階梯的一群參與者合照
-lang: zh-tw
+lang: zh-TW
 ---
 
 任何參與[開放街圖](https://openstreetmap.org){:target="_blank"}創建與維護過程的人都是OSM社群的一份子。另外也有在英國註冊的非營利組織[開放街圖](/about-osm-community/osm-foundation.md)支援開放街圖以及確保網站順利運作。

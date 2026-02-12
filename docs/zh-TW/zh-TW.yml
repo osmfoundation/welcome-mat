@@ -2,7 +2,7 @@ en:
   plugins:
     - i18n:
         languages:
-          - locale: zh-tw
+          - locale: zh-TW
             name: 台灣華語
             site_name: 歡迎來到開放街圖
             copyright: © 2019 – 2025 開放街圖基金會，<a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank"><img alt="創用CC授權" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/2.0/80x15.png" /></a><br />這份工作成果以<a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank">創用CC相同方式分享 2.0 未在地化條款</a>釋出。

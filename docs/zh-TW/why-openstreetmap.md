@@ -9,7 +9,7 @@ tile:
     image:
         src: why-openstreetmap.webp
         alt: 一群人在開放街圖的現地踏察活動中收集資料
-lang: zh-tw
+lang: zh-TW
 ---
 
 ## 自由與開放

@@ -1,7 +1,7 @@
 ---
 title: 我們計畫的人道救援活動將會使用 OSM，有什麼注意事項？
 description:  這裡有許多人道救援畫地圖的例子
-lang: zh-tw
+lang: zh-TW
 ---
 
 如果你只是使用開放街圖的資料，你只需要遵循[使用條款](https://www.openstreetmap.org/copyright){:target="_blank"}，解釋如何盡開放街圖的署名義務，混搭資料時的作法，以及如何貢獻資料回去 OSM。
