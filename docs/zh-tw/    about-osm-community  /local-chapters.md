@@ -12,6 +12,6 @@ lang: zh-tw
 
 申請成為地方分會的組織必須顯示他們具備財務永續性，而且也必須以團體或是創會成員身份記錄OSM相關活動。當基金會評估地方分會的狀況，不會看他們計劃什麼，而是已經做了什麼！
 
-[這裡這這IWNIWI(https://wiki.osmfoundation.org/wiki/Local_Ch{:target="_blank"}有地方分會申請程序。
+[這裡](https://wiki.osmfoundation.org/wiki/Local_Chapters){:target="_blank"}有地方分會申請程序。
 
-開放街圖基金會很樂意與尚不符合資源的團體洽談，努力輔導團體有昭一日成為在地分會。
+開放街圖基金會很樂意與尚不符合資格的團體洽談，努力輔導團體有昭一日成為在地分會。
