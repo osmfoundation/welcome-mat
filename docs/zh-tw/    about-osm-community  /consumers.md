@@ -28,7 +28,7 @@ lang: zh-tw
 
 * [法國航空](https://wiki.openstreetmap.org/wiki/File:Air_France_seatback_map_display.jpg){:target="_blank"}
 * [阿拉斯加航空](https://twitter.com/openstreetmapes/status/554009623062388736){:target="_blank"}
-* [德國國鐵](https://wiki.openstreetmap.org/wiki/File:OpenStreetMap_in_an_IC2_carriage_(DB){:target="_blank"}.jpg)
+* [德國國鐵](https://wiki.openstreetmap.org/wiki/File:OpenStreetMap_in_an_IC2_carriage_(DB).jpg){:target="_blank"}
 * Grab
 * SNCF (法國鐵路局)
 * Uber
