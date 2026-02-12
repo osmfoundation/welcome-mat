@@ -104,5 +104,3 @@ lang: zh-tw
 * 無數電影與電視節目，例如 *銀翼殺手2049*
 
 再加上世界上許多大公司、中小企業，以及組織！
-
-要看更多使用開放街圖的例子，請參見我們[每週精選](https://wiki.openstreetmap.org/wiki/Featured_images){:target="_blank"}。
