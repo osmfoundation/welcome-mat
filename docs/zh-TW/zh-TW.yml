@@ -1,0 +1,47 @@
+en:
+  plugins:
+    - i18n:
+        languages:
+          - locale: zh-TW
+            name: 台灣華語
+            site_name: 歡迎來到開放街圖
+            copyright: © 2019 – 2025 開放街圖基金會，<a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank"><img alt="創用CC授權" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/2.0/80x15.png" /></a><br />這份工作成果以<a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank">創用CC相同方式分享 2.0 未在地化條款</a>釋出。
+            theme:
+              palette:
+                - toggle:
+                    name: 切換為淺色模式
+                - toggle:
+                    name: 切換為深色模式
+                - toggle:
+                    name: 切換為系統預設
+            extra:
+              announce:
+                toggle:
+                  - label: 顯示資訊
+                    icon: material/information-outline
+                  - label: 隱藏資訊
+                    icon: material/information
+                text: >-
+                  <p><a href="https://www.openstreetmap.org" target="_blank">開放街圖</a>社群以及<a href="https://osmfoundation.org" target="_blank">基金會</a>的歡迎墊板。開放街圖是由廣大的國際社群所創建與維護的免費與可編輯的全球地圖，任何人都能花幾分鐘時間申請新帳戶後就能開始在<a href="https://www.openstreetmap.org" target="_blank">開放街圖</a>編輯。</p> <p>這份指南以<a href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank">創用CC相同方式分享2.0一般條款</a>釋出。如果您想貢獻或是有回饋意見，請到這裡<a href="https://github.com/osmfoundation/welcome-mat/issues" target="_blank">程式庫</a>提議題。</p>
+            nav_translations:
+              Home: Home
+              What is OpenStreetMap: 什麼是開放街圖？
+              Who is OpenStreetMap: 誰是 OSM 的參與者與社群？
+              Why use OpenStreetMap: 為什麼要使用開放街圖？
+              How can we give back: 如何提供建議或回饋意見？
+              About Community: 開放街圖社群
+              History of OSM: 想瞭解開放街圖的歷史嗎？
+              OSMF: 什麼是開放街圖基金會？
+              Local Chapters: 如果組織在地分會？
+              Working Groups: 告訴我更多 OSM 基金會工作組織的資訊
+              Consumers: 誰會使用開放街圖？
+              OSM News: 開放街圖有什麼新消息？
+              Donate: 我們如何捐錢給開放街圖？
+              Contact: 如何聯擊？
+              Working with data: 處理開放街圖資料
+              Data quality: OSM 資料的品質如何？
+              Contribute data: 組織身份參與編輯開放街圖
+              Humanitarian campaign: 我們計劃在人道救援行動當中採用 OSM，有什麼注意事項？
+              Research with OSM: 我如何運用 OSM 在研究當中？
+              Find a developer: 我要在那裡找到懂得運用 OSM 的開發者或是公司？
+              Downloading and using: 下載與運用 OSM 資料

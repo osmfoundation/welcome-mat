@@ -15,6 +15,9 @@
       "organisation",
       "organisations",
       "organising"
+    ],
+    "githubPullRequests.ignoredPullRequestBranches": [
+      "main"
     ]
   }
   
