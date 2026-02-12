@@ -9,7 +9,7 @@ tile:
     image:
         src: about-osm-community.webp
         alt: SotM US 大會參與者大合照
-lang: zh-tw
+lang: zh-TW
 ---
 
 [開放街圖](https://openstreetmap.org){:target="_blank"}由史帝夫‧科斯特於2004年在英國創立, 之後由希望有自由與開放源碼資料的熱心人士組成的社群。自此之後整個計劃成長為擁有全球超過100萬貢獻者：個人志工、地圖愛好者、GIS與地理資料專家，使用地圖資料的公司，人道救援組織、政府機構等等。
