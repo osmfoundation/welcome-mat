@@ -12,6 +12,6 @@ lang: zh-tw
 
 如果你想聯繫社群詢問特定問題，試試透過 [OSM 聯繫管道](https://wiki.openstreetmap.org/wiki/Contact_channels){:target="_blank"} 頁面。
 
-關於捐款給 OSM 這裡還有 [更多資訊](/about-osm-community/donate-to-osm.md)。
+關於捐款給 OSM 這裡還有[更多資訊](/about-osm-community/donate-to-osm.md)。
 
 如果你有興趣貢獻或是捐款給開放街圖，或是有其他問題，請透過 at [board(at)osmfoundation.org](mailto:board@osmfoundation.org) 聯繫開放街圖基金會。
