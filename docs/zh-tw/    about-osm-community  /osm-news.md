@@ -1,7 +1,7 @@
 ---
 title: 開放街圖最新消息？
 description: 有許多方式能追蹤開放街圖的最新消息
-lang: zh-tw
+lang: zh-TW
 ---
 
 有許多方式能追蹤開放街圖的最新消息，如官方社群頻道 [https://twitter.com/openstreetmap](https://twitter.com/openstreetmap){:target="_blank"} 以及 [https://www.facebook.com/OpenStreetMap/](https://www.facebook.com/OpenStreetMap/){:target="_blank"}。
