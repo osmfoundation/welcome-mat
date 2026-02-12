@@ -8,7 +8,7 @@ OSM 社群歡迎研究團隊，而從加德滿都到柏林，已經有不少人�
 
 有個研究主題的郵件論壇：<a href="mailto:research-announce@lists.openstreetmap.org">research-announce@lists.openstreetmap.org</a>。
 
-要如何進行研究與尊循開放街圖署名義務的方式與建議在[這邊](https://wiki.openstreetmap.org/wiki/Researcher_Information){:target="_blank"}。
+要如何進行研究與遵循開放街圖署名義務的方式與建議在[這邊](https://wiki.openstreetmap.org/wiki/Researcher_Information){:target="_blank"}。
 
 你可以在 Google 學術搜尋或其他網路來源找到相關論文，但這邊列出[一些例子](https://wiki.openstreetmap.org/wiki/Research){:target="_blank"}能從頭開始。
 
