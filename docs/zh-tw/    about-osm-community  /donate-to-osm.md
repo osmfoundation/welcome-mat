@@ -24,7 +24,7 @@ OSM 相當精實，開放街圖基金會依靠個人與企業會員會費，年�
 
 ## 地方分會
 
-如果在你所在司法管轄區存在OSM地方分會，你也許能夠直接捐給他們。捐款給地方分會能夠幫他們在地方層級支援開放街圖專案以及社群，而且捐款給地方分會也許能夠抵稅。要瞭解更多，請直接詢問地方分會，你可以在 [OSM Wiki](https://wiki.openstreetmap.org/wiki/Foundation/Local_Chapters){:target="_blank"} 找到更多資訊。
+如果在你所在司法管轄區存在OSM地方分會，你也許能夠直接捐給他們。捐款給地方分會能夠幫他們在地方層級支援開放街圖專案以及社群，而且捐款給地方分會也許能夠抵稅。要瞭解更多，請直接詢問地方分會，你可以在 [開放街圖基金會](https://wiki.openstreetmap.org/wiki/Foundation/Local_Chapters){:target="_blank"} 找到更多資訊。
 
 ## 大會
 
