@@ -469,7 +469,7 @@ plugins:
             Research with OSM: Исследования с помощью OSM
             Find a developer: Где найти разработчика?
             Downloading and using: Загрузка и использование данных
-        - locale: zh-tw
+        - locale: zh-TW
           name: 臺灣華語
           default: true
           site_name: 歡迎來到開放街圖
