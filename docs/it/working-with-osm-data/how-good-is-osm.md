@@ -20,7 +20,7 @@ C’è una cosa certa a riguardo di OSM: migliora costantemente in tutte le regi
 
 I collegamenti qua sotto mostrano alcune statistiche che sono rilevanti per effettuare delle comparazioni con dati di terzi:
 
-- [http://www.missingmaps.org/osmstats/](http://www.missingmaps.org/osmstats/){:target="_blank"}
+- [https://stats.now.ohsome.org/](https://stats.now.ohsome.org/){:target="_blank"}
 - [https://mapbox.github.io/osm-analysis-collab/osm-quality](https://mapbox.github.io/osm-analysis-collab/osm-quality){:target="_blank"}
 
 È possibile trovare altre ricerche su OSM OpenStreetMap, inclusi molti articoli riguardanti la qualità dei dati, qui:

@@ -20,7 +20,7 @@ lang: bn
 
 নীচের লিঙ্কগুলি এমন কিছু পরিসংখ্যান প্রদর্শন করে যা তৃতীয় পক্ষের ডেটার সাথে তুলনা করার জন্য প্রাসঙ্গিক:
 
-- [http://www.missingmaps.org/osmstats/](http://www.missingmaps.org/osmstats/){:target="_blank"}
+- [https://stats.now.ohsome.org/](https://stats.now.ohsome.org/){:target="_blank"}
 - [https://mapbox.github.io/osm-analysis-collab/osm-quality](https://mapbox.github.io/osm-analysis-collab/osm-quality){:target="_blank"}
 
 ওপেনস্ট্রিটম্যাপ সম্পর্কে আরও গবেষণা, ডেটা মানের উপর অনেক গবেষণাপত্র সহ, এখানে পাওয়া যাবে:

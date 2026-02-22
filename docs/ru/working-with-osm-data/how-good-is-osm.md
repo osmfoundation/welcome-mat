@@ -20,7 +20,7 @@ lang: ru
 
 Приведённые ниже ссылки демонстрируют некоторые статистические данные, которые могут быть полезны для сравнения с данными третьих сторон:
 
-- [http://www.missingmaps.org/osmstats/](http://www.missingmaps.org/osmstats/){:target="_blank"}
+- [https://stats.now.ohsome.org/](https://stats.now.ohsome.org/){:target="_blank"}
 - [https://mapbox.github.io/osm-analysis-collab/osm-quality](https://mapbox.github.io/osm-analysis-collab/osm-quality){:target="_blank"}
 
 Больше исследований об OpenStreetMap, включая множество статей о качестве данных, можно найти здесь:

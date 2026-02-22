@@ -20,7 +20,7 @@ Jedno jest pewne, jeśli chodzi o projektu OSM; jest on stale ulepszany we wszys
 
 Poniższe linki przedstawiają niektóre statystyki, które są istotne dla dokonania porównania z danymi stron trzecich:
 
-- [http://www.missingmaps.org/osmstats/](http://www.missingmaps.org/osmstats/){:target="_blank"}
+- [https://stats.now.ohsome.org/](https://stats.now.ohsome.org/){:target="_blank"}
 - [https://mapbox.github.io/osm-analysis-collab/osm-quality](https://mapbox.github.io/osm-analysis-collab/osm-quality){:target="_blank"}
 
 Więcej badań na temat projektu OpenStreetMap, w tym wiele artykułów dotyczących jakości danych, można znaleźć tutaj:
