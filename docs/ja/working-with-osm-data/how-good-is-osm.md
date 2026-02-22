@@ -20,7 +20,7 @@ OSMについて確かなことが1つあります。すべての地域で常に�
 
 以下のリンクは、サードパーティのデータとの比較に関連する統計の一部を示しています。
 
-- [http://www.missingmaps.org/osmstats/](http://www.missingmaps.org/osmstats/){:target="_blank"}
+- [https://stats.now.ohsome.org/](https://stats.now.ohsome.org/){:target="_blank"}
 - [https://mapbox.github.io/osm-analysis-collab/osm-quality](https://mapbox.github.io/osm-analysis-collab/osm-quality){:target="_blank"}
 
 データ品質に関する多くの論文を含む、OpenStreetMapに関するその他の研究は、こちらでご覧いただけます。

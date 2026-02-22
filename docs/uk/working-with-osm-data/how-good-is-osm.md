@@ -20,7 +20,7 @@ lang: uk
 
 Посилання нижче демонструють деяку статистику, доречну для порівняння з іншими даними:
 
-- [http://www.missingmaps.org/osmstats/](http://www.missingmaps.org/osmstats/){:target="_blank"}
+- [https://stats.now.ohsome.org/](https://stats.now.ohsome.org/){:target="_blank"}
 - [https://mapbox.github.io/osm-analysis-collab/osm-quality](https://mapbox.github.io/osm-analysis-collab/osm-quality){:target="_blank"}
 
 Більше досліджень про OpenStreetMap, включаючи багато статей про якість даних, можна знайти тут: [https://wiki.openstreetmap.org/wiki/Research](https://wiki.openstreetmap.org/wiki/Uk:Research){:target="_blank"}.

@@ -20,7 +20,7 @@ lang: zh-TW
 
 以下展示統計與第三方資料比較的列表：
 
-- [http://www.missingmaps.org/osmstats/](http://www.missingmaps.org/osmstats/){:target="_blank"}
+- [https://stats.now.ohsome.org/](https://stats.now.ohsome.org/){:target="_blank"}
 - [https://mapbox.github.io/osm-analysis-collab/osm-quality](https://mapbox.github.io/osm-analysis-collab/osm-quality){:target="_blank"}
 
 這裡能找到更多開放街圖研究，包括許多研究資料品質的論文：
